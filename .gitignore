@@ -12,3 +12,11 @@ Cargo.lock
 
 # MSVC Windows builds of rustc generate these, which store debugging information
 *.pdb
+
+# Edgio generated build directory
+.edgio
+
+# Added
+public/
+node_modules/
+sw/
