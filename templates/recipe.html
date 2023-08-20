@@ -1,0 +1,24 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h1>{{ section.title }}</h1>
+<ul>
+  <div class="grid medium-space">
+    {% for page in section.pages %}
+    <div class="s6 m4 l4">
+      <article class="no-padding border round fill">
+        {% if page.extra.feature_image %}
+        <img class="responsive small top-round" src="{{ page.extra.feature_image }}">
+        {% endif %}
+        <div class="padding">
+          <h5>{{ page.title }}</h5>
+          <nav>
+            <a class="button" href="{{ page.permalink | safe }}">Voir la recette</a>
+          </nav>
+        </div>
+      </article>
+    </div>
+    {% endfor %}
+  </div>
+</ul>
+{% endblock content %}
