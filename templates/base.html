@@ -1,0 +1,33 @@
+{% import "footer.html" as footer %}
+
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="utf-8">
+    <title>Recettes de cuisine</title>
+    <link
+      href="https://cdn.jsdelivr.net/npm/beercss@3.3.1/dist/cdn/beer.min.css"
+      rel="stylesheet">
+
+    <script type="module"
+            src="https://cdn.jsdelivr.net/npm/beercss@3.3.1/dist/cdn/beer.min.js">
+    </script>
+
+    <script type="module"
+            src="https://cdn.jsdelivr.net/npm/material-dynamic-colors@1.0.1/dist/cdn/material-dynamic-colors.min.js">
+    </script>
+  </head>
+  <body>
+    <main class="responsive">
+      {% block content %} {% endblock %}
+    </main>
+
+    {# footer #}
+
+    <div>
+    {{ footer::social() }}
+    <div class="medium-divider"></div>
+    {{ footer::copyright() }}
+    </div>
+  </body>
+</html>
