@@ -1,0 +1,31 @@
+{% import "head.html" as head %}
+{% import "footer.html" as footer %}
+
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="utf-8">
+    <title>Recettes de cuisine</title>
+    {{ head::material() }}
+  </head>
+  <body>
+    <nav class="m l left">
+      <a href="/">
+        <i>home</i>
+        <span>Index</span>
+      </a>
+    </nav>
+
+    <main class="responsive">
+      {% block content %} {% endblock %}
+    </main>
+
+    {# footer #}
+
+    <div>
+    {{ footer::social() }}
+    <div class="medium-divider"></div>
+    {{ footer::copyright() }}
+    </div>
+  </body>
+</html>
