@@ -1,4 +1,5 @@
 {% import "head.html" as head %}
+{% import "nav.html" as nav %}
 {% import "footer.html" as footer %}
 
 <!DOCTYPE html>
@@ -13,15 +14,15 @@
     {{ head::material() }}
   </head>
   <body class="light">
+
+    <!-- for short screen -->
+    <nav class="s bottom">
+      {{ nav::routes() }}
+    </nav>
+
+    <!-- for medium and large -->
     <nav class="m l left">
-      <a href="/">
-        <i>home</i>
-        <span>Index</span>
-      </a>
-      <a href="/recette">
-        <i>info</i>
-        <span>Recettes</span>
-      </a>
+      {{ nav::routes() }}
     </nav>
 
     <main class="responsive">
