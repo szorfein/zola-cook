@@ -5,14 +5,22 @@
 <html lang="fr">
   <head>
     <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="google" content="notranslate">
     <title>Recettes de cuisine</title>
+    <link href="/site.css" type="text/css" rel="stylesheet" media="all">
     {{ head::material() }}
   </head>
-  <body>
+  <body class="light">
     <nav class="m l left">
       <a href="/">
         <i>home</i>
         <span>Index</span>
+      </a>
+      <a href="/recette">
+        <i>info</i>
+        <span>Recettes</span>
       </a>
     </nav>
 
@@ -22,9 +30,9 @@
 
     {# footer #}
 
-    <div>
+    <div class="rip"
     {{ footer::social() }}
-    <div class="medium-divider"></div>
+    <div>s="padding"></div>
     {{ footer::copyright() }}
     </div>
   </body>
