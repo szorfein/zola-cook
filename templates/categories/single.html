@@ -1,0 +1,15 @@
+{% import "material.html" as material %}
+{% extends "base.html" %}
+
+{% block content %}
+<header>
+  <nav>
+    <h5>{{ "Recettes dans la categorie " ~ term.name }}</h5>
+  </nav>
+</header>
+
+{% for post in term.pages %}
+{{ material::card(post=post) }}
+{% endfor %}
+
+{% endblock content %}
