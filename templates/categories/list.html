@@ -18,7 +18,7 @@
 </p>
 
 {% for category in terms %}
-<h5>{{ category.name }}</h5>
+<h5 class="capitalize">{{ category.name }}</h5>
 <div class="row scroll">
   {% for post in category.pages %}
   {{ material::card(post=post) }}
