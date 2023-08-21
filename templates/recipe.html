@@ -1,3 +1,5 @@
+{% import "material.html" as material %}
+
 {% extends "base.html" %}
 
 {% block content %}
@@ -10,18 +12,7 @@
 <div class="grid medium-space">
   {% for page in section.pages %}
   <div class="s6 m4 l4">
-    <article class="no-padding border round primary-container">
-      {% if page.extra.feature_image %}
-      <img class="responsive small top-round" src="{{ page.extra.feature_image }}">
-      {% endif %}
-      <div class="padding">
-        <h5>{{ page.title }}</h5>
-        <p>{{ page.content }}</p>
-        <nav>
-          <a class="button" href="{{ page.permalink | safe }}">Voir la recette</a>
-        </nav>
-      </div>
-    </article>
+    {{ material::card(post=page) }}
   </div>
   {% endfor %}
 </div>
