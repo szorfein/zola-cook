@@ -12,21 +12,21 @@ ingredients = [
   "300 gr de Lard de porc nature",
   "300 gr de Chipolatas",
   "300 gr de Saucisses de Toulouse",
-  "1 kg de Lentilles vert",
-  "4 Oignions",
+  "1 kg de Lentilles vertes",
+  "4 Oignons",
   "2 Poivrons",
   "6 gousses d'Ail",
   "500 gr de tomates",
   "Thym/Laurier",
 ]
 preparations = [
-  "Dans une marmite, faire cuire les lentilles avec le thym et le laurrier jusqu'a ce qu'elles soient ferme.",
-  "Une fois les lentilles cuite, les egouttez et garder le jus de cuisson.",
-  "Dans une casserole, faire cuire les viandes de porc avec les oignions, l'ails et les poivrons.",
+  "Dans une marmite, faire cuire les lentilles avec le thym et le laurier jusqu'a ce qu'elles soient ferme.",
+  "Une fois les lentilles cuites, les égoutter et garder le jus de cuisson.",
+  "Dans une casserole, faire cuire les viandes de porc avec les oignons, l'ail et les poivrons.",
   "Retirez les morceaux de viande dans un plat et ajoutez les tomates.",
-  "Dans une marmite, mélanger le jus des lentilles, le mélange de la casserole (oignions, poivrons, ails, tomates), vous pouvez mixer le mélange si vous n'aimez pas les morceaux.",
+  "Dans une marmite, mélanger le jus des lentilles, le mélange de la casserole (oignons, poivrons, ail, tomates), vous pouvez mixer le mélange si vous n'aimez pas les morceaux.",
   "Ajoutez les viandes, faire bouillir et remettre les lentilles.",
-  "Ajoutez du sel si besoin."
+  "Ajoutez du sel et de l'eau si besoin."
 ]
 +++
 
