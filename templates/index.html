@@ -1,8 +1,32 @@
+{% import "material.html" as material %}
 {% extends "base.html" %}
 
 {% block content %}
-<p>
-  Welcome to Zola Cook!<br />
-  Need an image here !
-</p>
+<header class="no-padding">
+  <img class="responsive" src="https://plus.unsplash.com/premium_photo-1668703459488-66a7445df882?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80">
+</header>
+
+<h4>Background</h4>
+<div class="medium-text">
+  <p>
+    Ce site contient de nombreuses recettes issue de la <a class="link" href="https://fr.wikipedia.org/wiki/Cuisine_pied-noire">cuisine pied-noire</a>.
+  </p>
+  <p>
+    D'autre fantaisie on été ajouté comme le <a class="link" href="/recettes/mojito">Mojito</a>.
+  </p>
+</div>
+
+{% set section = get_section(path="recettes/_index.md") %}
+
+<h4>Dernière Recettes</h4>
+<div class="grid">
+  {% for page in section.pages %}
+  {% if loop.index <= 6 %}
+  <div class="s6 m4 l3">
+     {{ material::card(post=page) }}
+  </div>
+  {% endif %}
+  {% endfor %}
+</div>
+
 {% endblock content %}
