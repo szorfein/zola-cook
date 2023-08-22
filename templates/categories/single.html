@@ -4,12 +4,16 @@
 {% block content %}
 <header>
   <nav>
-    <h5>{{ "Recettes dans la categorie " ~ term.name }}</h5>
+    <h5 class="max">{{ "Recettes dans la categorie " ~ term.name }}</h5>
   </nav>
 </header>
 
-{% for post in term.pages %}
-{{ material::card(post=post) }}
-{% endfor %}
+<div class="grid">
+  {% for post in term.pages %}
+  <div class="s6 m4 l3">
+    {{ material::card(post=post) }}
+  </div>
+  {% endfor %}
+</div>
 
 {% endblock content %}

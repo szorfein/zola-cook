@@ -1,8 +1,37 @@
+{% import "material.html" as material %}
 {% extends "base.html" %}
 
 {% block content %}
-<p>
-  Welcome to Zola Cook!<br />
-  Need an image here !
-</p>
+<header class="no-padding">
+  <img class="responsive round banner-img" src="https://images.unsplash.com/photo-1577214407836-1f3a0604ecb2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1336&q=80">
+  <div class="padding absolute center middle white-text">
+    <h1 class="upper">Zola cook</h1>
+  </div>
+</header>
+
+<div class="medium-space"></div>
+
+<h4>Background</h4>
+<div class="medium-text">
+  <p class="medium-line">
+    Ce site contient de nombreuses recettes issue de la <a class="link" href="https://fr.wikipedia.org/wiki/Cuisine_pied-noire">cuisine pied-noire</a>, vous trouverez de nombreuses recettes traditionel comme le Couscous, le Taboulé, les Macroutes, le Jéri à la menthe, les Briks, les Fricassé tunisien en passant par la pizza napolitaine, des sardines à l'escabech, etc...<br />
+    D'autre fantaisie on ou seront ajoutée comme le <a class="link" href="/recettes/mojito">Mojito</a>, brownie, une tarte au citron (un jour peut être :)).
+  </p>
+</div>
+
+<div class="medium-space"></div>
+
+{% set section = get_section(path="recettes/_index.md") %}
+
+<h4>Dernière Recettes</h4>
+<div class="grid">
+  {% for page in section.pages %}
+  {% if loop.index <= 6 %}
+  <div class="s6 m4 l3">
+     {{ material::card(post=page) }}
+  </div>
+  {% endif %}
+  {% endfor %}
+</div>
+
 {% endblock content %}
