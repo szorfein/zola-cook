@@ -16,11 +16,11 @@ ingredients = [
   "Eau gazeuse"
 ]
 preparations = [
-  "Dans un verre, ajoutez les feuilles de menthe, le sucre et le jus de citron.",
-  "Avec un pillon, écraser le tout grossièrement.",
-  "Ajoutez le Rhum avec un peu d'eau gazeuse, mélanger pour faire remonter les feuilles de menthe.",
-  "Ajoutez 5-6 glaçons, completez le verre d'eau gazeuse."
+  "Dans un verre, ajouter les feuilles de menthe, le sucre et le jus de citron.",
+  "Avec un pilon, écraser le tout grossièrement.",
+  "Ajouter le rhum avec un peu d'eau gazeuse, mélanger pour faire remonter les feuilles de menthe.",
+  "Ajouter 5-6 glaçons, completer le verre d'eau gazeuse."
 ]
 +++
 
-Voici la recette du Mojito.
+Voici la recette du Mojito pour un verre de 25 cl.
