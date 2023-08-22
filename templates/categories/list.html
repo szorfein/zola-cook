@@ -10,8 +10,8 @@
 
 <p>
 {% for category in terms %}
-<a class="button border" href="{{ category.permalink | safe }}">
-  <span class="badge round">{{ category.pages | length }}</span>
+<a class="chip" href="{{ category.permalink | safe }}">
+  <span class="badge round secondary">{{ category.pages | length }}</span>
   {{ category.name }}
 </a>
 {% endfor %}
@@ -19,9 +19,11 @@
 
 {% for category in terms %}
 <h5 class="capitalize">{{ category.name }}</h5>
-<div class="row scroll">
+<div class="grid">
   {% for post in category.pages %}
-  {{ material::card(post=post) }}
+  <div class="s6 m4 l3">
+    {{ material::card(post=post) }}
+  </div>
   {% endfor %}
 </div>
 {% endfor %}
