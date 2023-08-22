@@ -1,8 +1,10 @@
 # zola-cook
 A static site with famillial cooking recipes, made with
-[zola](https://www.getzola.org/) and deployed with [edgio](https://edgio.app/).
+[Zola](https://www.getzola.org/) and deployed with [Edgio](https://edgio.app/).
 
 [BeerCSS](https://www.beercss.com/) is used to build a [Material Design](https://m3.material.io/).
+
+Many images used on the site come from [Unsplash](https://unsplash.com).
 
 ## Install
 The site is deployed with edgio, you need to install the cli tool:
