@@ -3,18 +3,23 @@
 
 {% block content %}
 <header class="no-padding">
-  <img class="responsive" src="https://plus.unsplash.com/premium_photo-1668703459488-66a7445df882?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80">
+  <img class="responsive round banner-img" src="https://images.unsplash.com/photo-1577214407836-1f3a0604ecb2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1336&q=80">
+  <div class="padding absolute center middle white-text">
+    <h1 class="upper">Zola cook</h1>
+  </div>
 </header>
+
+<div class="medium-space"></div>
 
 <h4>Background</h4>
 <div class="medium-text">
-  <p>
-    Ce site contient de nombreuses recettes issue de la <a class="link" href="https://fr.wikipedia.org/wiki/Cuisine_pied-noire">cuisine pied-noire</a>.
-  </p>
-  <p>
-    D'autre fantaisie on été ajouté comme le <a class="link" href="/recettes/mojito">Mojito</a>.
+  <p class="medium-line">
+    Ce site contient de nombreuses recettes issue de la <a class="link" href="https://fr.wikipedia.org/wiki/Cuisine_pied-noire">cuisine pied-noire</a>, vous trouverez de nombreuses recettes traditionel comme le Couscous, le Taboulé, les Macroutes, le Jéri à la menthe, les Briks, les Fricassé tunisien en passant par la pizza napolitaine, des sardines à l'escabech, etc...<br />
+    D'autre fantaisie on ou seront ajoutée comme le <a class="link" href="/recettes/mojito">Mojito</a>, un brownie, la tarte au citron (un jour peu être :)).
   </p>
 </div>
+
+<div class="medium-space"></div>
 
 {% set section = get_section(path="recettes/_index.md") %}
 
