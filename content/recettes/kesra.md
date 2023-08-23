@@ -16,7 +16,7 @@ ingredients = [
   "40 ml d'huile d'olive",
   "1 cac sel",
   "1 cac sucre",
-  "10 gr de levure boulangère déshidraté ou 20 gr de levure boulangère en cube.",
+  "10 gr de levure boulangère sèche ou 20 gr de levure boulangère fraîche.",
 ]
 preparations = [
   "Dans un saladier, mélanger l'eau avec la levure et le sucre.",
@@ -25,11 +25,11 @@ preparations = [
   "1 heure plus tard, ajouter la semoule et le sel, pétrir la pâte.",
   "Ajoutez l'huile d'olive et pétrir pendant 1 minute pour bien incorporer l'huile.",
   "Remettre la pâte dans un saladier et faire reposer pendant 1 heure.",
-  "Séparer la pâte en 2 part et faire de belle boules.",
+  "Séparer la pâte en 2 parts et faire de belle boules.",
   "Sur un chiffon propre, ajouter de la semoule fine et poser les boules dessus.",
   "Applatir les boules à la main pour former 2 cercles de 2 cm d'épaisseur.",
   "Laisser poser 30 minutes.",
-  "Dans un poele bien chaude (sans matière grasse), faite cuire les galettes une par une a feu moyen en les retournant toutes les minutes pendant 5 minutes."
+  "Dans une poêle bien chaude (sans matière grasse), faite cuire les galettes une par une à feu moyen en les retournant toutes les minutes pendant 5 minutes."
 ]
 +++
 

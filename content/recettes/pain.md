@@ -13,7 +13,7 @@ ingredients = [
   "200 ml d'eau",
   "4 gr de sel",
   "4 gr de sucre",
-  "7 gr de levure boulangère en cube ou 1 sachet de levure boulangère deshydraté.",
+  "7 gr de levure boulangère fraîche ou 1 sachet de levure boulangère sèche.",
   "1 cas d'huile d'olive"
 ]
 preparations = [
