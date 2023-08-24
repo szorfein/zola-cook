@@ -43,10 +43,12 @@
     <h3>Préparation</h3>
     {% for task in page.extra.preparations %}
     <div class="row">
-      <i class="light-green-text">check_circle</i>
-      <div class="max">
-         {{ task }}
+      <div>
+        <button class="border small secondary-text secondary-border">
+          {{ loop.index }}
+        </button>
       </div>
+      <div class="max">{{ task }}</div>
     </div>
     {% endfor %}
   </div>
