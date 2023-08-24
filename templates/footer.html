@@ -1,33 +1,41 @@
+{% macro about() %}
+<div>
+  <h6>À propos</h6>
+  <p>hello</p>
+</div>
+{% endmacro about %}
+
 {% macro social() %}
-<div class="padding center-align">
-  <div class="grid">
-    <div class="s12 m8 l6">
-      hello
-    </div>
-    <div class="s12 m4 l6">
-      <table>
-        <thead>
-          <tr>
-            <th><h6>Social</h6></th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td>
-              <a class="link" href="https://github.com/szorfein">
-                Github
-              </a>
-            </td>
-          </tr>
-          <tr>
-            <td><a class="link" href="/atom.xml">Blog RSS</a></td>
-          </tr>
-        </tbody>
-      </table>
-    </div>
-  </div>
+<div>
+  <h6>Social</h6>
+  <table>
+    <tbody>
+      <tr>
+        <td>
+          <a class="link" href="https://github.com/szorfein">
+            Github
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td><a class="link" href="/atom.xml">Blog RSS</a></td>
+      </tr>
+    </tbody>
+  </table>
 </div>
 {% endmacro social %}
+
+{% macro information() %}
+<div>
+  <h6>Informations</h6>
+  <div class="row">
+    <a class="link" href="/politique-de-confidentialite">Politique de confidentialité</a>
+  </div>
+  <div class="row">
+    <a class="link" href="/mention-legales">Mention légales</a>
+  </div>
+</div>
+{% endmacro information %}
 
 {% macro copyright() %}
 <div class="no-padding bottom-align center-align">
