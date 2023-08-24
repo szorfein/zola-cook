@@ -3,7 +3,7 @@ title = "Lentilles"
 date = 2023-08-21
 
 [taxonomies]
-categories = ["soupe"]
+categories = ["plat principal"]
 
 [extra]
 feature_image = "https://images.unsplash.com/photo-1583592655948-4742830f0072?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80"
