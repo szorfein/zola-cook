@@ -1,0 +1,18 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<header>
+  <nav>
+    <a class="button circle transparent" href="/">
+      <i>arrow_back</i>
+    </a>
+    <h5 class="max">{{ page.title }}</h5>
+  </nav>
+</header>
+
+<div class="padding medium-line">
+  {{ page.content | safe }}
+</div>
+
+{% endblock content %}

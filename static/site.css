@@ -8,3 +8,7 @@
     border-bottom: 1px solid #000;
     padding: 1.4rem;
 }
+
+.cat-badge {
+    height: 5rem;
+}

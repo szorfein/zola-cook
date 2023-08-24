@@ -8,14 +8,14 @@
   </nav>
 </header>
 
-<p>
+<nav class="scroll cat-badge">
 {% for category in terms %}
 <a class="chip" href="{{ category.permalink | safe }}">
   <span class="badge round secondary">{{ category.pages | length }}</span>
   {{ category.name }}
 </a>
 {% endfor %}
-</p>
+</nav>
 
 {% for category in terms %}
 <h5 class="capitalize">{{ category.name }}</h5>
