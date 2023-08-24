@@ -30,8 +30,18 @@
     </main>
 
     {# footer #}
-    <div class="rip">
-      {{ footer::social() }}
+    <div class="rip responsive">
+      <div class="grid">
+        <div class="s12 m12 l6">
+          {{ footer::about() }}
+        </div>
+        <div class="s6 m6 l3">
+          {{ footer::social() }}
+        </div>
+        <div class="s6 m6 l3">
+          {{ footer::information() }}
+        </div>
+      </div>
     </div>
     <div class="padding">
       {{ footer::copyright() }}
