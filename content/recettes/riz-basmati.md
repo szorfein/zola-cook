@@ -25,4 +25,4 @@ preparations = [
   "Verser l'eau et le sel, couvrir et cuire a feu doux jusqu'a absorsion (environ 15 minutes)."
 ]
 +++
-Un riz parfumé au cargamone et à la cannelle pour 2 personnes cuit en pilaf.
+Un riz parfumé au cargamone et à la cannelle pour 2 personnes. Cuisson en pilaf.

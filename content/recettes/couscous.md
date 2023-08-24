@@ -41,7 +41,7 @@ preparations = [
   "Ajouter les oignons et l'ail.",
   "Ajouter les tomates et les épices (ras el hanout, sel, sucre)",
   "Mettre un peu d'eau et verser tout le contenu dans la grande marmite.",
-  "Dans la grande marmite, ajouter les navets, la boite de concenté de tomates et faire cuire pendant 1h30 à feu doux.",
+  "Dans la grande marmite, ajouter les navets, la boite de concenté de tomates, couvrir et faire cuire pendant 1h30 à feu doux.",
   "Pour la sauce piquante, prendre un bol, mettre une bonne cac d'harissa, completé avec le jus du couscous et mélanger.",
 ]
 +++
