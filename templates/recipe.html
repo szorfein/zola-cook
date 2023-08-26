@@ -10,10 +10,43 @@
 </header>
 
 <div class="grid medium-space">
-  {% for page in section.pages %}
+  {% for page in paginator.pages %}
   <div class="s6 m4 l3">
     {{ material::card(post=page) }}
   </div>
   {% endfor %}
 </div>
+
+<nav class="scroll">
+  <div class="center-align">
+  {% if paginator.previous %}
+    <a class="button circle small secondary" href="{{ paginator.previous }}">
+      <i>arrow_back</i>
+    </a>
+  {% else %}
+    <button class="circle small secondary" disabled>
+      <i>arrow_back</i>
+    </button>
+  {% endif %}
+    <div class="small margin">Précèdente</div>
+  </div>
+  <div class="max divider"></div>
+  <div class="center-align">
+    <button class="circle small secondary">{{ paginator.current_index }}</button>
+    <div class="small-margin">Index</div>
+  </div>
+  <div class="max divider"></div>
+  <div class="center-align">
+  {% if paginator.next %}
+    <a class="button circle small secondary" href="{{ paginator.next }}">
+      <i>arrow_forward</i>
+    </a>
+  {% else %}
+    <button class="circle small secondary" disabled>
+      <i>arrow_forward</i>
+    </button>
+  {% endif %}
+    <div class="small margin">Suivante</div>
+  </div>
+</nav>
 {% endblock content %}
