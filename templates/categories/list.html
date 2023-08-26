@@ -18,14 +18,24 @@
 </nav>
 
 {% for category in terms %}
+<div>
 <h5 class="capitalize">{{ category.name }}</h5>
 <div class="grid">
-  {% for post in category.pages %}
+{% for post in category.pages %}
+  {% if loop.index <= 4 %}
   <div class="s6 m4 l3">
     {{ material::card(post=post) }}
   </div>
-  {% endfor %}
+{% endif %}
+{% endfor %}
 </div>
+<div class="space"></div>
+<a class="button border small-elevate secondary-border secondary-text" href="{{ category.permalink | safe }}">
+  <i>arrow_forward</i>
+  Voir les recettes pour <span class="capitalize">{{ category.name }}</span>
+</a>
+</div>
+<div class="medium-space"></div>
 {% endfor %}
 
 {% endblock content %}

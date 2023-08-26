@@ -1,4 +1,5 @@
 {% import "material.html" as material %}
+{% import "macros/paginate.html" as paginate %}
 
 {% extends "base.html" %}
 
@@ -10,10 +11,13 @@
 </header>
 
 <div class="grid medium-space">
-  {% for page in section.pages %}
+  {% for page in paginator.pages %}
   <div class="s6 m4 l3">
     {{ material::card(post=page) }}
   </div>
   {% endfor %}
 </div>
+
+{{ paginate::buttons(paginator=paginator) }}
+
 {% endblock content %}
