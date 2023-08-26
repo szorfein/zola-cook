@@ -22,8 +22,9 @@ ingredients = [
 preparations = [
   "Dans une marmite, faites cuire les lentilles avec le thym et le laurier jusqu'a ce qu'elles soient ferme.",
   "Une fois les lentilles cuites, les égouttées et garder le jus de cuisson.",
-  "Dans une casserole, faites cuire les viandes de porc avec les oignons, l'ail et les poivrons.",
-  "Retirer les morceaux de viande dans un plat et ajouter les tomates.",
+  "Dans une casserole, faites cuire les viandes de porc puis metter les de coté.",
+  "Ajouter les oignons, l'ail et les poivrons, bien faire cuire.",
+  "Ajouter les tomates cuire 5 minutes.",
   "Dans une marmite, mélanger le jus des lentilles, le mélange de la casserole (oignons, poivrons, ail, tomates), vous pouvez mixer le mélange si vous n'aimez pas les morceaux.",
   "Ajouter les viandes, faites bouillir et remettre les lentilles.",
   "Ajouter du sel et de l'eau si besoin."

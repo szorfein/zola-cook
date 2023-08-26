@@ -14,7 +14,7 @@ ingredients = [
   "200 gr de farine T45 ou T55",
   "200 ml d'eau",
   "40 ml d'huile d'olive",
-  "2 cac sel",
+  "1 bonne cac sel (5 gr)",
   "1 cac sucre",
   "10 gr de levure boulangère sèche ou 20 gr de levure boulangère fraîche.",
 ]
@@ -27,10 +27,10 @@ preparations = [
   "Remettre la pâte dans un saladier et faire reposer pendant 1 heure.",
   "Séparer la pâte en 2 parts (environ 320 gr) et faire de belle boules.",
   "Sur un chiffon propre, ajouter de la semoule fine et poser les boules dessus.",
-  "Applatir les boules à la main pour former 2 cercles de 2 cm d'épaisseur.",
+  "Applatir les boules à la main pour former 2 cercles.",
   "Saupoudrer les galettes de semoule et recouvrir d'un chiffon.",
   "Laisser poser 30 à 40 minutes.",
-  "Dans une poêle bien chaude (sans matière grasse), faite cuire les galettes une par une à feu moyen en les retournant toutes les minutes pendant 5 minutes.",
+  "Dans une poêle bien chaude (sans matière grasse), faite cuire les galettes une par une à feu moyen pendant 5 minutes, à retourner toutes les 2 minutes 30 à peu près.",
   "N'hesiter pas à enlever la semoule qui brûle assez vite ou à baisser le feux si besoin."
 ]
 +++

@@ -45,6 +45,6 @@ preparations = [
   "Pour la sauce piquante, prendre un bol, mettre une bonne cac d'harissa, completé avec le jus du couscous et mélanger.",
 ]
 +++
-Couscous à préparer la veille, on peut utilisé n'importe quelle légumes de saison.
+Couscous à préparer la veille, on peut utilisé n'importe quel légume de saison.
 
 Servir avec sa {{ link(url="/recettes/semoule-couscous", word="semoule") }}
