@@ -13,21 +13,21 @@ ingredients = [
   "2 poivrons rouge ou/et vert",
   "800 gr de tomates fraîche ou en boîte concassées",
   "3 gousses d'ail",
-  "1-2 cas tige de coriande fraîche haché",
+  "1-2 cas de tige de coriande fraîche haché ou 1 cac de coriande en poudre",
   "6 feuilles de coriande fraîche",
   "4 oeufs (1 par personne)",
-  "1 cac ras el hanout",
+  "1 cac de paprika",
   "1 cac sel",
   "1 cac sucre",
   "huile d'olive",
-  "1 piment (facultatif)"
+  "1 piment frais ou 1 cac de piment en poudre (facultatif)"
 ]
 preparations = [
   "Emincer les oignons et les poivrons.",
   "Dans une casserole, ajouter 3 cas d'huile d'olive.",
   "Faite cuire les oignons et les poivrons à feux moyen/doux.",
-  "Ajouter le piment si vous voulez en mettre.",
-  "Une fois les légumes cuits, ajouter le ras el hanout, poivre, sucre et sel.",
+  "Ajouter le piment frais si vous voulez en mettre.",
+  "Une fois les légumes cuits, ajouter le paprika, poivre, sucre et sel.",
   "Ajouter les tomates, l'ail écrasé et les tiges de coriande, faire cuire 10-15 minutes.",
   "Faire 4 trous avec une cuillère en bois et y placer les 4 oeufs",
   "Recouvrir la casserole pour cuire les oeufs pendant 5 ou 6 minutes.",
