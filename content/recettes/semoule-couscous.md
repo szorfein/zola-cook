@@ -18,12 +18,12 @@ ingredients = [
 preparations = [
   "Commencer à faire chauffer le couscoussier.",
   "Dans une guessaa ou directement sur une table propre, verser la semoule.",
-  "Préparer un récipient avec la moitié de l'eau (500 ml) et metter du sel à votre convenance (environ 2 cac).",
-  "Verser l'eau salée tout doucement sur la semoule en mélangeant du bout des doigts.",
-  "Ajouter 5 cac d'huile d'olive et mélanger jusqu'à enlever tous les grumeaux.",
+  "Ajouter 5 cac d'huile d'olive et mélanger",
+  "Préparer un récipient avec la moitié de l'eau (500 ml) et ajouter du sel à votre convenance (environ 2 cac).",
+  "Verser l'eau salée tout doucement sur la semoule en mélangeant du bout des doigts jusqu'a enlever tout les grumeaux.",
   "Dès que la semoule est prête et que l'eau du couscoussier bout, commencer une 1ère cuisson de la graine.",
   "La cuisson est finie dès que les grains de semoule au dessus du couscoussier sont brûlant.",
-  "Verser la semoule sur la table ou votre guessaa et recommencer les étapes 3, 4, 5 et 6.",
+  "Verser la semoule sur la table ou votre guessaa et recommencer les étapes 3, 4, 5, 6 et 7.",
   "Après la seconde cuisson, verser la semoule sur la table. Ajouter le beurre coupé en morceau et laisser refroidir.",
   "Mélanger avant de servir."
 ]
