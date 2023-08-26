@@ -29,7 +29,7 @@ preparations = [
   "Ajouter le piment frais si vous voulez en mettre.",
   "Une fois les légumes cuits, ajouter le paprika, poivre, sucre et sel.",
   "Ajouter les tomates, l'ail écrasé et les tiges de coriande, faire cuire 10-15 minutes.",
-  "Faire 4 trous avec une cuillère en bois et y placer les 4 oeufs",
+  "Faire 4 trous avec une cuillère en bois et y casser les 4 oeufs",
   "Recouvrir la casserole pour cuire les oeufs pendant 5 ou 6 minutes.",
   "Ajouter 5-6 feuilles de coriande fraîche ciselé."
 ]

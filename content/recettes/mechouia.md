@@ -3,7 +3,7 @@ title = "Mechouïa"
 date = "2023-08-26"
 
 [taxonomies]
-categories = ["entrée"]
+categories = ["salade"]
 
 [extra]
 feature_image = "http://www.gillespudlowski.com/wp-content/uploads/2014/03/l1000164.jpg"

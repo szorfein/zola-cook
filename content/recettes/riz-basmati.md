@@ -15,14 +15,14 @@ ingredients = [
   "1/4 de baton de cannelle",
   "2 clous de girofle",
   "2 feuilles de laurier",
-  "1 pincé de gros sel",
+  "1 pincée de gros sel",
   "huile de tournesol"
 ]
 preparations = [
-  "Rincer le riz dans de l'eau au moin 1 fois puis égouté le.",
-  "Faire revenir les épices dans une sauteuse à feu doux avec 3 cas d'huile pendant 2-3 minutes.",
+  "Rincer le riz dans de l'eau au moins 1 fois puis égouté le.",
+  "Faire revenir les épices dans une sauteuse à feu doux avec 3 cas d'huile pendant 2-3 minutes (ne pas faire brûler).",
   "Ajoutez le riz, faites le revenir pendant environ 5 minutes en remuant de temps en temps.",
-  "Verser l'eau et le sel, couvrir et cuire a feu doux jusqu'a absorsion (environ 15 minutes)."
+  "Verser l'eau et le sel, couvrir et cuire à feu doux jusqu'a absorsion (environ 10-15 minutes)."
 ]
 +++
-Un riz parfumé au cargamone et à la cannelle pour 2 personnes. Cuisson en pilaf.
+Un riz parfumé au cardamome et à la cannelle pour 2 personnes. Cuisson en pilaf.
