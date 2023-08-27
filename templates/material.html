@@ -12,3 +12,10 @@
   </div>
 </article>
 {% endmacro %}
+
+{% macro default_card(title, content) %}
+<article class="round">
+  <h5>{{ title }}</h5>
+  <p>{{ content }}</p>
+</article>
+{% endmacro %}
