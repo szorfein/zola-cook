@@ -18,7 +18,7 @@
 </nav>
 
 {% for category in terms %}
-<div>
+<article class="round">
 <h5 class="capitalize">{{ category.name }}</h5>
 <div class="grid">
 {% for post in category.pages %}
@@ -29,12 +29,12 @@
 {% endif %}
 {% endfor %}
 </div>
-<div class="space"></div>
+<div class="medium-space"></div>
 <a class="button border small-elevate secondary-border secondary-text" href="{{ category.permalink | safe }}">
   <i>arrow_forward</i>
   Voir les recettes pour <span class="capitalize">{{ category.name }}</span>
 </a>
-</div>
+</article>
 <div class="medium-space"></div>
 {% endfor %}
 
