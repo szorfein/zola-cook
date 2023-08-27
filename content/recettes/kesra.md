@@ -6,8 +6,7 @@ date = 2023-08-23
 categories = ["pain"]
 
 [extra]
-# feature_image = "https://tasteofmaroc.com/wp-content/uploads/2017/08/khobz-picturepartners-bigstock-Moroccan-bread-and-tagine-on-t-65143975.jpg"
-feature_image = "https://i.pinimg.com/originals/e6/14/1f/e6141ff0c5ba797579728813ebc52220.jpg"
+feature_image = "https://live.staticflickr.com/65535/53142416927_42e9eec96d_o.jpg"
 feature = true
 ingredients = [
   "200 gr de semoule extra-fine",
