@@ -3,6 +3,10 @@
 
 {% extends "base.html" %}
 
+{% block title %}
+{{ head::title(name = "Toutes les recettes pour " ~ term.name) }}
+{% endblock title %}
+
 {% block content %}
 
 <header>

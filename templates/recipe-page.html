@@ -1,5 +1,9 @@
 {% extends "base.html" %}
 
+{% block title %}
+{{ head::title(name = page.title ~ " | Zola-Cook") }}
+{% endblock title %}
+
 {% block content %}
 <header>
   <nav>

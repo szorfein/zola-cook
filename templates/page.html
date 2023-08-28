@@ -1,4 +1,9 @@
 {% extends "base.html" %}
+{% import "material.html" as material %}
+
+{% block title %}
+{{ head::title(name = page.title ~ " | Zola-Cook") }}
+{% endblock title %}
 
 {% block content %}
 

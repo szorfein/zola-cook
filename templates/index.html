@@ -1,5 +1,10 @@
 {% import "material.html" as material %}
+{% import "head.html" as head %}
 {% extends "base.html" %}
+
+{% block title %}
+{{ head::title(name = "Zola-Cook") }}
+{% endblock title %}
 
 {% block content %}
 <header class="no-padding">
