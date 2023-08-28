@@ -1,5 +1,9 @@
 {% extends "base.html" %}
 
+{% block title %}
+{{ head::title(name = page.title ~ " | Zola-Cook") }}
+{% endblock title %}
+
 {% block content %}
 <header>
   <nav>
@@ -48,7 +52,7 @@
           {{ loop.index }}
         </button>
       </div>
-      <div class="max">{{ task }}</div>
+      <div class="max">{{ task | safe }}</div>
     </div>
     {% endfor %}
   </div>

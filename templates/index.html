@@ -1,5 +1,10 @@
 {% import "material.html" as material %}
+{% import "head.html" as head %}
 {% extends "base.html" %}
+
+{% block title %}
+{{ head::title(name = "Zola-Cook") }}
+{% endblock title %}
 
 {% block content %}
 <header class="no-padding">
@@ -14,8 +19,8 @@
 <h4>Background</h4>
 <div class="medium-text">
   <p class="medium-line">
-    Ce site contient de nombreuses recettes issue de la <a class="link" href="https://fr.wikipedia.org/wiki/Cuisine_pied-noire">cuisine pied-noire</a>, vous trouverez de nombreuses recettes traditionel comme le <a class="link" href="/recettes/couscous">couscous</a>, le taboulé, les macroutes, le jéri à la menthe, les briks, les fricassés tunisien en passant par la pizza napolitaine, des sardines à l'escabech, etc...<br />
-    D'autres fantaisies sont ou seront ajoutées comme le <a class="link" href="/recettes/mojito">mojito</a>, brownie, une tarte au citron (un jour peut être :)).
+    Ce site contient de nombreuses recettes issue de la cuisine <a class="link" href="https://fr.wikipedia.org/wiki/Cuisine_pied-noire">pied-noire</a>, <a class="link" href="https://fr.wikipedia.org/wiki/Cuisine_des_pays_du_Maghreb">algérienne</a>, <a class="link" href="https://fr.wikipedia.org/wiki/Cuisine_m%C3%A9diterran%C3%A9enne">méditerranéenne</a>, <a class="link" href="https://fr.wikipedia.org/wiki/Cuisine_maltaise">maltaise</a> et d'autres contrées, vous trouverez de nombreuses recettes comme le <a class="link" href="/recettes/couscous">couscous</a>, <a class="link" href="/recettes/taboule">le taboulé</a>, les makrouts, le jéri à la menthe, les briks (<a class="link" href="/recettes/bricks-au-thon">au thon</a>), les fricassés tunisien en passant par la pizza napolitaine, des sardines à l'escabech, etc...<br />
+    D'autres fantaisies sont ou seront ajoutées comme le <a class="link" href="/recettes/mojito">mojito</a>, <a class="link" href="/recettes/brownie">brownie</a>, une tarte au citron (un jour peut être :)).
   </p>
 </div>
 

@@ -1,5 +1,5 @@
 # zola-cook
-A static site with famillial cooking recipes, made with
+A static site with famillial cooking recipes in french (some cooking recipes are very hard to translate and quantity to convert in oz, cup or other... Just to boring for me :)), made with
 [Zola](https://www.getzola.org/) and deployed with [Edgio](https://edgio.app/).
 
 [BeerCSS](https://www.beercss.com/) is used to build a [Material Design](https://m3.material.io/).
