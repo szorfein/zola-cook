@@ -28,4 +28,4 @@ preparations = [
   "Eteigner le four et laisser le brownie 5 minutes de plus à l'intérieur."
 ]
 +++
-Brownie fondant à couper en 9 parts, excellent avec du café/glace ou du caramel.
+Brownie fondant à couper en 9 parts, excellent avec du café/glace ou du nappage chocolat ou caramel.

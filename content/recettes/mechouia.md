@@ -1,12 +1,14 @@
 +++
-title = "Mechouïa"
+title = "Méchouïa"
 date = "2023-08-26"
 
 [taxonomies]
 categories = ["salade"]
 
 [extra]
-feature_image = "http://www.gillespudlowski.com/wp-content/uploads/2014/03/l1000164.jpg"
+feature_image = "https://live.staticflickr.com/65535/53143475033_9c244fd76c_k.jpg"
+feature = true
+
 ingredients = [
   "4 poivrons",
   "4 tomates",

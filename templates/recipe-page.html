@@ -48,7 +48,7 @@
           {{ loop.index }}
         </button>
       </div>
-      <div class="max">{{ task }}</div>
+      <div class="max">{{ task | safe }}</div>
     </div>
     {% endfor %}
   </div>
