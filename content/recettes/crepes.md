@@ -20,7 +20,7 @@ ingredients = [
 preparations = [
   "Armer vous d'une spatule en bois.",
   "Dans un saladier, commencer à battre les oeufs, le sucre et la levure chimique.",
-  "Ajouter de la farine jusqu'a ce que ca deviennent dur à remuer.",
+  "Ajouter de la farine jusqu'a ce que ça devienne dur à remuer.",
   "Ajouter un peu de lait.",
   "Et continuer les étapes 3 et 4 jusqu'a épuisement de la farine et du lait :)",
   "A la fin, faire fondre le beurre et ajouter le avec le rhum, le sel et le sucre vanillé.",
