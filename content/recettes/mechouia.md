@@ -1,5 +1,5 @@
 +++
-title = "Mechouïa"
+title = "Méchouïa"
 date = "2023-08-26"
 
 [taxonomies]

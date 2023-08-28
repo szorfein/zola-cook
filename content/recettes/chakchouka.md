@@ -18,15 +18,15 @@ ingredients = [
   "4 oeufs (1 par personne)",
   "1 cac de paprika",
   "1 cac sel",
-  "1 cac sucre",
+  "1 cac sucre (si les tomates sont acide)",
   "huile d'olive",
-  "1 piment frais ou 1 cac de piment en poudre (facultatif)"
+  "1 piment vert ou 1 cac de piment en poudre (facultatif)"
 ]
 preparations = [
   "Emincer les oignons et les poivrons.",
   "Dans une casserole, ajouter 3 cas d'huile d'olive.",
   "Faite cuire les oignons et les poivrons à feux moyen/doux.",
-  "Ajouter le piment frais si vous voulez en mettre.",
+  "Ajouter le piment vert si vous voulez en mettre.",
   "Une fois les légumes cuits, ajouter le paprika, poivre, sucre et sel.",
   "Ajouter les tomates, l'ail écrasé et les tiges de coriande, faire cuire 10-15 minutes.",
   "Faire 4 trous avec une cuillère en bois et y casser les 4 oeufs",

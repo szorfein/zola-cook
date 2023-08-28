@@ -3,7 +3,7 @@ title = "Taboulé"
 date = 2023-08-27
 
 [taxonomies]
-categories = ["salade"]
+categories = ["accompagnement"]
 
 [extra]
 feature_image = "https://live.staticflickr.com/3854/14681518097_56b615b71b_o.jpg"
@@ -36,4 +36,4 @@ preparations = [
 ]
 +++
 
-Taboulé bien parfumé à préparer la veille.
+Taboulé bien parfumé à préparer la veille pour 8 personnes.
