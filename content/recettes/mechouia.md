@@ -6,7 +6,7 @@ date = "2023-08-26"
 categories = ["salade"]
 
 [extra]
-feature_image = "https://live.staticflickr.com/65535/53143475033_9c244fd76c_k.jpg"
+feature_image = "https://ik.imagekit.io/eaec9qogv/zola/mechouia.jpg?updatedAt=1693288468568"
 feature = true
 
 ingredients = [

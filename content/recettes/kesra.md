@@ -6,7 +6,7 @@ date = 2023-08-23
 categories = ["pain"]
 
 [extra]
-feature_image = "https://live.staticflickr.com/65535/53142416927_42e9eec96d_o.jpg"
+feature_image = "https://ik.imagekit.io/eaec9qogv/zola/kesra.jpg?updatedAt=1693290087682"
 feature = true
 ingredients = [
   "200 gr de semoule extra-fine",
