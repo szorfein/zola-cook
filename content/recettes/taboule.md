@@ -6,7 +6,7 @@ date = 2023-08-27
 categories = ["accompagnement"]
 
 [extra]
-feature_image = "https://live.staticflickr.com/3854/14681518097_56b615b71b_o.jpg"
+feature_image = "https://ik.imagekit.io/eaec9qogv/zola/taboule.jpg?updatedAt=1693289776765"
 feature = true
 ingredients = [
   "1 kg de semoule fine",

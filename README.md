@@ -4,7 +4,7 @@ A static site with famillial cooking recipes in french (some cooking recipes are
 
 [BeerCSS](https://www.beercss.com/) is used to build a [Material Design](https://m3.material.io/).
 
-Many images used on the site come from [Unsplash](https://unsplash.com).
+Many images used on the site come from [Unsplash](https://unsplash.com), others are stored on [imagekit.io](https://imagekit.io/).
 
 ## Install
 The site is deployed with edgio, you need to install the cli tool:
