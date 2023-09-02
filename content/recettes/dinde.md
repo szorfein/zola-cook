@@ -1,6 +1,6 @@
 +++
 title = "Dinde de Noël"
-date = 2023-09-01
+date = 2023-08-31
 
 [taxonomies]
 categories = ["plat principal"]

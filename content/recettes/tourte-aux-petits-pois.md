@@ -30,4 +30,4 @@ preparations = [
 ]
 +++
 
-Tourte aux petits pois pour 4 personnes.
+Meilleur que des petits pois nature, voici la tourte aux petits pois pour 5 personnes.
