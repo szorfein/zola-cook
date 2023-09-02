@@ -1,4 +1,5 @@
 {% import "material.html" as material %}
+{% import "macros/categorie.html" as categorie %}
 {% extends "base.html" %}
 
 {% block title %}
@@ -21,25 +22,20 @@
 {% endfor %}
 </nav>
 
+<div class="s">
 {% for category in terms %}
-<article class="round">
-<h5 class="capitalize">{{ category.name }}</h5>
-<div class="grid">
-{% for post in category.pages %}
-  {% if loop.index <= 4 %}
-  <div class="s6 m4 l3">
-    {{ material::card(post=post) }}
-  </div>
-{% endif %}
+<div class="medium-space"></div>
+  {{ categorie::list(category = category) }}
+<div class="medium-space"></div>
 {% endfor %}
 </div>
-<div class="medium-space"></div>
-<a class="button border small-elevate secondary-border secondary-text" href="{{ category.permalink | safe }}">
-  <i>arrow_forward</i>
-  Voir les recettes pour <span class="capitalize">{{ category.name }}</span>
-</a>
+
+<div class="m l">
+{% for category in terms %}
+<article class="round">
+  {{ categorie::list(category = category) }}
 </article>
 <div class="medium-space"></div>
 {% endfor %}
-
+</div>
 {% endblock content %}
