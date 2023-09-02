@@ -24,7 +24,7 @@ preparations = [
   "Verser doucement le mélange chocolat/beurre fondu dessus tout en remuant.",
   "Beurré un moule rectangulaire ou metter carrément du papier de cuisson au fond du moule (plus facile à démouler par la suite).",
   "Verser la préparation dans le moule.",
-  "Cuire à 180 degrés celcius pendant 22 minutes.",
+  "Cuire à 180°C pendant 22 minutes.",
   "Eteigner le four et laisser le brownie 5 minutes de plus à l'intérieur."
 ]
 +++

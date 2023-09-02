@@ -21,7 +21,7 @@ preparations = [
   "Bien mélanger pour dissoudre la levure.",
   "Ajouter 200 gr de farine, on réserve 100 gr pour plus tard.",
   "Mélanger pour enlever les grumeaux, la poolish est prête.",
-  "Préchauffer le four pendant 1min, la température a l'intérieur doit être dans les 20 degrés celcius.",
+  "Préchauffer le four pendant 1 minute, la température a l'intérieur doit être dans les 20°C.",
   "Faire reposer la pâte dans le four pendant 1 heure.",
   "1 heure plus tard, ajouter le sel, les 100 gr de farine restant et pétrir.",
   "Une fois que la pâte est assez souple, ajouter l'huile d'olive.",
@@ -29,7 +29,7 @@ preparations = [
   "Séparer la pâte en 2 patons d'environ 256 gr.",
   "Former des boules et les placer sur du papier de cuisson.",
   "Laisser poser une dernière fois pendant 30-40 minutes.",
-  "Sorter les boules de pain, préchauffer le four à 240 degrés celcius.",
+  "Sorter les boules de pain, préchauffer le four à 240°C.",
   "Mettre un peu d'huile de tounesol sur les boules et enfourner 20 minutes."
 ]
 +++

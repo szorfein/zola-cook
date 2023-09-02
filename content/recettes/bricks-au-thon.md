@@ -24,7 +24,7 @@ ingredients = [
 ]
 preparations = [
   "Cuire les pommes de terre",
-  "Au four: Piquer les (8-10 trous par pomme de terre) et enfourner à 210 pendant 45 min.",
+  "Au four: Piquer les (8-10 trous par pomme de terre) et enfourner à 210°C pendant 45 min.",
   "Avec une cocotte minute devrait prendre entre 12 et 15 minutes",
   "Eplucher les pommes de terre puis dans un saladier, écraser les.",
   "Ajouter les épices, le sel.",
