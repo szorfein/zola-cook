@@ -11,9 +11,9 @@ ingredients = [
   "1 kg de farine de blé T55",
   "2 litres de lait",
   "8 oeufs",
-  "6 cl de rhum négrita",
+  "6 cl de rhum Négrita",
   "4 sachets de sucre vanillé",
-  "4 sachets de levure chimique",
+  "2 sachets de levure chimique",
   "40 gr de beurre",
   "2 cac sel"
 ]
@@ -30,5 +30,5 @@ preparations = [
 ]
 +++
 
-Crèpes sucrée Rhum/Vanille pour 8 personnes normalle.
+Crèpes sucrée rhum/vanille pour 8 personnes normalle.
 
