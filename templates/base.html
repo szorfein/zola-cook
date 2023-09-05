@@ -12,6 +12,22 @@
     {% block title %} {% endblock %}
     <link href="{{ get_url(path='/site.css') }}" type="text/css" rel="stylesheet" media="all">
     {{ head::material() }}
+    <script type="text/javascript">
+      function load_pages() {
+          var pages = document.getElementsByClassName("beer-page-link");
+          for (let i = 0; i < pages.length; i++) {
+              pages[i].setAttribute("href", "javascript:void(0)");
+          }
+
+          var pages = document.getElementsByClassName("beer-page");
+          for (let i = 0; i < pages.length; i++) {
+              pages[i].classList.add("page");
+          }
+      }
+      window.onload = function() {
+          load_pages();
+      }
+    </script>
   </head>
   <body class="light">
 
