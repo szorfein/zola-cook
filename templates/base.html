@@ -19,14 +19,15 @@
           console.log(msg + " " + res)
       }
       function load_explore() {
-          var link = document.getElementById("explore");
+          var link = document.getElementsByClassName("explore");
           var html = '<i>widgets</i><span>Explore</span>'
 
-          link.setAttribute("href", "#");
-          link.setAttribute("data-ui", "#dialog");
-          link.setAttribute("class", "active");
-
-          link.innerHTML = html
+          for (let i = 0; i < link.length; i++) {
+              link[i].setAttribute("href", "javascript:void(0)");
+              link[i].setAttribute("data-ui", "#dialog");
+              link[i].classList.add("active");
+              link[i].innerHTML = html
+          }
       };
       window.onload = function() {
           load_explore();
@@ -44,6 +45,8 @@
     <nav class="m l left">
       {{ nav::routes() }}
     </nav>
+
+    {{ nav::dialog() }}
 
     <main class="responsive">
       {% block content %} {% endblock %}

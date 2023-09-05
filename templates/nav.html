@@ -4,11 +4,48 @@
   <span>Index</span>
 </a>
 <a href="/recettes">
-  <i>info</i>
+  <i>favorite</i>
   <span>Recettes</span>
 </a>
-<a id="explore" href="/categories">
+<a class="explore" href="/categories">
   <i>widgets</i>
   <span>Explore</span>
 </a>
+{% endmacro %}
+
+{% macro dialog() %}
+<dialog class="left" id="dialog">
+  <header>
+    <nav>
+      <button data-ui="#dialog" class="transparent circle large">
+        <i>close</i>
+      </button>
+      <h5 class="max">Zola-Cook</h5>
+    </nav>
+  </header>
+
+  <a class="row round" href="/">
+    <i>home</i>
+    <span>Index</span>
+  </a>
+  <a class="row round" href="/recettes">
+    <i>favorite</i>
+    <span>Recettes</span>
+  </a>
+  <a class="row round" href="/categories">
+    <i>web_stories</i>
+    <span>Categories</span>
+  </a>
+
+  <div class="small-divider"></div>
+
+  {% set categories = get_taxonomy(kind="categories", lang=lang) %}
+  {% for category in categories.items %}
+  <a class="row round" href="{{ category.permalink | safe }}">
+    <span>{{ category.name }}</span>
+    <div class="max"></div>
+    <div>{{ category.pages | length }}</div>
+  </a>
+  {% endfor %}
+</dialog>
 {% endmacro %}
