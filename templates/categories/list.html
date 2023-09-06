@@ -21,20 +21,20 @@
 
   <nav class="scroll cat-badge">
   {% for category in terms %}
-    <a class="chip beer-page-link" data-ui="#{{ category.name | safe }}_s" href="{{ category.permalink | safe }}">
+    <a class="chip beer-page-link" data-ui="#{{ category.name | slugify }}_s" href="{{ category.permalink | safe }}">
       <span class="badge round secondary">{{ category.pages | length }}</span>
       {{ category.name }}
     </a>
   {% endfor %}
   </nav>
 
-  <div class="medium-space"></div>
+  <div class="space"></div>
 
   {% for category in terms %}
     {% if loop.index == 1 %}
-    <div class="beer-page active" id="{{ category.name | safe }}_s">
+    <div class="beer-page active" id="{{ category.name | slugify }}_s">
     {% else %}
-    <div class="beer-page" id="{{ category.name | safe }}_s">
+    <div class="beer-page" id="{{ category.name | slugify }}_s">
     {% endif %}
     {{ categorie::list(category = category) }}
     </div>
@@ -46,16 +46,28 @@
 
 
 <div class="m l">
-{% for category in terms %}
+
+  <nav class="scroll cat-badge">
+  {% for category in terms %}
+    <a class="chip beer-page-link" data-ui="#{{ category.name | slugify }}_m" href="{{ category.permalink | safe }}">
+      <span class="badge round secondary">{{ category.pages | length }}</span>
+      {{ category.name }}
+    </a>
+  {% endfor %}
+  </nav>
+
+  <div class="medium-space"></div>
+
+  {% for category in terms %}
   {% if loop.index == 1 %}
-<article class="beer-page round active" id="{{ category.name | safe }}">
+<article class="beer-page round active" id="{{ category.name | slugify }}_m">
   {% else %}
-<article class="beer-page round" id="{{ category.name | safe }}">
+<article class="beer-page round" id="{{ category.name | slugify }}_m">
   {% endif %}
   {{ categorie::list(category = category) }}
 </article>
 <noscript>
-<div class="medium-space"></div>
+  <div class="medium-space"></div>
 </noscript>
 {% endfor %}
 </div>
