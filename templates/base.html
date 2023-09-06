@@ -10,8 +10,41 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <meta name="google" content="notranslate">
     {% block title %} {% endblock %}
+    <link rel="icon" type="image/x-icon" href="{{ get_url(path='/favicon.ico') }}">
     <link href="{{ get_url(path='/site.css') }}" type="text/css" rel="stylesheet" media="all">
     {{ head::material() }}
+    <script type="text/javascript">
+      function assert(test, msg) {
+          var res = test ? "pass" : "fail"
+          console.log(msg + " " + res)
+      };
+      function load_explore() {
+          var link = document.getElementsByClassName("explore");
+          var html = '<i>widgets</i><span>Explore</span>'
+
+          for (let i = 0; i < link.length; i++) {
+              link[i].setAttribute("href", "javascript:void(0)");
+              link[i].setAttribute("data-ui", "#dialog");
+              link[i].classList.add("active");
+              link[i].innerHTML = html
+          }
+      };
+      function load_pages() {
+          var pages = document.getElementsByClassName("beer-page-link");
+          for (let i = 0; i < pages.length; i++) {
+              pages[i].setAttribute("href", "javascript:void(0)");
+          }
+
+          var pages = document.getElementsByClassName("beer-page");
+          for (let i = 0; i < pages.length; i++) {
+              pages[i].classList.add("page");
+          }
+      };
+      window.onload = function() {
+          load_explore();
+          load_pages();
+      };
+    </script>
   </head>
   <body class="light">
 
@@ -24,6 +57,8 @@
     <nav class="m l left">
       {{ nav::routes() }}
     </nav>
+
+    {{ nav::dialog() }}
 
     <main class="responsive">
       {% block content %} {% endblock %}

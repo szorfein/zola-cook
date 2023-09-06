@@ -26,7 +26,7 @@ preparations = [
   "Verser l'appareil au centre et étaller en laissant 2 cm libre sur les bords.",
   "Recouvrir avec la 2 ème pate feuilleté.",
   "Pincer les bords pour bien les coller et dorer avec le jaune d'oeuf.",
-  "Cuire à 180°C pendant 35 minutes."
+  "Cuire à 210°C pendant 30 minutes."
 ]
 +++
 
