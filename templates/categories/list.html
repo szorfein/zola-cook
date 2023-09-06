@@ -9,33 +9,67 @@
 {% block content %}
 <header>
   <nav>
+    <a class="button circle transparent" href="{{ get_url(path='/') }}">
+      <i>arrow_back</i>
+    </a>
     <h5>Categories</h5>
   </nav>
 </header>
 
-<nav class="scroll cat-badge">
-{% for category in terms %}
-<a class="chip" href="{{ category.permalink | safe }}">
-  <span class="badge round secondary">{{ category.pages | length }}</span>
-  {{ category.name }}
-</a>
-{% endfor %}
-</nav>
-
 <div class="s">
-{% for category in terms %}
-<div class="medium-space"></div>
-  {{ categorie::list(category = category) }}
-<div class="medium-space"></div>
-{% endfor %}
+  <div class="space"></div>
+
+  <nav class="scroll cat-badge">
+  {% for category in terms %}
+    <a class="chip beer-page-link" data-ui="#{{ category.name | slugify }}_s" href="{{ category.permalink | safe }}">
+      <span class="badge round secondary">{{ category.pages | length }}</span>
+      {{ category.name }}
+    </a>
+  {% endfor %}
+  </nav>
+
+  <div class="space"></div>
+
+  {% for category in terms %}
+    {% if loop.index == 1 %}
+    <div class="beer-page active" id="{{ category.name | slugify }}_s">
+    {% else %}
+    <div class="beer-page" id="{{ category.name | slugify }}_s">
+    {% endif %}
+    {{ categorie::list(category = category) }}
+    </div>
+  <noscript>
+    <div class="large-space"></div>
+  </noscript>
+  {% endfor %}
 </div>
+
 
 <div class="m l">
-{% for category in terms %}
-<article class="round">
+
+  <nav class="scroll cat-badge">
+  {% for category in terms %}
+    <a class="chip beer-page-link" data-ui="#{{ category.name | slugify }}_m" href="{{ category.permalink | safe }}">
+      <span class="badge round secondary">{{ category.pages | length }}</span>
+      {{ category.name }}
+    </a>
+  {% endfor %}
+  </nav>
+
+  <div class="medium-space"></div>
+
+  {% for category in terms %}
+  {% if loop.index == 1 %}
+<article class="beer-page round active" id="{{ category.name | slugify }}_m">
+  {% else %}
+<article class="beer-page round" id="{{ category.name | slugify }}_m">
+  {% endif %}
   {{ categorie::list(category = category) }}
 </article>
-<div class="medium-space"></div>
+<noscript>
+  <div class="medium-space"></div>
+</noscript>
 {% endfor %}
 </div>
+
 {% endblock content %}

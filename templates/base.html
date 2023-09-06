@@ -17,7 +17,7 @@
       function assert(test, msg) {
           var res = test ? "pass" : "fail"
           console.log(msg + " " + res)
-      }
+      };
       function load_explore() {
           var link = document.getElementsByClassName("explore");
           var html = '<i>widgets</i><span>Explore</span>'
@@ -29,8 +29,20 @@
               link[i].innerHTML = html
           }
       };
+      function load_pages() {
+          var pages = document.getElementsByClassName("beer-page-link");
+          for (let i = 0; i < pages.length; i++) {
+              pages[i].setAttribute("href", "javascript:void(0)");
+          }
+
+          var pages = document.getElementsByClassName("beer-page");
+          for (let i = 0; i < pages.length; i++) {
+              pages[i].classList.add("page");
+          }
+      };
       window.onload = function() {
           load_explore();
+          load_pages();
       };
     </script>
   </head>
