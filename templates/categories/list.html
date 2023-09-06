@@ -28,7 +28,7 @@
   {% endfor %}
   </nav>
 
-  <div class="space"></div>
+  <div class="medium-space"></div>
 
   {% for category in terms %}
     {% if loop.index == 1 %}
@@ -46,7 +46,6 @@
 
 
 <div class="m l">
-
   <nav class="scroll cat-badge">
   {% for category in terms %}
     <a class="chip beer-page-link" data-ui="#{{ category.name | slugify }}_m" href="{{ category.permalink | safe }}">
