@@ -23,7 +23,7 @@ ingredients = [
   "1 oeuf par brick (facultatif)"
 ]
 preparations = [
-  "Cuire les pommes de terre",
+  "Cuire les pommes de terre au four ou à la cocotte minute.",
   "Au four: Piquer les (8-10 trous par pomme de terre) et enfourner à 210°C pendant 45 min.",
   "Avec une cocotte minute devrait prendre entre 12 et 15 minutes",
   "Eplucher les pommes de terre puis dans un saladier, écraser les.",

@@ -31,6 +31,6 @@ preparations = [
 ]
 +++
 
-Des lentilles avec de la viande de porc habituellement mangé tous les 1er de chaque mois.
+Des lentilles avec de la viande de porc (peu être remplacer par du veau) habituellement mangé tous les 1er de chaque mois.
 
 Servir avec des {{ link(url="/recettes/kesra", word="galettes") }}

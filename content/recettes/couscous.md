@@ -34,7 +34,7 @@ preparations = [
   "Faite cuire les cocos plat, puis réserver.",
   "Les courgettes, puis réserver.",
   "Les aubergines, puis réserver.",
-  "L'idée est d'avoir des légumes cuit <Al Dente>.",
+  "L'idée est d'avoir des légumes cuit 'Al Dente'.",
   "Dans une sauteuse, ajouter 4 cas d'huile de tournesol.",
   "Faite revenir (bien coloré) les colliers de mouton/agneau puis mettre dans la grande marmite.",
   "Faite revenir l'épaule de mouton/agneau puis mettre dans la grande marmite.",
