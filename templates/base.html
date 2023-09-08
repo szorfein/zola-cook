@@ -10,6 +10,8 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <meta name="google" content="notranslate">
     {% block title %} {% endblock %}
+    <meta property="og:site_name" content="{{ config.title }}" />
+    <meta property="og:locale" content="{{ config.default_language }}" />
     <link rel="icon" type="image/x-icon" href="{{ get_url(path='/favicon.ico') }}">
     <link href="{{ get_url(path='/site.css') }}" type="text/css" rel="stylesheet" media="all">
     {{ head::material() }}

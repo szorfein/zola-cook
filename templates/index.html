@@ -3,14 +3,14 @@
 {% extends "base.html" %}
 
 {% block title %}
-{{ head::title(name = "Zola-Cook") }}
+{{ head::title(name = "{{ config.title }}") }}
 {% endblock title %}
 
 {% block content %}
 <header class="no-padding">
   <img class="responsive round banner-img" src="https://images.unsplash.com/photo-1577214407836-1f3a0604ecb2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1336&q=80">
   <div class="padding absolute center middle white-text">
-    <h1 class="upper">Zola cook</h1>
+    <h1 class="upper">{{ config.title }}</h1>
   </div>
 </header>
 

@@ -16,3 +16,15 @@
     src="https://cdn.jsdelivr.net/npm/material-dynamic-colors@1.0.1/dist/cdn/material-dynamic-colors.min.js">
 </script>
 {% endmacro %}
+
+{% macro meta_article(post) %}
+<meta property="og:title" content="{{ post.title }}" />
+{% if post.extra.feature_image %}
+<meta property="og:image" content="{{ post.extra.feature_image }}" />
+{% endif %}
+<meta property="og:description" content="{{ post.content | striptags }}" />
+<meta property="og:article:published_time" content="{{ post.date }}" />
+{% for tag in post.taxonomies.categories %}
+<meta property="og:article:tag" content="{{ tag }}" />
+{% endfor %}
+{% endmacro %}
