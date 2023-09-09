@@ -3,7 +3,9 @@
 {% extends "base.html" %}
 
 {% block title %}
-{{ head::title(name = "{{ config.title }}") }}
+{{ head::title(name = "Zola Cook") }}
+{{ head::meta_simple(title = "Zola Cook",
+  description = "Zola Cook présente de nombreuses recettes de cuisine.") }}
 {% endblock title %}
 
 {% block content %}
