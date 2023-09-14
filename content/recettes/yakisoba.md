@@ -26,12 +26,12 @@ ingredients = [
 ]
 preparations = [
   "Préparer la sauce, dans un récipient, mélanger la sauce soja, huitre, piquante, ketchup, le sucre et le vinaigre, arranger la selon vos goûts.",
-  "Couper les légumes, couper la carotte en julienne, émincer le chou, couper l'oignon en tranche de 1 cm. Séparer les différentes couches de l'oignon et du chou.",
+  "Couper les légumes, couper la carotte en julienne, couper l'oignon et le chou en tranche de 1 cm. Séparer les différentes couches de l'oignon et du chou.",
   "Faire cuire les pâtes et égoutter les, si vous utiliser des pâtes style spaghettis, capellini, faîtes-les cuire avec 1 cas de bicarbonate alimentaire.",
   "Dans une casserole ou un wok, commencer par cuire la viande puis réserver la.",
   "Ajouter les légumes, cuire 2-3 minutes avec 1 pincé de sel et réserver.",
   "Ajouter les pâtes, faîtes les cuire un peu sans les bruler pendant 1 minute.",
-  "Ajouter la viande et les légumes, cuire pendant 1 à 2 minutes et poivrer.",
+  "Ajouter la viande et les légumes, cuire pendant 1 minutes et poivrer.",
   "Ajouter la sauce avec les pousses de soja si vous en mettez et cuire encore 20 à 30 secondes en mélangeant l'ensemble.",
 ]
 +++
