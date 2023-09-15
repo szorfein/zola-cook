@@ -5,6 +5,7 @@
 
 {% block title %}
 {{ head::title(name = "Toutes les recettes pour " ~ term.name) }}
+{{ head::meta_simple(title = "Toutes les recettes pour " ~ term.name) }}
 {% endblock title %}
 
 {% block content %}
