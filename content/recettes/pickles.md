@@ -17,8 +17,8 @@ ingredients = [
 ]
 preparations = [
   "Couper vos légumes comme vous voulez, pour un chou (rouge ici), émincer le le plus finement possible.",
-  "Dans une marmitte, faîtes bouillir l'eau avec le vinaigre, le sel, le sucre et le gimgembre si vous en mettez.",
-  "Ajouter les légumes et couvrir, pour du chou, laisser le ramollir un peu pendant 1 minute avant de couper le feu.",
+  "Dans une marmite, faîtes bouillir l'eau avec le vinaigre, le sel, le sucre et le gimgembre si vous en mettez.",
+  "Ajouter les légumes et couvrir, pour du chou, laisser le ramollir un peu pendant 30 secondes avant de couper le feu.",
   "Laisser refroidir un peu avant de tout verser dans un bocal."
 ]
 +++

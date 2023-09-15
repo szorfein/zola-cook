@@ -15,10 +15,11 @@ ingredients = [
   "200 ml d'eau",
   "180 ml de lait",
   "40 g de beurre",
-  "1 cas de bicarbonate alimentaire"
+  "1 cas de bicarbonate alimentaire",
+  "des graines (sésame, pavot, cumin, etc...)"
 ]
 preparations = [
-  "Mélanger l'eau, le lait, le sucre et la levure.",
+  "Dans un récipient, mélanger l'eau, le lait, le sucre et la levure.",
   "Ajouter 300 g de farine, mélanger.",
   "Laisser poser 1 heure dans un endroit à 20-22°C.",
   "Ajouter le reste de farine, le sel et le beurre. Pétrir pendant 7 minutes.",
