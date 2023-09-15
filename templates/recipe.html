@@ -18,14 +18,15 @@
   </nav>
 </header>
 
-<div class="grid medium-space">
-  {% for page in paginator.pages %}
-  <div class="s6 m4 l3">
-    {{ material::card(post=page) }}
+<main class="responsive">
+  <div class="grid medium-space">
+    {% for page in paginator.pages %}
+    <div class="s6 m4 l3">
+      {{ material::card(post=page) }}
+    </div>
+    {% endfor %}
   </div>
-  {% endfor %}
-</div>
 
-{{ paginate::buttons(paginator=paginator) }}
-
+  {{ paginate::buttons(paginator=paginator) }}
+</main>
 {% endblock content %}

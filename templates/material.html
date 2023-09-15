@@ -1,16 +1,15 @@
 {% macro card(post) %}
-<article class="no-padding border round primary-container">
-  {% if post.extra.feature_image %}
-  <img class="responsive small top-round" src="{{ post.extra.feature_image }}">
-  {% endif %}
-  <div class="padding">
-    <h5>{{ post.title }}</h5>
-    <p>{{ post.content | safe }}</p>
-    <nav>
-      <a class="button" href="{{ post.permalink | safe }}">Voir la recette</a>
-    </nav>
-  </div>
-</article>
+<a class="round wrap border" href="{{ post.permalink | safe }}">
+  <article class="no-padding round primary-container">
+    {% if post.extra.feature_image %}
+    <img class="responsive small top-round" src="{{ post.extra.feature_image }}">
+    {% endif %}
+    <div class="padding">
+      <h6 class="bold">{{ post.title }}</h6>
+      <p>{{ post.content | striptags }}</p>
+    </div>
+  </article>
+</a>
 {% endmacro %}
 
 {% macro default_card(title, content) %}

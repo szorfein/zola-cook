@@ -14,6 +14,7 @@
   </nav>
 </header>
 
+<main class="responsive">
 <article class="no-padding round fill">
 
   {% if page.extra.feature_image %}
@@ -22,17 +23,18 @@
 
   <div class="absolute bottom left right padding bottom-shadow bottom-round white-text">
     <nav>
-      <h4>{{ page.title }}</h4>
+      <h3>{{ page.title }}</h3>
     </nav>
   </div>
 </article>
 
 <p class="padding medium-text">{{ page.content | safe }}</p>
 
-<div class="padding grid medium-space">
+<div class="space"></div>
+<div class="grid small-line padding">
   {% if page.extra.ingredients %}
-  <div class="s12 m12 l4">
-    <h3>Ingrédients</h3>
+  <div class="s12 m6 l4">
+    <h4>Ingrédients</h4>
     {% for ingredients in page.extra.ingredients %}
     <div class="row">
       <div class="max">
@@ -40,12 +42,13 @@
       </div>
     </div>
     {% endfor %}
+    <div class="medium-space"></div>
   </div>
   {% endif %}
 
   {% if page.extra.ingredients %}
-  <div class="s12 m12 l8">
-    <h3>Préparation</h3>
+  <div class="s12 m6 l8">
+    <h4>Préparation</h4>
     {% for task in page.extra.preparations %}
     <div class="row">
       <div>
@@ -59,4 +62,5 @@
   </div>
   {% endif %}
 </div>
+</main>
 {% endblock content %}
