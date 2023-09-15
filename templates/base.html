@@ -39,6 +39,12 @@
           for (let i = 0; i < pages.length; i++) {
               pages[i].classList.add("page");
           }
+
+          var titles = document.getElementsByClassName("beer-page-title");
+          for (let i = 0; i < pages.length; i++) {
+              titles[i].classList.add("shut-up");
+          }
+
       };
       window.onload = function() {
           load_explore();

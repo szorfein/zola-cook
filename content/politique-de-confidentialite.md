@@ -19,7 +19,6 @@ Comme beaucoup d'autres sites web, https://szorfein-zola-cook-default.edgio.link
 
 Ces informations sont utilisée pour analyser les tendances, administrer le site, suivre le mouvement de l'utilisateur autour du site et recueillir des informations démographiques. Les adresses IP et autres informations de ce type ne sont pas liées à des informations personnelles identifiables.
 
-Les logs servent notamment en cas d'attaque pour identifier les adresse IP incriminés ou pour améliorer la sécurité du site.
 {{ default_card_close() }}
 
 {{ medium_space() }}

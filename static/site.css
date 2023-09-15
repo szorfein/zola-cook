@@ -12,3 +12,17 @@
 .cat-badge {
     height: 5rem;
 }
+
+.custom-width {
+    width: 18rem!important;
+    max-width: 100%;
+}
+
+.custom-height {
+    height: 17rem!important;
+}
+
+.shut-up {
+    visibility: hidden;
+    display: none;
+}
