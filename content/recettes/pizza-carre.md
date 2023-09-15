@@ -32,7 +32,7 @@ preparations = [
   "Même si la pâte et un peu collante, n'ajouter plus de farine. et laisser poser encore 1 heure, a ce stade, vous pouvez aussi la conserver jusqu'a 12 heures maximum au frais avec un film si besoin.",
   "Pour la sauce tomate.",
   "Emincer les tomates puis verser les dans un récipient.",
-  "Faire cuire l'oignon avec 2 cas d'huile d'olive a feu doux et 1 pincé de sel.",
+  "Faire cuire l'oignon avec 2 cas d'huile d'olive à feu doux et 1 pincée de sel.",
   "Une fois cuit, ajouter le concentré de tomate, l'ail, le thym, laisser cuire 1 minute en remuant.",
   "Ajouter les tomates, le laurier, du sel et du sucre si besoin, laisser la sauce réduire pendant 10 minutes.",
   "Pour la pizza, huiler le plat de cuisson (lèchefrite) avec 2-3 cas d'huile d'olive et verser la pâte, étaler sur toute la surface, huiler vos doigts si besoin puis laisser poser 30 à 40 minutes.",
