@@ -2,6 +2,7 @@
 
 {% block title %}
 {{ head::title(name = page.title ~ " | Zola-Cook") }}
+{{ head::meta_article(post=page) }}
 {% endblock title %}
 
 {% block content %}
