@@ -1,5 +1,5 @@
 +++
-title = "Semoule pour couscous"
+title = "Semoule fine"
 date = 2023-08-22
 
 [taxonomies]

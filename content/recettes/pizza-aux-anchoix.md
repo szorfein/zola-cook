@@ -1,5 +1,5 @@
 +++
-title = "Pizza carré"
+title = "Pizza aux anchoix"
 date = 2023-08-31
 
 [taxonomies]

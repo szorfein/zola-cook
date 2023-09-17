@@ -47,4 +47,4 @@ preparations = [
 +++
 Couscous à préparer la veille, on peut utilisé n'importe quel légume de saison.
 
-Servir avec sa {{ link(url="/recettes/semoule-couscous", word="semoule") }}
+Servir avec sa {{ link(url="/recettes/semoule-fine", word="semoule") }}

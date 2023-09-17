@@ -23,7 +23,7 @@ ingredients = [
 
 preparations = [
   "Faire trempé les pois chiche dans un grand volume d'eau la veille.",
-  "Préparer la <a class='link' href='/recettes/semoule-couscous'>semoule fine</a> mais sans ajouté de beurre et remplacer la dose d'eau (1L) par 900 ml.",
+  "Préparer la <a class='link' href='/recettes/semoule-fine'>semoule fine</a> mais sans ajouté de beurre et remplacer la dose d'eau (1L) par 900 ml.",
   "Faire cuire les pois chiche à votre convenance et égoutter les.",
   "Enlever la peau des tomates en les plongeant 20 secondes dans de l'eau bouillante",
   "Mixer la moitié des tomates (500 gr) et verser dans un grand saladier.",
