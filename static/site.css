@@ -33,18 +33,18 @@
 
 @media only screen and (max-width: 600px) {
   .sticky {
-    padding-left: 32rem!important;
+    padding-left: 36rem!important;
   }
 }
 
 @media only screen and (min-width: 601px) and (max-width: 992px) {
   .sticky {
-    padding-left: 35rem!important;
+    padding-left: 41rem!important;
   }
 }
 
 @media only screen and (min-width: 993px) {
   .sticky {
-    padding-left: 14rem!important;
+    padding-left: 4rem!important;
   }
 }
