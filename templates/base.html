@@ -18,6 +18,15 @@
     {% block rss %}
     <link rel="alternate" type="application/atom+xml" title="RSS" href="{{ get_url(path="atom.xml", trailing_slash=false) }}">
     {% endblock %}
+    <script defer>
+      function initEdgioRum() {
+          new Edgio.Metrics({
+              token: '51fcedfe-b3a3-4989-bfbc-52ba6b70c59b'
+          }).collect()
+      }
+    </script>
+    <script src="https://rum.edgio.net/latest.js" defer onload="initEdgioRum()">
+    </script>
     <script type="text/javascript">
       function assert(test, msg) {
           var res = test ? "pass" : "fail"
