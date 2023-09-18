@@ -18,6 +18,15 @@
     {% block rss %}
     <link rel="alternate" type="application/atom+xml" title="RSS" href="{{ get_url(path="atom.xml", trailing_slash=false) }}">
     {% endblock %}
+    <script defer>
+      function initEdgioRum() {
+          new Edgio.Metrics({
+              token: '51fcedfe-b3a3-4989-bfbc-52ba6b70c59b'
+          }).collect()
+      }
+    </script>
+    <script src="https://rum.edgio.net/latest.js" defer onload="initEdgioRum()">
+    </script>
     <script type="text/javascript">
       function assert(test, msg) {
           var res = test ? "pass" : "fail"
@@ -49,12 +58,32 @@
           for (let i = 0; i < pages.length; i++) {
               titles[i].classList.add("shut-up");
           }
+      };
+      function load_sticky() {
+          var header = document.getElementsByClassName("my-sticky");
 
+          for (let i = 0; i < header.length; i++) {
+
+            var sticky = header[i].offsetTop;
+
+            if (window.pageYOffset > sticky) {
+              header[i].classList.add("top");
+              header[i].classList.add("sticky");
+            } else {
+              header[i].classList.remove("top");
+              header[i].classList.remove("sticky");
+            }
+          };
+          //header.classList.toggle("fixed", window.pageYOffset > sticky);
       };
       window.onload = function() {
           load_explore();
           load_pages();
       };
+      window.addEventListener("scroll", function(evt) {
+          load_sticky();
+      });
+
     </script>
   </head>
   <body class="light">

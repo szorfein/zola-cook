@@ -43,6 +43,28 @@
     </div>
     {% endfor %}
     <div class="medium-space"></div>
+    {% if page.extra.ingredients_2_title %}
+    <h6>{{ page.extra.ingredients_2_title }}</h6>
+    {% for ingredients in page.extra.ingredients_2 %}
+    <div class="row">
+      <div class="max">
+        {{ ingredients }}
+      </div>
+    </div>
+    {% endfor %}
+    <div class="medium-space"></div>
+    {% endif %}
+    {% if page.extra.ingredients_3_title %}
+    <h6>{{ page.extra.ingredients_3_title }}</h6>
+    {% for ingredients in page.extra.ingredients_3 %}
+    <div class="row">
+      <div class="max">
+        {{ ingredients }}
+      </div>
+    </div>
+    {% endfor %}
+    <div class="medium-space"></div>
+    {% endif %}
   </div>
   {% endif %}
 
