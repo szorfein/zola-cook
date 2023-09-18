@@ -58,12 +58,32 @@
           for (let i = 0; i < pages.length; i++) {
               titles[i].classList.add("shut-up");
           }
+      };
+      function load_sticky() {
+          var header = document.getElementsByClassName("my-sticky");
 
+          for (let i = 0; i < header.length; i++) {
+
+            var sticky = header[i].offsetTop;
+
+            if (window.pageYOffset > sticky) {
+              header[i].classList.add("top");
+              header[i].classList.add("sticky");
+            } else {
+              header[i].classList.remove("top");
+              header[i].classList.remove("sticky");
+            }
+          };
+          //header.classList.toggle("fixed", window.pageYOffset > sticky);
       };
       window.onload = function() {
           load_explore();
           load_pages();
       };
+      window.addEventListener("scroll", function(evt) {
+          load_sticky();
+      });
+
     </script>
   </head>
   <body class="light">
