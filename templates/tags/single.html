@@ -1,0 +1,35 @@
+{% import "material.html" as material %}
+{% import "macros/paginate.html" as paginate %}
+
+{% extends "base.html" %}
+
+{% block title %}
+{{ head::title(name = "tag " ~ term.name) }}
+{{ head::meta_simple(title = "tag " ~ term.name) }}
+{% endblock title %}
+
+{% block content %}
+<header>
+  <nav>
+    <a class="button circle transparent" href="{{ get_url(path='/tags') }}">
+      <i>arrow_back</i>
+    </a>
+    <h5 class="max">{{ "Tag " ~ term.name }}</h5>
+  </nav>
+</header>
+
+<div class="space"></div>
+
+<div class="grid">
+  {% for post in paginator.pages %}
+  <div class="s6 m4 l3">
+    {{ material::card(post=post) }}
+  </div>
+  {% endfor %}
+</div>
+
+<div class="space"></div>
+
+{{ paginate::buttons(paginator=paginator) }}
+
+{% endblock content %}

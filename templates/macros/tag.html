@@ -1,0 +1,96 @@
+{% macro asie() %}
+Regroupe plusieurs pays d'Asie, Viet Nam, Japon.
+{% endmacro %}
+
+{% macro maghreb() %}
+Regroupe des recettes de plusieurs pays d'afrique du nord tel que les ancient pied-noire, Algérie, Berbère et autres.
+{% endmacro %}
+
+{% macro list(term, number=1) %}
+<div class="grid">
+{% for post in term.pages %}
+{% if loop.index <= number %}
+{% if number == 1 %}
+<div class="s12">
+{{ material::card(post=post) }}
+</div>
+{% else %}
+<div class="s12 l6">
+{{ material::card(post=post) }}
+</div>
+{% endif %}
+{% endif %}
+{% endfor %}
+</div>
+{% endmacro %}
+
+{% macro button(to) %}
+<div class="row">
+  <div class="s m">
+    <a class="button responsive" href="{{ to | safe }}">Voir les recettes</a>
+  </div>
+  <div class="l">
+    <a class="button" href="{{ to | safe }}">Voir les recettes</a>
+  </div>
+</div>
+{% endmacro %}
+
+{% macro display_normal(term) %}
+<div class="grid">
+  <div class="s12 m6 l6">
+    <div class="l">
+      {{ tag::list(term=term, number=2) }}
+    </div>
+    <div class="s m">
+      {{ tag::list(term=term) }}
+    </div>
+  </div>
+  <div class="s12 m6 l6">
+    <div class="s m">
+      <div class="space"></div>
+    </div>
+    <h3 class="bold">{{ term.name | capitalize }}</h3>
+    <div class="space"></div>
+    <div class="medium-line">
+      {% if term.name == 'asie' %}
+      {{ tag::asie() }}
+      {% elif term.name == 'maghreb' %}
+      {{ tag::maghreb() }}
+      {% endif %}
+    </div>
+    <div class="space"></div>
+    {{ tag::button(to=term.permalink) }}
+  </div>
+</div>
+<div class="large-space"></div>
+{% endmacro %}
+
+{% macro display_reverse(term) %}
+<div class="grid">
+  <div class="s12 m6 l6">
+    <h3 class="bold">{{ term.name | capitalize }}</h3>
+    <div class="space"></div>
+    <div class="medium-line">
+      {% if term.name == 'asie' %}
+      {{ tag::asie() }}
+      {% elif term.name == 'maghreb' %}
+      {{ tag::maghreb() }}
+      {% endif %}
+    </div>
+    <div class="space"></div>
+    {{ tag::button(to=term.permalink) }}
+    <div class="s m">
+      <div class="space"></div>
+    </div>
+  </div>
+  <div class="s12 m6 l6">
+    <div class="l">
+      {{ tag::list(term=term, number=2) }}
+    </div>
+    <div class="s m">
+      {{ tag::list(term=term) }}
+    </div>
+  </div>
+</div>
+<div class="medium-space"></div>
+{% endmacro %}

@@ -17,6 +17,7 @@ build_search_index = false
 
 taxonomies = [
   { name = "categories", feed = true, paginate_by = 8 },
+  { name = "tags", paginate_by = 8 },
 ]
 
 [markdown]

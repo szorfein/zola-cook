@@ -1,0 +1,31 @@
+{% import "macros/tag.html" as tag %}
+{% import "material.html" as material %}
+{% extends "base.html" %}
+
+{% block title %}
+{{ head::title(name = "Recettes par tags") }}
+{{ head::meta_simple(title = "Recettes par tags") }}
+{% endblock title %}
+
+{% block content %}
+<header>
+  <nav>
+    <a class="button circle transparent" href="{{ get_url(path='/') }}">
+      <i>arrow_back</i>
+    </a>
+    <h5 class="max">Recettes par tag</h5>
+  </nav>
+</header>
+
+<main class="responsive">
+  <section class="margin">
+    {% for category in terms %}
+    {% if loop.index % 2 %}
+    {{ tag::display_normal(term=category) }}
+    {% else %}
+    {{ tag::display_reverse(term=category) }}
+    {% endif %}
+    {% endfor %}
+  </section>
+</main>
+{% endblock content %}
