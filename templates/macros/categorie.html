@@ -18,3 +18,15 @@
 </div>
 </article>
 {% endmacro %}
+
+{% macro display(term, number=2) %}
+<div class="grid">
+{% for page in term %}
+{% if loop.index <= number %}
+<div class="s6 m4 l3">
+  {{ material::card(post=page) }}
+</div>
+{% endif %}
+{% endfor %}
+</div>
+{% endmacro %}
