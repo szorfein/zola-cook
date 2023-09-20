@@ -17,6 +17,15 @@ ingredients = [
   "40 gr de beurre",
   "2 cac sel"
 ]
+ingredients_2_title = "Pour la garniture"
+ingredients_2 = [
+  "pâte à tartiner chocolat avec ou sans chantilly",
+  "pâte à tartiner chocolat + beurre de cacahouette + chantilly",
+  "crème de marron + beurre de cacahouette + chantilly",
+  "confitures",
+  "sucre en poudre",
+  "banane flambé"
+]
 preparations = [
   "Armer vous d'une spatule en bois.",
   "Dans un saladier, commencer à battre les oeufs, le sucre et la levure chimique.",

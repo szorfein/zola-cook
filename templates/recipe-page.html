@@ -38,7 +38,7 @@
     {% for ingredients in page.extra.ingredients %}
     <div class="row">
       <div class="max">
-        {{ ingredients }}
+        {{ ingredients | safe }}
       </div>
     </div>
     {% endfor %}
