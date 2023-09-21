@@ -13,20 +13,22 @@ ingredients = [
   "sel",
   "poivre",
   "thym",
+  "1 verre d'eau (200 ml)"
 ]
 ingredients_2_title = "Pour les légumes"
 ingredients_2 = [
   "4 tomates",
   "2 courgettes",
   "2 oignons",
+  "1 poivrons",
   "4 gousses d'ail"
 ]
 preparations = [
   "Couper les tomates, les oignons en 4.",
   "Couper les gousses d'ail en 2.",
-  "Couper les courgettes dans le sens de la longueur pour en 4.",
+  "Couper les courgettes et le poivron dans le sens de la longueur puis en 4.",
   "Mettre tout les légumes dans un plat allant au four.",
-  "Mettre un peu d'eau dans le plat.",
+  "Verser le verre d'eau dans le plat.",
   "Badigeonner le poulet d'huile d'olive, de sel, de poivre et de thym.",
   "Mettre le poulet sur les légumes.",
   "Cuire à 210°C pendant 1h30. A retourner toutes les 30 minutes."
