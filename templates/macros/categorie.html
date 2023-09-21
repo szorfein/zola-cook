@@ -10,11 +10,19 @@
 {% endfor %}
 </div>
 <div class="medium-space"></div>
+<div class="s">
+  <a class="button responsive secondary" href="{{ category.permalink | safe }}">
+    <i>arrow_forward</i>
+    Voir les recettes pour <span class="capitalize">{{ category.name }}</span>
+  </a>
+</div>
+<div class="m l">
 <div class="center-align medium-align">
   <a class="button small-elevate large secondary" href="{{ category.permalink | safe }}">
     <i>arrow_forward</i>
     Voir les recettes pour <span class="capitalize">{{ category.name }}</span>
   </a>
+</div>
 </div>
 </article>
 {% endmacro %}
