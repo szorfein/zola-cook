@@ -4,6 +4,7 @@ date = 2023-08-27
 
 [taxonomies]
 categories = ["entree"]
+tags = ["maghreb"]
 
 [extra]
 #feature_image = "https://dietetique-en-ligne.com/wp-content/uploads/2016/06/Samoussas-thon-2.jpg"
@@ -16,11 +17,12 @@ ingredients = [
   "2 gousses d'ail",
   "1 oignon",
   "1 poignée de persil plat",
-  "1 cac de cumin",
+  "2 cac de cumin",
   "1 cac de sel",
-  "1 cac de coriande en poudre",
+  "1 cac de coriande moulu",
   "huile de friture",
-  "1 oeuf par brick (facultatif)"
+  "1 oeuf par brick (facultatif)",
+  "1 cac d'harissa ou 1 piment vert (facultatif)"
 ]
 preparations = [
   "Cuire les pommes de terre au four ou à la cocotte minute.",
@@ -29,7 +31,7 @@ preparations = [
   "Eplucher les pommes de terre puis dans un saladier, écraser les.",
   "Ajouter les épices, le sel.",
   "Hacher grossièrement l'ail, le persil et l'oignon puis ajouter les à la préparation.",
-  "Pour le thon, si il est en boite, émietter le simplement, si il est frais, émincer le très finement.",
+  "Pour le thon, si il est en boite, émietter le simplement, si il est frais, émincer le.",
   "Mélanger la farce.",
   "Commencer à faire chauffer l'huile de friture dans une poele assez large.",
   "Sur une feuille de brick, placer au centre 1 grosse cas de la farce",
@@ -42,4 +44,3 @@ preparations = [
 Brick au thon et à la pomme de terre. Pour 5 à 6 pièces.  
 
 A déguster avec un filet de jus de citron.
-

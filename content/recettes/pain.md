@@ -26,11 +26,12 @@ preparations = [
   "1 heure plus tard, ajouter le sel, les 100 gr de farine restant et pétrir.",
   "Une fois que la pâte est assez souple, ajouter l'huile d'olive.",
   "Remettre au four pendant 1 heure.",
-  "Séparer la pâte en 2 patons d'environ 256 gr.",
-  "Former des boules et les placer sur du papier de cuisson.",
-  "Laisser poser une dernière fois pendant 30-40 minutes.",
-  "Sorter les boules de pain, préchauffer le four à 240°C.",
-  "Mettre un peu d'huile de tounesol sur les boules et enfourner 20 minutes."
+  "Si vous voulez 2 pains, séparer la pâte en 2 patons d'environ 256 gr, former des boules et les placer sur du papier de cuissson.",
+  "Pour une pizza, utiliser la boule entière, étaler la de facon à former un cercle à la main sans jamais toucher les bords (oublier le rouleau), vous laisserez au moins 3 centimètres aux bords.",
+  "Laisser poser une dernière fois pendant 30 minutes dans un endroit à 20-22°C.",
+  "Préchauffer le four à 240°C.",
+  "Pour des boules à pain, mettre un peu d'huile de tounesol et enfourner 20 minutes.",
+  "Pour une pizza, aprés l'avoir garnie, cuisson pendant 14 minutes."
 ]
 +++
-Recette pour créer 2 petits pains, peut servir de base pour faire des sandwichs.
+Pâtes à pain Napolitaine. Recette pour créer soit 2 petits pains soit une base pour pizza traditionnel.

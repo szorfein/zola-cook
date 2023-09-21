@@ -22,7 +22,7 @@ preparations = [
   "Rincer le riz dans de l'eau au moins 1 fois puis égouté le.",
   "Faire revenir les épices dans une sauteuse à feu doux avec 3 cas d'huile pendant 2-3 minutes (ne pas faire brûler).",
   "Ajoutez le riz, faites le revenir pendant environ 5 minutes en remuant de temps en temps.",
-  "Verser l'eau et le sel, couvrir et cuire à feu doux jusqu'a absorsion (environ 10-15 minutes)."
+  "Verser l'eau et le sel, couvrir et cuire à feu doux jusqu'a absorsion (environ 10 minutes)."
 ]
 +++
 Un riz parfumé au cardamome et à la cannelle pour 2 personnes. Cuisson en pilaf.
