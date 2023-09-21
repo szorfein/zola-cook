@@ -4,6 +4,7 @@ date = 2023-08-27
 
 [taxonomies]
 categories = ["entree"]
+tags = ["maghreb"]
 
 [extra]
 #feature_image = "https://dietetique-en-ligne.com/wp-content/uploads/2016/06/Samoussas-thon-2.jpg"

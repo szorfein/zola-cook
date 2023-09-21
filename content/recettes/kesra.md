@@ -4,6 +4,7 @@ date = 2023-08-23
 
 [taxonomies]
 categories = ["pain"]
+tags = ["maghreb"]
 
 [extra]
 feature_image = "https://ik.imagekit.io/eaec9qogv/zola/kesra.jpg?updatedAt=1693290087682"

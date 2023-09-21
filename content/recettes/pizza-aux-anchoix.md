@@ -4,6 +4,7 @@ date = 2023-08-31
 
 [taxonomies]
 categories = ["pizza"]
+tags = ["maghreb"]
 
 [extra]
 feature_image = "https://ik.imagekit.io/eaec9qogv/zola/pizza-anchois.jpg?updatedAt=1693485654171"

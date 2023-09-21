@@ -4,6 +4,7 @@ date = 2023-09-18
 
 [taxonomies]
 categories = ["plat principal"]
+tags = ["asie"]
 
 [extra]
 #feature_image = "/recettes/20230918_122910.jpg"

@@ -4,6 +4,7 @@ date = "2023-08-26"
 
 [taxonomies]
 categories = ["salade"]
+tags = ["maghreb"]
 
 [extra]
 feature_image = "https://ik.imagekit.io/eaec9qogv/zola/mechouia.jpg?updatedAt=1693288468568"

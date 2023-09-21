@@ -4,6 +4,7 @@ date = 2023-09-03
 
 [taxonomies]
 categories = ["dessert"]
+tags = ["maghreb"]
 
 [extra]
 feature_image = "https://ik.imagekit.io/eaec9qogv/zola/makrouts.jpg?updatedAt=1693727316276"
