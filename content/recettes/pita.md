@@ -22,7 +22,7 @@ preparations = [
   "Ajouter l'huile à la fin, integrer la pendant 30 secondes.",
   "Badigeonner un saladier d'huile et verser la pâte, laisser poser 1 heure.",
   "Séparer la pâte en 6 parts, faire des boules.",
-  "Sur un plateau fariné, laisser poser 30 minutes.",
+  "Sur un plateau fariné, poser les boules, recouvrir de film alimentaire pour éviter que la pâte sèche. Laisser reposer 30 minutes.",
   "Aplatir les boules au rouleau très finement.",
   "Dans une poele bien chaude, cuire 45 secondes, retourner les et cuire encore 20 secondes",
   "Placer les dans un torchons propre."
