@@ -4,6 +4,7 @@ date = 2023-09-20
 
 [taxonomies]
 categories = ["plat principal"]
+tags = ["asie"]
 
 [extra]
 feature_image = "https://images.unsplash.com/photo-1574653853027-5382a3d23a15?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1472&q=80"
@@ -32,7 +33,7 @@ ingredients_3_title = "Pour le roux de curry"
 ingredients_3 = [
   "50 g de beurre",
   "60 g de farine",
-  "1 cas de curcuma",
+  "2 cac de curcuma",
   "2 cac de graine de coriande",
   "2 cac de graine de cumin",
   "3 clou de girofle",
