@@ -1,0 +1,64 @@
+nav.left {
+    display: none!important;
+    width: 0!important;
+}
+
+nav.bottom {
+    display: none!important;
+}
+
+.rip {
+    display: none!important;
+}
+
+header, footer {
+    display: none!important;
+}
+
+.m6, s12, l4 {
+    grid-area: auto/span 6!important;
+}
+
+.banner-img {
+    height: 8rem!important;
+}
+
+.small-line {
+    line-height: 1.1!important;
+}
+
+div.row {
+    margin-top: .3rem!important;
+}
+
+#sig {
+    display: none!important;
+}
+
+div.grid.small-line.padding {
+    margin-top: 0!important;
+}
+
+div.space {
+    height: 0!important;
+}
+
+div.medium-space {
+    height: .4rem!important;
+}
+
+p.padding.medium-text {
+    padding: .4rem!important;
+}
+
+h4 {
+    font-size: 1.5rem!important;
+}
+
+h6 {
+    font-size: 1.2rem!important;
+}
+
+div.absolute.bottom.left.right.padding.bottom-shadow.bottom-round.white-text {
+    padding: .4rem!important;
+}
