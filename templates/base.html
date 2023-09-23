@@ -96,6 +96,10 @@
     <!-- for medium and large -->
     <nav class="m l left">
       {{ nav::routes() }}
+      <a href="/tags">
+        <i>my_location</i>
+        <span>Tags</span>
+      </a>
     </nav>
 
     {{ nav::dialog() }}
@@ -104,8 +108,11 @@
       {% block content %} {% endblock %}
     </main>
 
+  <div class="space"></div>
+
     {# footer #}
-    <div class="rip responsive">
+  <div class="responsive" id="footer">
+    <div class="rip">
       <div class="grid">
         <div class="s12 m12 l6">
           {{ footer::about() }}
@@ -122,5 +129,6 @@
     <div class="padding">
       {{ footer::copyright() }}
     </div>
+  </div>
   </body>
 </html>
