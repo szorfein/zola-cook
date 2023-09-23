@@ -16,6 +16,10 @@ ingredients = [
   "7 gr de levure boulangère fraîche ou 1 sachet de levure boulangère sèche.",
   "1 cas d'huile d'olive"
 ]
+ingredients_2_title = "Pour les graines"
+ingredients_2 = [
+  "1 càs de graine de sésame (facultatif)",
+]
 preparations = [
   "Dans un saladier, verser l'eau, le sucre et la levure.",
   "Bien mélanger pour dissoudre la levure.",
@@ -24,14 +28,13 @@ preparations = [
   "Préchauffer le four pendant 1 minute, la température a l'intérieur doit être dans les 20°C.",
   "Faire reposer la pâte dans le four pendant 1 heure.",
   "1 heure plus tard, ajouter le sel, les 100 gr de farine restant et pétrir.",
+  "Ajouter les graines si vous en mettez.",
   "Une fois que la pâte est assez souple, ajouter l'huile d'olive.",
-  "Remettre au four pendant 1 heure.",
-  "Si vous voulez 2 pains, séparer la pâte en 2 patons d'environ 256 gr, former des boules et les placer sur du papier de cuissson.",
-  "Pour une pizza, utiliser la boule entière, étaler la de facon à former un cercle à la main sans jamais toucher les bords (oublier le rouleau), vous laisserez au moins 3 centimètres aux bords.",
+  "Faire reposer la pâte dans le four pendant 1 heure.",
+  "Séparer la pâte en 2 patons d'environ 256 gr, former des boules et les placer sur du papier de cuissson.",
   "Laisser poser une dernière fois pendant 30 minutes dans un endroit à 20-22°C.",
   "Préchauffer le four à 240°C.",
-  "Pour des boules à pain, mettre un peu d'huile de tounesol et enfourner 20 minutes.",
-  "Pour une pizza, aprés l'avoir garnie, cuisson pendant 14 minutes."
+  "Badigeonner d'huile de tounesol et d'eau puis enfourner pour 20 minutes.",
 ]
 +++
-Pâtes à pain Napolitaine. Recette pour créer soit 2 petits pains soit une base pour pizza traditionnel.
+Recette pour créer 2 pains pour des sandwitchs. Peut être agrémenter de graines de sésame ou autre.
