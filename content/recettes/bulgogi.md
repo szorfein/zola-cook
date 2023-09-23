@@ -32,16 +32,15 @@ ingredients_2 = [
 ]
 preparations = [
   "Préparer la marinade, si vous avez un mixeur/blender, vous pouvez mixer tous les éléments ensemble.",
-  "Sinon, dans un saladier, raper le gingembre, la poire et l'ail, émincer l'oignon et la ciboule (partie blanche). Ajouter le reste, sauce soja, poivre, sucre, gouter et arranger selon vos goûts.",
-  "Emincer la viande le plus finement possible puis tout mélanger.",
+  "Sinon, dans un saladier, raper le gingembre, la poire et l'ail, émincer l'oignon et la ciboule (partie blanche). Ajouter le reste, sauce soja, poivre, sucre...",
+  "Gouter et arranger la marinade selon vos gout puis émincer la viande le plus finement possible et tout mélanger.",
   "Laisser poser 30 minutes minimum et sinon jusqu'a 48 heures filmé au frais.",
   "Pendant ce temps, coupez les légumes, émincer l'autre moitié d'oignon, couper la partie verte de la ciboule en tranches d'1cm.",
   "Dans une poêle, faire torrefier les graines de sésame puis réserver.",
-  "Dans une poële, faire chauffer l'huile.",
-  "Ajouter l'oignon, cuire 1 minute.",
-  "Ajouter la viande avec la marinade, cuire à feu vif jusqu'a ce que le mélange brunisse (presque noir). Ca va assez vite puis éteindre (4 minutes).",
+  "Faite chauffer une poële pendant 2 minutes, ajouter l'huile.",
+  "Ajouter l'oignon et la viande avec la marinade, cuire à feu vif jusqu'a ce que le mélange brunisse (presque noir). Ca va assez vite puis éteindre (4 minutes).",
   "Ajouter la ciboule.",
-  "Dresser dans les assietes et parsemer de graine de sésame."
+  "Dresser dans les assietes et parsemer de graine de sésame torréfier."
 ]
 +++
 
