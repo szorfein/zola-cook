@@ -13,13 +13,8 @@
 }
 
 .custom-width {
-    width: 18rem!important;
+    width: 17rem!important;
     max-width: 100%;
-}
-
-.shut-up {
-    visibility: hidden;
-    display: none;
 }
 
 .sticky {
@@ -27,6 +22,10 @@
 }
 
 @media only screen and (max-width: 600px) {
+  .beer-page {
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+  }
   .custom-height {
     height: 20rem!important;
   }
@@ -36,6 +35,10 @@
 }
 
 @media only screen and (min-width: 601px) and (max-width: 992px) {
+  .beer-page {
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+  }
   .custom-height {
     height: 18rem!important;
   }
@@ -45,6 +48,10 @@
 }
 
 @media only screen and (min-width: 993px) {
+  .beer-page {
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+  }
   .custom-height {
     height: 18rem!important;
   }
