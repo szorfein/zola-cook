@@ -37,4 +37,4 @@ preparations = [
 +++
 Chakchouka pour 4 personnes.  
 
-Servir avec des {{ link(url="/recettes/kesra", word="galettes") }} ou du pain.
+Servir avec des {{ link(url="/recettes/matlou", word="galettes") }} ou du pain.

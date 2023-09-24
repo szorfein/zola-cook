@@ -24,3 +24,7 @@ And deploy:
 ## Deployed
 
 Site deployed at: https://szorfein-zola-cook-default.edgio.link
+
+## Others
+
+After deployed, new sitemap is valided by clicking on https://www.google.com/ping?sitemap=https://szorfein-zola-cook-default.edgio.link/sitemap.xml
