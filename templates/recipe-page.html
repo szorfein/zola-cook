@@ -15,74 +15,79 @@
 </header>
 
 <main class="responsive">
-<article class="no-padding round fill">
+<article class="no-padding round">
+  <div class="grid">
 
-  {% if page.extra.feature_image %}
-  <img class="responsive medium banner-img" src="{{ page.extra.feature_image }}">
-  {% endif %}
+    <div class="s12">
+      {% if page.extra.feature_image %}
+      <img class="responsive medium banner-img" src="{{ page.extra.feature_image }}">
+      {% endif %}
 
-  <div class="absolute bottom left right padding bottom-shadow bottom-round white-text">
-    <nav>
-      <h3>{{ page.title }}</h3>
-    </nav>
+      <div class="absolute bottom left right padding bottom-shadow bottom-round white-text">
+        <nav>
+          <h3>{{ page.title }}</h3>
+        </nav>
+      </div>
+    </div>
+
+    <div class="s12">
+      <div class="padding medium-text">{{ page.content | safe }}</div>
+
+      <div class="grid small-line padding">
+        {% if page.extra.ingredients %}
+        <div class="s12 m6 l4">
+          <h4>Ingrédients</h4>
+          {% for ingredients in page.extra.ingredients %}
+          <div class="row">
+            <div class="max">
+              {{ ingredients | safe }}
+            </div>
+          </div>
+          {% endfor %}
+          <div class="medium-space"></div>
+          {% if page.extra.ingredients_2_title %}
+          <h6>{{ page.extra.ingredients_2_title }}</h6>
+          {% for ingredients in page.extra.ingredients_2 %}
+          <div class="row">
+            <div class="max">
+              {{ ingredients }}
+            </div>
+          </div>
+          {% endfor %}
+          <div class="medium-space"></div>
+          {% endif %}
+          {% if page.extra.ingredients_3_title %}
+          <h6>{{ page.extra.ingredients_3_title }}</h6>
+          {% for ingredients in page.extra.ingredients_3 %}
+          <div class="row">
+            <div class="max">
+              {{ ingredients }}
+            </div>
+          </div>
+          {% endfor %}
+          <div class="medium-space"></div>
+          {% endif %}
+        </div>
+        {% endif %}
+
+        {% if page.extra.ingredients %}
+        <div class="s12 m6 l8">
+          <h4>Préparation</h4>
+          {% for task in page.extra.preparations %}
+          <div class="row">
+            <div>
+              <button class="border small secondary-text secondary-border">
+                {{ loop.index }}
+              </button>
+            </div>
+            <div class="max">{{ task | safe }}</div>
+          </div>
+          {% endfor %}
+        </div>
+        {% endif %}
+      </div>
+    </div>
   </div>
 </article>
-
-<p class="padding medium-text">{{ page.content | safe }}</p>
-
-<div class="space"></div>
-<div class="grid small-line padding">
-  {% if page.extra.ingredients %}
-  <div class="s12 m6 l4">
-    <h4>Ingrédients</h4>
-    {% for ingredients in page.extra.ingredients %}
-    <div class="row">
-      <div class="max">
-        {{ ingredients | safe }}
-      </div>
-    </div>
-    {% endfor %}
-    <div class="medium-space"></div>
-    {% if page.extra.ingredients_2_title %}
-    <h6>{{ page.extra.ingredients_2_title }}</h6>
-    {% for ingredients in page.extra.ingredients_2 %}
-    <div class="row">
-      <div class="max">
-        {{ ingredients }}
-      </div>
-    </div>
-    {% endfor %}
-    <div class="medium-space"></div>
-    {% endif %}
-    {% if page.extra.ingredients_3_title %}
-    <h6>{{ page.extra.ingredients_3_title }}</h6>
-    {% for ingredients in page.extra.ingredients_3 %}
-    <div class="row">
-      <div class="max">
-        {{ ingredients }}
-      </div>
-    </div>
-    {% endfor %}
-    <div class="medium-space"></div>
-    {% endif %}
-  </div>
-  {% endif %}
-
-  {% if page.extra.ingredients %}
-  <div class="s12 m6 l8">
-    <h4>Préparation</h4>
-    {% for task in page.extra.preparations %}
-    <div class="row">
-      <div>
-        <button class="border small secondary-text secondary-border">
-          {{ loop.index }}
-        </button>
-      </div>
-      <div class="max">{{ task | safe }}</div>
-    </div>
-    {% endfor %}
-  </div>
-  {% endif %}
-</div>
 </main>
 {% endblock content %}
