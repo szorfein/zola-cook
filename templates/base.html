@@ -14,6 +14,7 @@
     <meta property="og:locale" content="{{ config.default_language }}" />
     <link rel="icon" type="image/x-icon" href="{{ get_url(path='/favicon.ico') }}">
     <link href="{{ get_url(path='/site.css') }}" type="text/css" rel="stylesheet" media="all">
+    <link href="{{ get_url(path='/print.css') }}" type="text/css" rel="stylesheet" media="print">
     {{ head::material() }}
     {% block rss %}
     <link rel="alternate" type="application/atom+xml" title="RSS" href="{{ get_url(path="atom.xml", trailing_slash=false) }}">
