@@ -44,7 +44,8 @@ preparations = [
   "Poser la pâte de datte sur la semoule et rouler les en serrant le plus possible.",
   "Couper le paton tout les 2 cm.",
   "Arranger chaque makrouts.",
-  "Faire chauffer à feux doux le sirop à base de miel et l'huile de friture pour les makrouts.",
+  "Faire chauffer à feux doux le sirop à base de miel. Ne surtout pas faire bouillir, c'est juste pour le rendre liquide.",
+  "Faire chauffer l'huile de friture pour les makrouts, vus qu'on utilise de l'huile d'olive dans nos makrouts, éviter de dépasser 180°C pour la friture.",
   "Plonger les makrouts dans l'huile pour les faire dorer, égoutter les et plonger les dans le sirop pendant 1 à 5 minutes puis réserver les."
 ]
 +++

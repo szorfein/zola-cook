@@ -1,5 +1,5 @@
 +++
-title = "Kesra"
+title = "Matlou3"
 date = 2023-08-23
 
 [taxonomies]
@@ -12,7 +12,7 @@ feature = true
 ingredients = [
   "200 gr de semoule extra-fine",
   "200 gr de farine T45 ou T55",
-  "210 ml d'eau",
+  "220 ml d'eau tiède",
   "40 ml d'huile d'olive",
   "1 bonne cac sel (5 gr)",
   "1 cac sucre",
