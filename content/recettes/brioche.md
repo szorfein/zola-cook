@@ -12,7 +12,7 @@ ingredients = [
   "10 g de levure sèche ou 20 g de levure fraîche",
   "1 cac de sel",
   "80 g de sucre (40 g de sucre roux et 40 g de sucre blanc)",
-  "4 oeufs",
+  "3 oeufs + 1 jaune pour la dorure",
   "120 g de beurre pommade (à température ambiante)",
   "3 càs d'eau",
   "lait",
@@ -27,7 +27,7 @@ preparations = [
   "Laisser poser dans un endroit à 20-24°C pendant 1 heure.",
   "Dégazer la pâte, ajouter le chocolat ou les pralines si vous en mettez. Faite une boule, filmer la et laisser reposer au frigo pendant 8 heures.",
   "Séparer la pâte en 3 ou 4 pour faire des tresses, ne surtout pas trop sérrer les tresses, cela risque d'exploser pour la prochain repo ou durant la cuisson et ca sera moche.",
-  "Pour 3 tresses: <a class=\"link\" href=\"https://yewtu.be/watch?v=T0sDTjwVUEI\">un peu longue</a>. Pour 4 tresses, <a class=\"link\" href=\"https://yewtu.be/watch?v=FGaeUZHdzxc\">voici une vidéo</a> ou <a class=\"link\" href=\"https://yewtu.be/watch?v=ZV8UY9PvrQo\">celle ci</a>.",
+  "Quelques vidéos si besoin pour 3 tresses: <a class=\"link\" href=\"https://yewtu.be/watch?v=T0sDTjwVUEI\">un peu longue</a>. Pour 4 tresses, <a class=\"link\" href=\"https://yewtu.be/watch?v=FGaeUZHdzxc\">voici une vidéo</a> ou <a class=\"link\" href=\"https://yewtu.be/watch?v=ZV8UY9PvrQo\">celle ci</a>.",
   "Poser la tresse sur du papier de cuisson et laisser poser dans un endroit à 20-24°C pendant 45 minutes.",
   "Dorer avec un jaune d'oeuf, vous pouvez aussi la saupoudrer de sucre roux si vous voulez et enfourner à 180°C pendant 35 minutes."
 ]
