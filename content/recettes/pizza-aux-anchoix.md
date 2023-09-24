@@ -51,7 +51,7 @@ preparations = [
   "Mettre les morceaux d'anchois directement dans la pâte, espacer-les tout les 3 à 4 centimètres.",
   "Verser la sauce tomates et étaler.",
   "Pour la garniture, ajouter les tomates en rondelle, les olives noire.",
-  "Enfourner à 220°C pendant 16 minutes",
+  "Enfourner à 210°C pendant 18 minutes. L'huile d'olive à un point de fumée à 216°C alors pas plus.",
   "Une fois cuite, saupoudrer la d'origan et de thym.",
   "Sorter la du plat et laisser refroidir sur une grille, ajouter de l'huile d'olive."
 ]

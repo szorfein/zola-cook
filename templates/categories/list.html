@@ -7,6 +7,14 @@
 {{ head::meta_simple(title = "Categories de recettes") }}
 {% endblock title %}
 
+{% block js %}
+<script type="text/javascript">
+</script>
+{% endblock js %}
+
+{% block js_onload %}
+{% endblock js_onload %}
+
 {% block content %}
 <header>
   <nav>
@@ -18,14 +26,9 @@
 </header>
 
 <main class="responsive">
-<div class="s">
   <nav class="scroll cat-badge my-sticky" id="my-sticky">
   {% for category in terms %}
-    {% if loop.index == 1 %}
-    <a class="chip beer-page-link active" data-ui="#{{ category.name | slugify }}_s" href="{{ category.permalink | safe }}">
-    {% else %}
-    <a class="chip beer-page-link" data-ui="#{{ category.name | slugify }}_s" href="{{ category.permalink | safe }}">
-    {% endif %}
+    <a class="chip beer-page-link" href="#{{ category.name | slugify }}">
       <span class="badge round secondary">{{ category.pages | length }}</span>
       {{ category.name }}
     </a>
@@ -33,47 +36,12 @@
   </nav>
 
   {% for category in terms %}
-    {% if loop.index == 1 %}
-    <div class="beer-page active" id="{{ category.name | slugify }}_s">
-    {% else %}
-    <div class="beer-page" id="{{ category.name | slugify }}_s">
-    {% endif %}
-    {{ categorie::list(category = category) }}
-    </div>
-  <noscript>
-    <div class="large-space"></div>
-  </noscript>
-  {% endfor %}
-</div>
-
-
-<div class="m l">
-  <nav class="scroll cat-badge my-sticky" id="my-sticky">
-  {% for category in terms %}
-    {% if loop.index == 1 %}
-    <a class="chip beer-page-link active" data-ui="#{{ category.name | slugify }}_m" href="{{ category.permalink | safe }}">
-    {% else %}
-    <a class="chip beer-page-link" data-ui="#{{ category.name | slugify }}_m" href="{{ category.permalink | safe }}">
-    {% endif %}
-      <span class="badge round secondary">{{ category.pages | length }}</span>
-      {{ category.name }}
-    </a>
-  {% endfor %}
-  </nav>
-
-  {% for category in terms %}
-  {% if loop.index == 1 %}
-  <article class="beer-page round active" id="{{ category.name | slugify }}_m">
-  {% else %}
-  <article class="beer-page round" id="{{ category.name | slugify }}_m">
-  {% endif %}
-  {{ categorie::list(category = category, class_name="custom-width") }}
+  <article class="beer-page round">
+  {{ categorie::list(category = category) }}
   </article>
-  <noscript>
-    <div class="medium-space"></div>
-  </noscript>
   {% endfor %}
 </div>
+
 </main>
 
 {% endblock content %}
