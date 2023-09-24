@@ -24,11 +24,11 @@ preparations = [
   "Badigeonner un saladier d'huile et verser la pâte, laisser poser 1 heure.",
   "Séparer la pâte en 6 parts, faire des boules.",
   "Sur un plateau fariné, poser les boules, recouvrir de film alimentaire pour éviter que la pâte sèche. Laisser reposer 30 minutes.",
-  "Aplatir les boules au rouleau très finement.",
-  "Dans une poele bien chaude, cuire 45 secondes, retourner les et cuire encore 20 secondes",
+  "Chauffer une poële sans matière grasse pendant 2 minutes.",
+  "Pendant ce temps, aplatir les boules au rouleau très finement.",
+  "Cuire sur une face pendant 45 secondes, retourner les et cuire encore 20 secondes",
   "Placer les dans un torchons propre."
 ]
 +++
 
 Recette pour 6 pains pita.
-
