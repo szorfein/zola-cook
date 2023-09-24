@@ -28,6 +28,7 @@
     </script>
     <script src="https://rum.edgio.net/latest.js" defer onload="initEdgioRum()">
     </script>
+  {% block js %} {% endblock %}
     <script type="text/javascript">
       function assert(test, msg) {
           var res = test ? "pass" : "fail"
@@ -42,22 +43,6 @@
               link[i].setAttribute("data-ui", "#dialog");
               link[i].classList.add("active");
               link[i].innerHTML = html
-          }
-      };
-      function load_pages() {
-          var pages = document.getElementsByClassName("beer-page-link");
-          for (let i = 0; i < pages.length; i++) {
-              pages[i].setAttribute("href", "javascript:void(0)");
-          }
-
-          var pages = document.getElementsByClassName("beer-page");
-          for (let i = 0; i < pages.length; i++) {
-              pages[i].classList.add("page");
-          }
-
-          var titles = document.getElementsByClassName("beer-page-title");
-          for (let i = 0; i < pages.length; i++) {
-              titles[i].classList.add("shut-up");
           }
       };
       function load_sticky() {
@@ -79,7 +64,7 @@
       };
       window.onload = function() {
           load_explore();
-          load_pages();
+        {% block js_onload %} {% endblock %}
       };
       window.addEventListener("scroll", function(evt) {
           load_sticky();
@@ -97,6 +82,10 @@
     <!-- for medium and large -->
     <nav class="m l left">
       {{ nav::routes() }}
+      <a href="/tags">
+        <i>my_location</i>
+        <span>Tags</span>
+      </a>
     </nav>
 
     {{ nav::dialog() }}
@@ -105,8 +94,11 @@
       {% block content %} {% endblock %}
     </main>
 
+  <div class="space"></div>
+
     {# footer #}
-    <div class="rip responsive">
+  <div class="responsive" id="footer">
+    <div class="rip">
       <div class="grid">
         <div class="s12 m12 l6">
           {{ footer::about() }}
@@ -123,5 +115,6 @@
     <div class="padding">
       {{ footer::copyright() }}
     </div>
+  </div>
   </body>
 </html>

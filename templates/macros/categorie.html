@@ -1,11 +1,20 @@
-{% macro list(category, class_name="small-width") %}
-<h5 class="capitalize beer-page-title">{{ category.name }}</h5>
+{% macro list(category) %}
+<a name="{{ category.name | slugify }}">
+  <h5 class="capitalize beer-page-title">{{ category.name }}</h5>
+</a>
 <div class="row scroll">
 {% for post in category.pages %}
   {% if loop.index <= 4 %}
-  <div class="custom-height {{ class_name }}">
+                      <div class="s m">
+  <div class="custom-height small-width">
     {{ material::card(post=post) }}
   </div>
+  </div>
+                      <div class="l">
+  <div class="custom-height custom-width">
+    {{ material::card(post=post) }}
+  </div>
+                        </div>
   {% endif %}
 {% endfor %}
 </div>
@@ -24,7 +33,6 @@
   </a>
 </div>
 </div>
-</article>
 {% endmacro %}
 
 {% macro display(term, number=2) %}
