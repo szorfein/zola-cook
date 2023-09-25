@@ -8,6 +8,7 @@ tags = ["asie"]
 
 [extra]
 feature_image = "https://ik.imagekit.io/eaec9qogv/zola/bulgogi.jpg?updatedAt=1695408837062"
+imagekit = true
 ingredients = [
   "300 g de viande de boeuf (faux-filet, entrecote, bassecôte, bavette) ou du porc",
   "1/2 d'oignon",

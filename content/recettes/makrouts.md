@@ -8,7 +8,7 @@ tags = ["maghreb"]
 
 [extra]
 feature_image = "https://ik.imagekit.io/eaec9qogv/zola/makrouts.jpg?updatedAt=1693727316276"
-
+imagekit = true
 ingredients = [
   "500 g de semoule moyenne",
   "166 ml d'huile d'olive",

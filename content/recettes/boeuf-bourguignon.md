@@ -7,6 +7,7 @@ categories = ["plat principal"]
 
 [extra]
 feature_image = "https://ik.imagekit.io/eaec9qogv/zola/boeuf-bourguignon.jpg?updatedAt=1693640029840"
+imagekit = true
 ingredients = [
   "1.5 kg de paleron ou de viande pour boeuf bourguignon",
   "1 gros oignon",

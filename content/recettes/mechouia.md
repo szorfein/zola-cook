@@ -8,8 +8,7 @@ tags = ["maghreb"]
 
 [extra]
 feature_image = "https://ik.imagekit.io/eaec9qogv/zola/mechouia.jpg?updatedAt=1693288468568"
-feature = true
-
+imagekit = true
 ingredients = [
   "4 poivrons",
   "4 tomates",

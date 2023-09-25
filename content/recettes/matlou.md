@@ -8,7 +8,7 @@ tags = ["maghreb"]
 
 [extra]
 feature_image = "https://ik.imagekit.io/eaec9qogv/zola/kesra.jpg?updatedAt=1693290087682"
-feature = true
+imagekit = true
 ingredients = [
   "200 gr de semoule extra-fine",
   "200 gr de farine T45 ou T55",

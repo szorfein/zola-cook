@@ -24,3 +24,15 @@ And deploy:
 ## Deployed
 
 Site deployed at: https://szorfein-zola-cook-default.edgio.link
+
+## Imagekit
+
+imagekit use a website analyzer: https://imagekit.io/website-analyzer
+
+In resume, all images should be format in webp...
+
+    $ cwebp -q 90 example.jpeg -o example.webp
+
+Metadata are erased too using mat2
+
+    $ mat2 example.jpeg

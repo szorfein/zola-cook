@@ -8,6 +8,7 @@ tags = ["maghreb"]
 
 [extra]
 feature_image = "https://ik.imagekit.io/eaec9qogv/zola/pizza-anchois.jpg?updatedAt=1693485654171"
+imagekit = true
 ingredients = [
   "500 g de farine T55",
   "330 ml d'eau",
