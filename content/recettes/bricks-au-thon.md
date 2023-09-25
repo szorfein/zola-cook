@@ -9,7 +9,7 @@ tags = ["maghreb"]
 [extra]
 #feature_image = "https://dietetique-en-ligne.com/wp-content/uploads/2016/06/Samoussas-thon-2.jpg"
 #feature_image = "https://assets.afcdn.com/recipe/20130910/16156_w3072h2304c1cx2128cy1416.jpg"
-feature_image = "https://ik.imagekit.io/eaec9qogv/zola/brick-au-thon.jpg?updatedAt=1693289958095"
+feature_image = "https://ik.imagekit.io/eaec9qogv/zola/briks-thon.webp?updatedAt=1695642684268"
 imagekit = true
 ingredients = [
   "6 feuilles de brick",

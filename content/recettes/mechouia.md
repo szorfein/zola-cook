@@ -7,7 +7,7 @@ categories = ["salade"]
 tags = ["maghreb"]
 
 [extra]
-feature_image = "https://ik.imagekit.io/eaec9qogv/zola/mechouia.jpg?updatedAt=1693288468568"
+feature_image = "https://ik.imagekit.io/eaec9qogv/zola/mechouia.webp?updatedAt=1695642681486"
 imagekit = true
 ingredients = [
   "4 poivrons",
