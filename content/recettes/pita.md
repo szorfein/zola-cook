@@ -3,7 +3,7 @@ title = "Pita"
 date = 2023-09-17
 
 [taxonomies]
-categories = ["pain"]
+categories = ["pain", "accompagnement"]
 tags = ["maghreb"]
 
 [extra]

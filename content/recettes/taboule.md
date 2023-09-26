@@ -3,11 +3,11 @@ title = "Taboulé"
 date = 2023-08-27
 
 [taxonomies]
-categories = ["accompagnement"]
+categories = ["accompagnement", "salade"]
 
 [extra]
-feature_image = "https://ik.imagekit.io/eaec9qogv/zola/taboule.jpg?updatedAt=1693289776765"
-feature = true
+feature_image = "https://ik.imagekit.io/eaec9qogv/zola/taboule.webp?updatedAt=1695642690586"
+imagekit = true
 ingredients = [
   "1 kg de semoule fine",
   "1 kg de tomate",
