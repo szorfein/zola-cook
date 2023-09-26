@@ -7,6 +7,7 @@ categories = ["dessert"]
 
 [extra]
 feature_image = "https://ik.imagekit.io/eaec9qogv/zola/tarte-aux-noix.webp?updatedAt=1695712827976"
+imagekit = true
 ingredients = [
   "200 g de noix",
 ]

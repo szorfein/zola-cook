@@ -7,6 +7,7 @@ categories = ["plat principal", "gratin"]
 
 [extra]
 feature_image = "https://ik.imagekit.io/eaec9qogv/zola/hachis-parmentier.webp?updatedAt=1695642693678"
+imagekit = true
 ingredients = [
   "400 g de boeuf haché",
   "1 oignon",
