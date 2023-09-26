@@ -7,6 +7,7 @@ categories = ["plat principal", "accompagnement", "gratin"]
 
 [extra]
 feature_image = "https://ik.imagekit.io/eaec9qogv/zola/gratin-dauphinois.webp?updatedAt=1695713816505"
+imagekit = true
 ingredients = [
   "1 L de crème liquide",
   "1.2 kg de pomme de terre",
