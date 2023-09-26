@@ -26,7 +26,8 @@ ingredients_2 = [
   "1 carotte (pour l'acidité)",
   "2 feuilles de laurier",
   "1 branche de céleri (facultatif)",
-  "10 feuilles de basilic frais (facultatif)"
+  "10 feuilles de basilic frais (facultatif)",
+  "100 g de chair à saucisse ou saucisse de porc (facultatif)"
 ]
 ingredients_3_title = "Pour la béchamel"
 ingredients_3 = [
@@ -38,7 +39,7 @@ ingredients_3 = [
   "1 pincée de muscade"
 ]
 preparations = [
-  "Préparer les légumes, émincer l'oignon, la carotte et le céleri, écraser et haché l'ail.",
+  "Préparer les légumes, ciseler l'oignon, émincer la carotte et le céleri, écraser et haché l'ail.",
   "Dans une cocotte, faire revenir la viande puis réserver la.",
   "Ajouter et cuire l'oignon avec le céleri pendant 2 minutes avec une pincée de sel.",
   "Ajouter le concentré de tomate, l'ail, le thym, le poivre, cuire pendant 2 minutes en remuant.",
