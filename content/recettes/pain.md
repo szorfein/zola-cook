@@ -35,8 +35,8 @@ preparations = [
   "Faire reposer la pâte dans le four pendant 1 heure.",
   "Séparer la pâte en 2 patons d'environ 256 gr, former des boules et les placer sur du papier de cuissson.",
   "Laisser poser une dernière fois pendant 30 minutes dans un endroit à 20-22°C.",
-  "Préchauffer le four à 240°C (en retirant le lèchefrite).",
-  "Versez 4 verres d'eau dans le lèchefrite puis enfourner pour 20 minutes.",
+  "Préchauffer le four à 240°C avec un moule à cake remplit à moitié d'eau.",
+  "Enfourner pour 18 minutes.",
 ]
 +++
 Recette pour créer 2 pains pour des sandwitchs. Peut être agrémenter de graines de sésame ou autre.

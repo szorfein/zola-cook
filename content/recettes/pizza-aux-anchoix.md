@@ -39,22 +39,20 @@ preparations = [
   "Commencons par la pâte a pizza, la recette est faite au robot mais vous pouvez la faire à la main.",
   "Dans un grand recipient, mélanger l'eau, le sucre et la levure.",
   "Dans le bac du robot, ajouter 330g de farine, gardez le reste pour plus tard.",
-  "Mélanger à la vitesse minimum et ajouter l'eau progressivement. Continuer à tourner pendant 3 minutes.",
-  "Faire poser pendant 1 heure.",
-  "Ajouter le reste de farine (170 g), le sel. Remixer à vitesse moyenne pendant 8 minutes. Finisser par ajouter l'huile d'olive, mélanger pendant 1 à 2 minutes.",
-  "Même si la pâte et un peu collante, n'ajouter plus de farine. et laisser poser encore 1 heure, a ce stade, vous pouvez aussi la conserver jusqu'a 12 heures maximum au frais avec un film si besoin.",
-  "Pour la sauce tomate.",
-  "Emincer les tomates puis verser les dans un récipient.",
+  "Mélanger en ajoutant l'eau progressivement pendant 3 minutes.",
+  "Faire poser pendant 1 heure dans un endroit à 20-22°C.",
+  "Ajouter le reste de farine (170 g), le sel. Mélanger à vitesse moyenne pendant 8 minutes puis incorporer l'huile d'olive.",
+  "Laisser poser encore 1 heure, à ce stade, vous pouvez aussi la conserver jusqu'a 12 heures maximum au frais avec un film si besoin.",
+  "Pour la sauce tomate, commencez par émincer les tomates puis verser les dans un récipient.",
   "Faire cuire l'oignon avec 2 cas d'huile d'olive à feu doux et 1 pincée de sel.",
-  "Une fois cuit, ajouter le concentré de tomate, l'ail, le thym, laisser cuire 1 minute en remuant.",
+  "Ajouter le concentré de tomate, l'ail, le thym, laisser cuire 1 minute en remuant.",
   "Ajouter les tomates, le laurier, du sel et du sucre si besoin, laisser la sauce réduire pendant 10 minutes.",
-  "Pour la pizza, huiler le plat de cuisson (lèchefrite) avec 2-3 cas d'huile d'olive et verser la pâte, étaler sur toute la surface, huiler vos doigts si besoin puis laisser poser 30 à 40 minutes.",
+  "Huiler le plat de cuisson (lèchefrite) avec 2 càs d'huile d'olive. Verser et taler la pâte, huiler vos doigts si besoin et laisser poser 30 minutes.",
   "Mettre les morceaux d'anchois directement dans la pâte, espacer-les tout les 3 à 4 centimètres.",
-  "Verser la sauce tomates et étaler.",
-  "Pour la garniture, ajouter les tomates en rondelle, les olives noire.",
+  "Verser la sauce tomates et étaler la puis ajouter les tomates en rondelle, les olives noire.",
   "Enfourner à 210°C pendant 18 minutes. L'huile d'olive à un point de fumée à 216°C alors pas plus.",
-  "Une fois cuite, saupoudrer la d'origan et de thym.",
-  "Sorter la du plat et laisser refroidir sur une grille, ajouter de l'huile d'olive."
+  "Une fois cuite, saupoudrer la d'origan, de thym et d'huile d'olive.",
+  "Sorter la du plat et laisser refroidir sur une grille."
 ]
 +++
 Voici une pizza carré aux anchois et sans fromage, aussi appellé la pizza algérienne ou pizza du boulanger.

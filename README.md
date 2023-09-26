@@ -25,7 +25,7 @@ And deploy:
 
 Site deployed at: https://szorfein-zola-cook-default.edgio.link
 
-## Imagekit
+### Imagekit
 
 imagekit use a website analyzer: https://imagekit.io/website-analyzer
 
@@ -33,6 +33,10 @@ In resume, all images should be format in webp...
 
     $ cwebp -q 90 example.jpeg -o example.webp
 
-Metadata are erased too using mat2
+Metadata are erased too using mat2 for reduce image size.
 
     $ mat2 example.jpeg
+
+### Sitemap
+
+After deployed, new sitemap is valided by clicking on https://www.google.com/ping?sitemap=https://szorfein-zola-cook-default.edgio.link/sitemap.xml
