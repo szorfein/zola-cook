@@ -7,14 +7,8 @@ categories = ["plat principal"]
 tags = ["asie"]
 
 [extra]
-#feature_image = "/recettes/20230918_122910.jpg"
-#feature_image = "/recettes/20230918_122923.jpg"
-#feature_image = "/recettes/20230918_123224.jpg"
-#feature_image = "/recettes/20230918_123225.jpg"
-#feature_image = "/recettes/20230918_122833.jpg"
-#feature_image = "/recettes/20230918_122833.cleaned.jpg"
-#feature_image = "/recettes/20230918_122946.jpg"
-feature_image = "https://ik.imagekit.io/eaec9qogv/zola/bobun.jpg?updatedAt=1695043895945"
+feature_image = "https://ik.imagekit.io/eaec9qogv/zola/bobun.webp?updatedAt=1695642457872"
+imagekit = true
 ingredients = [
   "1 steack de boeuf (environ 100 g)",
   "160 g de vermicelles de riz (80 g par personnes)",

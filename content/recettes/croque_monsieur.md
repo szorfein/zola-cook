@@ -7,6 +7,7 @@ categories = ["sandwitch"]
 
 [extra]
 feature_image = "https://ik.imagekit.io/eaec9qogv/zola/croque-monsieur.jpg?updatedAt=1694883617077"
+imagekit = true
 ingredients = [
   "400 ml de lait",
   "25 g de beurre",
