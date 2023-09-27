@@ -24,7 +24,7 @@ ingredients_2 = [
   "1 càc de rhum ambré (facultatif)"
 ]
 preparations = [
-  "Dans un récipients, bien mélanger le sucre avec le beurre.",
+  "Dans un récipient, bien mélanger le sucre avec le beurre.",
   "Ajouter les oeufs.",
   "Ajouter tous les autres ingrédients et mélanger.",
   "Dans un plat à tarte, mettre une première pâte.",
