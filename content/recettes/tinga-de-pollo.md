@@ -11,7 +11,7 @@ imagekit = true
 ingredients = [
   "30 g de chorizo (facultatif)",
   "1 oignon",
-  "1/2 choux blanc (facultatif)",
+  "1/3 choux blanc (facultatif)",
   "huile d'olive ou de tournesol pour la cuisson"
 ]
 ingredients_2_title = "Pour le bouillon"
@@ -33,12 +33,12 @@ ingredients_3 = [
   "poivre noir",
 ]
 preparations = [
-  "Dans une marmitte, mettre tous les ingrédients pour le bouillon et recouvrir d'eau.",
-  "Porter à ébullition puis faite cuire 30 minutes à feu doux.",
+  "Dans une marmite, mettre tous les ingrédients pour le bouillon et recouvrir d'eau.",
+  "Porter à ébullition (à couvert) puis faite cuire 30 minutes à feu doux.",
   "Ensuire sortez le poulet et émietter le avec des fourchettes.",
-  "Dans un blender, ajouter les légumes du bouillon (oignon, ail), et tous les ingrédients pour le mixeur.",
+  "Dans un blender, ajouter les légumes du bouillon (oignon, ail), et tous les ingrédients à mixer.",
   "Filtrer le reste du bouillon et garder le.",
-  "Emincer l'oignon et le choux.",
+  "Emincer l'oignon et le choux, couper le chorizo en cube.",
   "Dans une cocotte, ajoutez l'huile ou le chorizo puis faite revenir l'oignon et le choux.",
   "Ajouter le poulet émiétté, essayez d'avoir le maximum de sucs de cuisson.",
   "Déglacer avec 2 louches de bouillon.",
@@ -46,4 +46,4 @@ preparations = [
 ]
 +++
 
-Recette mexicaine de poulet très épicé pour 4 personnes. Assez rapide à faire. Vous aurez même un peu de fond de volaille en prime. Peut être manger avec du riz, des pâtes, ou encore mieux, des {{ link(url='/recettes/tortillas', word='tortillas') }} ou des {{ link(url='/recettes/pita', word='pita') }} + avocat + salade + oignon + citron vert + feta ou cheddar + coriande fraîche.
+Recette mexicaine de poulet cuit avec des piments (chipotles) pour 4 personnes. Assez rapide à faire. Vous aurez même un peu de fond de volaille en prime. Peut être manger avec du riz, des pâtes, ou encore mieux, des {{ link(url='/recettes/tortillas', word='tortillas') }} ou des {{ link(url='/recettes/pita', word='pita') }} + avocat + salade + oignon + citron vert + feta ou cheddar + coriande fraîche.
