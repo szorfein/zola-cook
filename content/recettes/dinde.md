@@ -8,21 +8,24 @@ categories = ["plat principal"]
 [extra]
 feature_image = "https://images.unsplash.com/photo-1574672280600-4accfa5b6f98?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80"
 ingredients = [
-  "1 poignée de persil",
-  "4 gousses d'ail",
-  "1 cas de thym",
-  "1 cac de 4 épices",
-  "1/2 cac de poivre",
-  "25 gr de morilles sèche",
-  "1.5 kg de chair à saucisse",
-  "300 gr de pain (même rassis)",
-  "8 oeufs",
-  "160 gr d'olive verte (denoyauté)",
   "1 boite de marron en conserve ou en bocal",
   "du fil alimentaire et une aiguille pour recoudre la dinde",
   "4 tomates",
   "4 oignons",
   "1 dinde (sans blague)"
+]
+ingredients_2_title = "Pour la farce"
+ingredients_2 = [
+  "1 kg 500 de chair à saucisse",
+  "1 poignée de persil",
+  "4 gousses d'ail",
+  "2 càc de thym",
+  "1 cac de 4 épices",
+  "1/2 cac de poivre",
+  "50 g de morilles séché",
+  "280 g de pain (même rassis)",
+  "8 oeufs",
+  "200 g d'olive verte (denoyauté)",
 ]
 preparations = [
   "Faire trempé les champignons comme indiqué sur la boîte, bien les nettoyer.",
