@@ -10,7 +10,8 @@ feature_image = "https://ik.imagekit.io/eaec9qogv/zola/frangipane.webp?updatedAt
 imagekit = true
 ingredients = [
   "2 pâtes feuilleté",
-  "1 jaune d'oeuf pour la dorure"
+  "1 jaune d'oeuf pour la dorure",
+  "1 à 2 fèves (si vous êtes sympa)"
 ]
 ingredients_2_title = "Pour la frangipane"
 ingredients_2 = [
@@ -24,16 +25,16 @@ ingredients_2 = [
   "1 càc de rhum ambré (facultatif)"
 ]
 preparations = [
-  "Dans un récipient, bien mélanger le sucre avec le beurre.",
-  "Ajouter les oeufs.",
-  "Ajouter tous les autres ingrédients et mélanger.",
-  "Dans un plat à tarte, mettre une première pâte.",
+  "Dans un récipient, bien mélanger le sucre avec le beurre jusqu'a ce que cela blanchisse.",
+  "Ajouter les oeufs 1 à 1.",
+  "Ajouter le reste des ingrédients et mélanger.",
+  "Dans un plat à tarte, poser une première pâte.",
   "Versez l'appareil à frangipane.",
-  "Ajoutez la seconde pâte feuilleté, pincer les bords pour bien les soudés.",
-  "Dorer avec le jaune d'oeuf.",
+  "Ajoutez la seconde pâte, pincer les bords pour bien les soudés.",
+  "Dorer avec le jaune d'oeuf, faîtes une déco.",
   "Enfourner à 210°C pendant 20 minutes."
 ]
 +++
 
-Voici une galette frangipane pour 6 personnes. Bien meilleure que tout ce que vous trouverez en superette et très facile à faire.
+Voici une galette frangipane pour 8 personnes. Bien meilleur que tout ce que vous trouverez en superette et très facile à faire.
 
