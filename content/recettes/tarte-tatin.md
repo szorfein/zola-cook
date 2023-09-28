@@ -6,7 +6,8 @@ date = 2023-09-27
 categories = ["dessert"]
 
 [extra]
-feature_image = "https://cookwith.co.uk/files/Recipes/tarte-tatin.jpg"
+feature_image = "https://ik.imagekit.io/eaec9qogv/zola/tarte-tatin.webp?updatedAt=1695828304753"
+imagekit = true
 ingredients = [
   "10 pommes (Pink Lady, Royal Gala, Golden ou autre)",
   "1 pâte brisé ou sablé épaisse (sinon 2) ou 1 pâte feuilleté",
@@ -20,7 +21,7 @@ ingredients_2 = [
   "40 g de beurre",
 ]
 preparations = [
-  "Préparer les pommes, éplucher les, couper les en 2 ou en 4, cela dépend de la grosseur des pommes et de votre moule et enlever les pépins et le reste.",
+  "Préparer les pommes, éplucher les, couper les en 2 ou en 4, cela dépend de la grosseur des pommes et de la hauteur de votre moule. Enlever les pépins et le reste.",
   "Précuire les pommes, cela évitera qu'elle ne lache trop d'eau pendant la cuisson, dans une casserole, mettre 20 g de beurre et plonger y les pommes.",
   "Cuire à feu doux et à couvert pendant 10 minutes, retirer les pommes dès qu'elles sont cuitent.",
   "Faire le caramel, dans une casserole, versez le sucre avec 2 càs d'eau.",

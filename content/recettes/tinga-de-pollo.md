@@ -7,7 +7,6 @@ categories = ["plat principal"]
 
 [extra]
 feature_image = "https://ik.imagekit.io/eaec9qogv/zola/tinga-de-pollo.webp?updatedAt=1695744763917"
-#feature_image = "https://i.pinimg.com/originals/bc/9d/45/bc9d45f2ae735b954391e96b51470a7f.jpg"
 imagekit = true
 ingredients = [
   "30 g de chorizo (facultatif)",
@@ -40,7 +39,7 @@ preparations = [
   "Dans un blender, ajouter les légumes du bouillon (oignon, ail), et tous les ingrédients pour le mixeur.",
   "Filtrer le reste du bouillon et garder le.",
   "Emincer l'oignon et le choux.",
-  "Dans une cocotte, faite revenir l'oignon et le choux si vous en mettez avec le chorizo ou de l'huile.",
+  "Dans une cocotte, ajoutez l'huile ou le chorizo puis faite revenir l'oignon et le choux.",
   "Ajouter le poulet émiétté, essayez d'avoir le maximum de sucs de cuisson.",
   "Déglacer avec 2 louches de bouillon.",
   "Ajouter la sauce du mixeur, laisser cuire 10 minutes ou jusqu'a ce que le sauce réduise.",
