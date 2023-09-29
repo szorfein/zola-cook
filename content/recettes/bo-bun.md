@@ -10,7 +10,7 @@ tags = ["asie"]
 feature_image = "https://ik.imagekit.io/eaec9qogv/zola/bobun.webp?updatedAt=1695642457872"
 imagekit = true
 ingredients = [
-  "1 steack de boeuf (environ 100 g)",
+  "100 g de viande de boeuf",
   "160 g de vermicelles de riz (80 g par personnes)",
   "1/2 carotte",
   "1/4 de concombre",
