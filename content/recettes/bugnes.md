@@ -17,7 +17,7 @@ ingredients = [
   "30 g de sucre",
   "100 ml d'eau",
   "1 càs d'eau de fleur d'oranger (facultatif)",
-  "Equivalent d'1 càs de zeste de citron/orange (facultatif)",
+  "Equivalent de 2 càc de zeste de citron/orange (facultatif)",
   "huile de friture",
   "sucre glace"
 ]

@@ -18,7 +18,7 @@ ingredients = [
 ]
 ingredients_2_title = "Pour la Tahina"
 ingredients_2 = [
-  "40 g de graines de sésame dorée",
+  "45 g de graines de sésame dorée",
   "huile d'olive"
 ]
 ingredients_3_title = "Pour la déco"
@@ -36,7 +36,7 @@ preparations = [
   "Le lendemain ou 8 h après, cuire les pois chiche, ils doivent être fondant puis égouttez et rincer les (cela a pris 1 heure mais ca depend du calibre/marque/etc...).",
   "Faire la Tahina, dans un hachoir, versez les graines de sesame et mixer.",
   "Ajouter de l'huile d'olive progressivement jusqu'a avoir une crème.",
-  "Vous pouvez ajouter le reste des ingrédients avec la tahina is votre appareil est assez grand.",
+  "Vous pouvez ajouter le reste des ingrédients avec la tahina si votre appareil est assez grand.",
   "Ajouter les pois chiche (150-160 g), la gousse d'ail rapée, et mettez le reste des ingrédients avec la tahina.",
   "Mixer jusqu'a avoir une texture bien lisse.",
   "Gouter et arranger selon vos gouts (sel, citron).",
