@@ -7,7 +7,16 @@ template = "page.html"
 ### Informations éditeurs
 
 Le site de Zola-Cook est édité et géré par https://github.com/szorfein.  
+
+Si vous constatez des erreurs éditorials (orthographe, mauvaise explication) ou souhaitez voir une recette en particulier ou des problèmes technique lié au site, contactez nous:  
+
++ Courriel: warp.stinger062@simplelogin.com
++ Mastodon: https://mastodon.social/@zola__cook
+
+{{ space() }}
+
 Le code source est librement accessible sur https://github.com/szorfein/zola-cook.
+
 {{ space() }}
 
 ##### Hébergement
