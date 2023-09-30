@@ -6,8 +6,8 @@ date = 2023-09-29
 categories = ["dessert"]
 
 [extra]
-#feature_image = "https://i.pinimg.com/originals/a4/12/a5/a412a558ea1bfb0b233fcabf5a51dfd9.jpg"
-feature_image = "https://www.lapatedamanda.com/wp-content/uploads/2018/02/bugnes-3.jpg"
+feature_image = "https://ik.imagekit.io/eaec9qogv/zola/bugnes.webp?updatedAt=1696018708645"
+imagekit = true
 ingredients = [
   "300 g de farine",
   "1 oeuf",
