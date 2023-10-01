@@ -52,4 +52,4 @@ preparations = [
 ]
 +++
 
-Forêt Noire classique (aussi connu sous le nom Schwarzwalder Kirschtorte) pour 8 ou 10.
+Forêt Noire classique (aussi connu sous la douce appélation de Schwarzwalder Kirschtorte) pour 8 ou 10.
