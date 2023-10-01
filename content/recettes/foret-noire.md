@@ -10,7 +10,8 @@ feature_image = "https://caketimetvm.com/images/photocollage/oc5.jpg"
 ingredients = [
   "100 de chocolat noir en tablette (pour les copeaux)",
   "500 g de cerise en bocal",
-  "40 ml de kirsh (facultatif)"
+  "40 ml de kirsh (facultatif)",
+  "10 cerises fraîche pour la déco (facultatif)"
 ]
 ingredients_2_title = "Pour la génoise"
 ingredients_2 = [
@@ -35,7 +36,7 @@ preparations = [
   "Ajouter les jaunes d'oeufs.",
   "Stopper le robot. Ajouter le reste des ingredients.",
   "Mélanger délicatement avec une spatule pour ne pas faire retomber les blancs en neige.",
-  "Beurrer un moule, versez notre appareil et enfourner à 150°C pendant 45 minutes.",
+  "Beurrer un moule, versez notre appareil et enfourner à 160°C pendant 30 minutes.",
   "Pendant ce temps, les copeaux de chocolat. Vous pour utiliser soit un économe soit émincer avec un couteau puis mettre les copeaux au frais.",
   "Maintenant le sirop, dans un bol, versez 80 ml de sirop des cerises avec le kirsh et mélanger.",
   "Démouler la génoise et attendre qu'elle refroidisse complétement.",
