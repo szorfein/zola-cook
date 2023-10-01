@@ -37,7 +37,7 @@ preparations = [
   "Commencer à faire chauffer l'huile de friture dans une poele assez large.",
   "Sur une feuille de brick, placer au centre 1 grosse cas de la farce",
   "Pour l'oeuf si vous en voulez, faite un petit trou au centre et casser le.",
-  "Plier la brick, vous pouvez regarder sur ce <a class='link' href='http://mangez-moi.fr/brick-tunisienne-au-thon/'>site</a> pour voir comment faire.",
+  "Plier la brick, vous pouvez regarder sur cette <a class='link' href='https://yewtu.be/watch?v=9gLKs5o7zo4'>vidéo</a> pour faire de beau triangle (à 2 minutes 12).",
   "Cuire les bricks environ 2 minutes de chaque coté."
 ]
 +++
