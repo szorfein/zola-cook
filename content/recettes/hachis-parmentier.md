@@ -14,7 +14,7 @@ ingredients = [
   "2 tomates",
   "2 gousses d'ail",
   "1 càs de concentré de tomate",
-  "2 poignée de chapelure de pain, vous pouvez en mixer ou acheté tout fait"
+  "2 poignées de chapelure de pain (vous pouvez mixer du pain sec ou acheter tout fait)"
 ]
 ingredients_2_title = "Pour les épices"
 ingredients_2 = [
@@ -28,25 +28,25 @@ ingredients_2 = [
 ]
 ingredients_3_title = "Pour la purée"
 ingredients_3 = [
-  "2 sachets de purée déshydraté",
+  "2 sachets de purée déshydratée",
   "750 ml d'eau",
   "750 ml de lait",
   "25 g de beurre",
   "1 càc de sel"
 ]
 preparations = [
-  "Préparer les légumes, ciselé l'oignon, émincer les tomates, écraser et haché l'ail.",
-  "Dans une sauteuse, faîte cuire la viande, bien la faire coloré/brunir et reserver la.",
+  "Préparer les légumes, ciseler l'oignon, émincer les tomates, écraser et hacher l'ail.",
+  "Dans une sauteuse, faites cuire la viande, bien la faire colorée/brunir et reserver là.",
   "Ajouter l'oignon.",
   "Ajouter le concentré de tomate, l'ail. et toutes les épices, faire cuire 2 minutes en mélangeant.",
   "Ajouter les tomates, cuire encore 1 minute.",
-  "Versez le tout dans un plat à gratin, gouter et arranger selon vos goût.",
+  "Verser le tout dans un plat à gratin, gouter et arranger selon vos goûts.",
   "Préparer la purée, faire bouillir le lait avec l'eau.",
   "Ajouter les sachets de purée puis le beurre, sel, gouter et arranger selon vos goûts.",
-  "Versez la purée sur la viande, saupoudrez de chapelure.",
+  "Verser la purée sur la viande, saupoudrer de chapelure.",
   "Enfourner à 210°C pendant 35 minutes."
 ]
 +++
 
-Hachis parmentier express en moins d'une heure pour 6 personnes, bien épicée.
+Hachis parmentier express en moins d'une heure pour 6 personnes, bien épicé.
 
