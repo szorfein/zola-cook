@@ -62,3 +62,13 @@ h6 {
 div.absolute.bottom.left.right.padding.bottom-shadow.bottom-round.white-text {
     padding: .4rem!important;
 }
+
+body {
+    padding: 0rem!important;
+    margin: 0rem!important;
+}
+
+main.responsive {
+    padding: 0rem!important;
+    margin: 0rem!important;
+}

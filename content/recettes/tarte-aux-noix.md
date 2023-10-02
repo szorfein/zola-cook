@@ -25,21 +25,21 @@ ingredients_3 = [
   "125 g de sucre",
   "35 g de beurre",
   "75 ml de crème liquide",
-  "1 càc de canelle en poudre (facultatif)",
+  "1 càc de cannelle en poudre (facultatif)",
   "1/2 càc de 4 épices (facultatif)"
 ]
 preparations = [
   "Préparer la pâte sablée, dans un récipient, mélanger la farine, le sucre, le beurre et le sel.",
   "Bien mélanger pour fusionner le beurre avec la farine.",
   "Ajouter le jaune d'oeuf, mélanger. Ajouter un peu d'eau pour arriver à former une boule (environ 2 càs).",
-  "Faconner la pâte pour la mettre dans un moule à tarte.",
+  "Façonner la pâte pour la mettre dans un moule à tarte.",
   "Vous pouvez la laisser au frigo 30 minutes pour éviter que la pâte se déforme pendant la cuisson.",
-  "Faîte cuire la pâte seule 25 minutes à 180°C.",
-  "Faîte torréfier les noix à la poêle pendant 5 minutes puis versez sur la pâte.",
-  "Faire le caramel, dans une casserole, versez le sucre avec 1 càs d'eau, mélanger.",
-  "Faite chauffer à feux moyen jusqu'a ce que les bords commence à carameliser puis baisser le feux.",
-  "Mélanger jusqu'a avoir un bon caramel puis ajouter le beurre et la crème liquide. Dès que cela rebout, couper le feu et ajouter les épices si vous en voulez.",
-  "Versez le caramel encore chaud sur les noix et laisser refroidir."
+  "Faites cuire la pâte seule 25 minutes à 180°C.",
+  "Faites torréfier les noix à la poêle pendant 5 minutes puis verser sur la pâte.",
+  "Faire le caramel, dans une casserole, verser le sucre avec 1 càs d'eau, mélanger.",
+  "Faites chauffer à feu moyen jusqu'à ce que les bords commencent à carameliser puis baisser le feu.",
+  "Mélanger jusqu'à avoir un bon caramel puis ajouter le beurre et la crème liquide. Dès que cela rebout, couper le feu et ajouter les épices si vous en voulez.",
+  "Verser le caramel encore chaud sur les noix et laisser refroidir."
 ]
 +++
 
