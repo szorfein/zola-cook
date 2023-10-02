@@ -12,8 +12,7 @@ ingredients = [
   "5 g de levure seche ou 14 g de levure fraiche",
   "2 cac de sucre",
   "7 g de sel",
-  "200 ml d'eau",
-  "180 ml de lait",
+  "380 ml d'eau",
   "40 g de beurre",
   "1 cas de bicarbonate alimentaire",
   "des graines (sésame, pavot, cumin, etc...)"
@@ -30,7 +29,7 @@ preparations = [
   "Laisser poser 30 minutes dans un endroit à 20-22°C.",
   "Dans une casserole assez large, faite bouillir de l'eau.",
   "Ajouter le bicarbonate puis plonger les bagels pendant 1 minute (avec le papier de cuisson). Retournez-les et laisser les encore 30 secondes.",
-  "Une fois pocher, poser les sur du papier de cuisson et saupoudrer les de graines (sésame, pavot, graines de cumin, etc...)",
+  "Une fois pocher, poser les sur une plaque de cuisson et saupoudrer les de graines (sésame, pavot, graines de cumin, etc...)",
   "Cuire à 240°C pendant 18 minutes."
 ]
 +++
