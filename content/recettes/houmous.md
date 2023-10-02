@@ -26,25 +26,25 @@ ingredients_3 = [
   "Paprika doux (facultatif)",
   "Paprika fumé (facultatif)",
   "Cumin (facultatif)",
-  "Pois chiches cuit (facultatif)",
+  "Pois chiche cuit (facultatif)",
   "Persil haché (facultatif)",
-  "Coriande haché (facultatif)",
+  "Coriandre haché (facultatif)",
   "Dés de tomates (facultatif)"
 ]
 preparations = [
-  "La veille, faire trempé les pois chiche.",
-  "Le lendemain ou 8 h après, cuire les pois chiche, ils doivent être fondant puis égouttez et rincer les (cela a pris 1 heure mais ca depend du calibre/marque/etc...).",
-  "Faire la Tahina, dans un hachoir, versez les graines de sesame et mixer.",
-  "Ajouter de l'huile d'olive progressivement jusqu'a avoir une crème.",
+  "La veille, faire tremper les pois chiches.",
+  "Le lendemain ou 8 h après, cuire les pois chiches, ils doivent être fondant puis égoutter et rincer les (cela a pris 1 heure mais ca depend du calibre/marque/etc...).",
+  "Faire la Tahina, dans un hachoir, verser les graines de sesame et mixer.",
+  "Ajouter de l'huile d'olive progressivement jusqu'à avoir une crème.",
   "Vous pouvez ajouter le reste des ingrédients avec la tahina si votre appareil est assez grand.",
-  "Ajouter les pois chiche (150-160 g), la gousse d'ail rapée, et mettez le reste des ingrédients avec la tahina.",
-  "Mixer jusqu'a avoir une texture bien lisse.",
+  "Ajouter les pois chiches (150-160 g), la gousse d'ail rapée, et metter le reste des ingrédients avec la tahina.",
+  "Mixer jusqu'à avoir une texture bien lisse.",
   "Gouter et arranger selon vos gouts (sel, citron).",
   "Filmer et laisser au frigo pendant au moins 2 heures.",
-  "Au moment de servir, creuser un silon et versez un peu d'huile d'olive",
-  "Vous pouvez saupoudrez avec les éléments de déco que vous voulez.",
+  "Au moment de servir, creuser un silon et verser un peu d'huile d'olive",
+  "Vous pouvez saupoudrer avec les éléments de déco que vous voulez.",
   "Le houmous peut se converver 4 jours maxi filmé et au frais."
 ]
 +++
 
-Recette pour 1 bol de Houmous à préparer la veille, se mange avec des biscuits salé / chips / falafel / {{ link(url="/recettes/pita", word="pita") }} / {{ link(url="/recettes/matlou", word="galette") }} / etc...
+Recette pour 1 bol de Houmous à préparer la veille, se mange avec des biscuits salés / chips / falafel / {{ link(url="/recettes/pita", word="pita") }} / {{ link(url="/recettes/matlou", word="galette") }} / etc...

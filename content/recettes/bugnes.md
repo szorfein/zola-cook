@@ -24,14 +24,14 @@ ingredients = [
 preparations = [
   "Mélanger la levure, le sucre et l'eau.",
   "Préparer la pâte, mettre la farine, l'oeuf, le sel et la fleur d'oranger.",
-  "Ajouter le mélange eau/levure progréssivement",
+  "Ajouter le mélange eau/levure progressivement",
   "Pétrir environ 7 minutes",
-  "Ajouter le beurre en morceau progréssivement, pétrir 2 minutes.",
+  "Ajouter le beurre en morceau progressivement, pétrir 2 minutes.",
   "Laisser poser la pâte 1 heure dans un endroit chaud (~20-23°C)",
   "Dégazer la pâte, aplatir au rouleau pour former un rectangle avec une épaisseur d'environ 0.4 cm, ajouter un peu de farine si besoin.",
   "Former vos bugnes comme vous voulez.",
-  "Faites frire les bugnes à 170°C, retirer les quand elles sont bien dorée.",
-  "Attendez qu'elles refroidissent et saupoudrer les de sucre glace."
+  "Faites frire les bugnes à 170°C, retirer les quand elles sont bien dorées.",
+  "Attendre qu'elles refroidissent et saupoudrer les de sucre glace."
 ]
 +++
 Pour une vingtaine de bugnes.

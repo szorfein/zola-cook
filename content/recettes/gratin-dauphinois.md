@@ -15,17 +15,17 @@ ingredients = [
   "sel",
   "poivre",
   "400 ml de lait entier ou demi-écrémé",
-  "2 poignée d'émental ou de comté rapé",
+  "2 poignées d'émental ou de comté rapé",
   "muscade (facultatif)",
 ]
 preparations = [
-  "Ecraser et haché l'ail, vous pouvez aussi passer les gousses au mixeur, au final cela doit ressembler à une purée.",
-  "Eplucher toutes les pommes de terre et émincer les avec un couteau ou une mandoline.",
+  "Ecraser et hacher l'ail, vous pouvez aussi passer les gousses au mixeur, au final cela doit ressembler à une purée.",
+  "Eplucher toutes les pommes de terre et émincer-les avec un couteau ou une mandoline.",
   "Beurrer un plat à gratin.",
   "Mettre une couche de pommes de terre.",
   "Ajouter 1 pincée de sel et 1 pincée de poivre puis parsemer 2 pincées de purée d'ail et un chouïa de muscade si vous en voulez.",
-  "Recommencer les étapes 4 et 5 jusqu'a épuisement des ingrédients.",
-  "Arriver en haut du plat à gratin, versez la crème liquide, toutes les pommes de terre doivent être recouverte, si il manque un peu de liquide, compléter avec le lait.",
+  "Recommencer les étapes 4 et 5 jusqu'à épuisement des ingrédients.",
+  "Arriver en haut du plat à gratin, verser la crème liquide, toutes les pommes de terre doivent être recouverte, si il manque un peu de liquide, compléter avec le lait.",
   "Parsemer le gratin d'émental ou de comté.",
   "Enfourner à 175°C pendant 1h30."
 ]
