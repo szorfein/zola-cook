@@ -16,14 +16,14 @@ ingredients = [
 ]
 ingredients_2_title = "Pour le bouillon"
 ingredients_2 = [
-  "1 poulet entier ou 1 kg de porc (pièce avec os) ou 1 kg de boeuf (pièce avec os)",
+  "1 kg de viande avec des os (1 poulet entier ou du porc ou de boeuf)",
   "4 oignons",
-  "4 celeries (garder les feuilles pour la garniture)",
-  "1 bouquet de coriande fraîche (garder les feuilles pour la garniture)",
+  "4 celeris (garder les feuilles pour la garniture)",
+  "1 bouquet de coriandre fraîche (garder les feuilles pour la garniture)",
   "3 poignées de champignons noire frais ou déshydraté",
   "2 càc de gros sel",
   "2 càc de sucre",
-  "3 clous de girofle",
+  "4 clous de girofle",
   "750 ml de fond de viande (volaille si poulet ou boeuf ou porc)",
 ]
 ingredients_3_title = "Pour la sauce"
@@ -38,16 +38,16 @@ ingredients_3 = [
 ]
 preparations = [
   "Réhydrater les champignons noire dans de l'eau et les rincer plusieurs fois (peut contenir du sable)",
-  "Ensuite le bouillon, dans une grande marmite, ajouter tous les ingrédients, pas besoin de couper la viande. Couper les oignons en 2, mettez aussi les tiges de la coriande, vous pouvez aussi ajouter les crevettes fraîche ou surgelé.",
+  "Ensuite le bouillon, dans une grande marmite, ajouter tous les ingrédients, pas besoin de couper la viande. Couper les oignons en 2, mettez aussi les tiges de la coriandre, vous pouvez aussi ajouter les crevettes fraîche ou surgelé.",
   "Recouvrir d'eau et cuire 1 h 30 à feu doux et à couvert après ébullition.",
   "Pendant ce temps, préparer la sauce. Dans un saladier, mélanger tous les ingrédients, gouter et arranger selon vos goûts.",
-  "Ensuite les éléments de garniture, placer chaque éléments dans des coupelle séparées.",
-  "Hacher 1 oignon, emincer les feuilles de celerie et les feuilles de coriande.",
+  "Ensuite les éléments de garniture, placer chaque éléments dans des coupelles séparées.",
+  "Hacher 1 oignon, emincer les feuilles de celeris et les feuilles de coriandre.",
   "Une fois la viande cuite, sortez la. Il faut l'effiloché avec 2 fourchettes ou à la main, puis remettez la dans la marmite.",
-  "Vous pouvez aussi sortir les champignons noire et les émincer, ca ne sera que meilleure.",
-  "Au dernier moment, faîtes cuire les vermicelles de soja.",
+  "Sorter aussi les champignons noire et les émincer.",
+  "Au dernier moment, préparer les vermicelles de soja comme indiquer sur le paquet.",
   "Si vous mettez des crevettes séchées, préparer les comme indiquer sur le paquet, puis les égoutter, mettre le bouillon dans la soupe et les crevettes dans des coupelles.",
-  "Au moment du dressage, mettez les vermicelles dans les bols, versez 2 louches de soupe.",
+  "Au moment du dressage, metter les vermicelles dans les bols, versez 2 louches de soupe.",
   "Chacun se sert des éléments de garniture dont il a besoin et de la sauce nuoc mam."
 ]
 +++
