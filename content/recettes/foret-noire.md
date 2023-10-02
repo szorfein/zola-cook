@@ -6,7 +6,8 @@ date = 2023-10-01
 categories = ["dessert"]
 
 [extra]
-feature_image = "https://caketimetvm.com/images/photocollage/oc5.jpg"
+feature_image = "https://ik.imagekit.io/eaec9qogv/zola/foret-noire.webp?updatedAt=1696229553005"
+imagekit = true
 ingredients = [
   "100 de chocolat noir en tablette (pour les copeaux)",
   "500 g de cerise en bocal",

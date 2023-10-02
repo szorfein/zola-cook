@@ -7,7 +7,8 @@ categories = ["soupe"]
 tags = ["asie"]
 
 [extra]
-feature_image = "https://static.wixstatic.com/media/f645c4_51febb8575b54309bcd49641e8f98142~mv2.jpg/v1/fill/w_3000,h_3000,al_c,q_90/Soupe%20de%20nouilles%20Muziris.jpg"
+feature_image = "https://ik.imagekit.io/eaec9qogv/zola/soupe-chinoise.webp?updatedAt=1696229654213"
+imagekit = true
 ingredients = [
   "Vermicelle de soja (assez pour tous le monde)",
   "1 oignon",
