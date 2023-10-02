@@ -45,7 +45,7 @@ preparations = [
   "Ajouter la farine et mélanger. Cuire encore 1 minute. Si vous préférer la fécule de maïs, délayer la avec un peu d'eau et ajouter avec les haricots et la viande.",
   "Ajouter un verre d'eau pour déglacer les sucs de cuisson puis couper le feu. Versez le tout dans la cocotte.",
   "Et le final, la purée de piments. Commencer par enlever les grains des piments (si vous en mettez).",
-  "Faire torréfier les épices du chili et les piments ensemble (si jamais) pendant 2 minutes.",
+  "Faire torréfier ensemble les épices du chili et les piments pendant 2 minutes.",
   "Ajouter le fond de viande. Mixer le tout puis ajouter le mélange à la cocotte.",
   "Cuire jusqu'a ce que les haricots et la viande soit cuient. Environ 1h30 à 2 heures."
 ]
