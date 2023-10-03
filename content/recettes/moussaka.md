@@ -6,8 +6,8 @@ date = 2023-10-04
 categories = ["gratin"]
 
 [extra]
-#feature_image = "https://es.orbinews.com/wp-content/uploads/2017/09/3833683905_0dcb8ff351.jpg"
-feature_image = "https://miro.medium.com/v2/resize:fit:9856/1*qmbsXRDAeFDKu3GIMlUEXg.jpeg"
+feature_image = "https://ik.imagekit.io/eaec9qogv/zola/moussaka.webp?updatedAt=1696337345083"
+imagekit = true
 ingredients = [
   "1 kg d'aubergine",
   "700 g de pomme de terre",
@@ -37,7 +37,8 @@ ingredients_3 = [
   "1 L de lait",
   "50 g de parmesan ou de kefalotyri ou du fromage Gravièra (facultatif), surtout pas de feta, trop salé pour cette recette",
   "1 pincée de muscade",
-  "1 oeuf"
+  "1 oeuf",
+  "sel"
 ]
 preparations = [
   "Pour les aubergines, pas besoin de les éplucher, couper les en tranche de 0.4 cm (pas trop fin), puis mettre au four sur du papier du cuisson à 180°C pendant 30 minutes.",
