@@ -23,7 +23,8 @@ preparations = [
   "Ajouter le reste de farine, le sel et pétrir pendant 7-8 minutes.",
   "Ajouter l'huile d'olive et l'incorporer pendant 1 minute.",
   "Laisser reposer 1 heure avec un film alimentaire dans un endroit entre 20-22°C.",
-  "Faire une boule, plonger la pâte dans de la farine, tapotter pour enlever le surplus et conserver jusqu'a 48 heures maximum sur une plaque fariné avec du film alimentaire."
+  "Faire une boule, plonger la pâte dans de la farine, tapotter pour enlever le surplus.",
+  "Vous pouvez l'utiliser de suite ou la conserver jusqu'a 48 heures maximum sur une plaque fariné avec du film alimentaire."
 ]
 +++
 

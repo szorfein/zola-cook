@@ -8,7 +8,7 @@ categories = ["plat principal"]
 [extra]
 feature_image = "https://images.unsplash.com/photo-1658308766948-01c85ade2737?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1471&q=80"
 ingredients = [
-  "1 kg de viande de boeuf (gite, paleron, gite, plat de côte) ou boeuf haché",
+  "1 kg de viande de boeuf (gite, paleron, plat de côte) ou boeuf haché",
   "500 g de haricot rouge sec (idéalement, qui ont besoin de cuire pendant plus de 1 heure) ou en bocal",
   "3 feuilles de laurier",
   "2 oignons",
