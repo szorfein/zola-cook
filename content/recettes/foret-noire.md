@@ -37,7 +37,7 @@ preparations = [
   "Ajouter les jaunes d'oeufs.",
   "Stopper le robot. Ajouter le reste des ingredients.",
   "Mélanger délicatement avec une spatule pour ne pas faire retomber les blancs en neige.",
-  "Beurrer un moule, versez notre appareil et enfourner à 160°C pendant 30 minutes.",
+  "Beurrer un moule, versez notre appareil et enfourner à 180°C pendant 30 minutes.",
   "Pendant ce temps, les copeaux de chocolat. Vous pour utiliser soit un économe soit émincer avec un couteau puis mettre les copeaux au frais.",
   "Maintenant le sirop, dans un bol, versez 80 ml de sirop des cerises avec le kirsh et mélanger.",
   "Démouler la génoise et attendre qu'elle refroidisse complétement.",
