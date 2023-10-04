@@ -1,6 +1,6 @@
 +++
 title = "Fricassé Tunisien"
-date = 2023-10-05
+date = 2023-10-04
 
 [taxonomies]
 categories = ["sandwitch"]
@@ -38,10 +38,10 @@ preparations = [
   "Faites reposer pendant 1 h dans un endroit chaud (20 à 23°C).",
   "Séparer la pâte en morceau de 70 g, former des boules puis essayer de donner une forme ovale en les roulant un peu. Placer-les sur une plaque légèrement huiler.",
   "Couvrir d'un film alimentaire et laisser poser 20 minutes.",
-  "Faites frire les fricassé dans un bain de friture à 170°C.",
+  "Faites frire les fricassés dans un bain de friture à 170°C.",
   "Retirer les quand ils sont bien dorée.",
   "Pour la garniture, préparer chaque éléments dans un bol et chacun remplit son fricassé.",
   "Pour les remplir, faites une ouverture dans la longueur. Badigeonner l'intérieur d'harissa. Mettre un peu de mechouïa, des cubes de pomme de terre et des capres. Le thon et les olives en dernier."
 ]
 +++
-Recette pour faire 8 fracassés tunisien. Calculé environ 2 fricassés par personnes.
+Recette pour faire 8 fricassés tunisien. Calculé environ 2 fricassés par personnes.

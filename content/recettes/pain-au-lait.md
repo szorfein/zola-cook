@@ -40,7 +40,7 @@ preparations = [
   "Dégazer la pâte et séparer la en 6 parts égale.",
   "Beurrer un moule rectangulaire et placer les boules 2 par 2 dans la largeur en les éspaçant un peu.",
   "Laisser gonfler 1 heure dans un endroit chaud (~20 à 23°C).",
-  "Dorer avec un jaune d'oeuf puis enfourner à 180°C pendant 25 minutes."
+  "Dorer avec un jaune d'oeuf puis enfourner à 180°C pendant 30 minutes."
 ]
 +++
 
