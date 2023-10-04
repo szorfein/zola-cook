@@ -17,17 +17,17 @@ ingredients = [
 ingredients_2_title = "Pour la sauce"
 ingredients_2 = [
   "200 g de tomate fraîche ou en boite entière (San Marzano).",
-  "1 pincée de sel"
+  "3 feuilles de basilic"
 ]
 preparations = [
 "Si vous utilisez de la mozarella en boule, préparer-les minimum 1 heure à l'avance. Couper la en 2, presser les avec vos mains. Puis coupez les en julienne de 0.6 cm et poser les sur du papier absorbant pour enlever le maximum d'humidité.",
-  "Faconner la pizza, applatisser la avec vos mains sans toucher les bords, vous laisserez au moins 2 cm. Vous pouvez la tourner, l'étirer, etc...",
+  "Faconner la pizza, applatisser la avec vos mains sans toucher les bords, vous laisserez au moins 2 cm. Vous pouvez la tourner, l'étirer, etc... Ajouter un peu de farine ou semoule fine si besoin.",
   "Vous pouvez laissé reposer pendant 30 minutes dans un endroit chaud (~20 à 23°C) si vous voulez une pâte un peu épaisse.",
-  "Préparer la sauce, mixer les tomates avec le sel, voila...",
-  "Ajouter et étaler 3 càs de pulpe de tomate.",
-  "Ajouter la mozarella.",
-  "Enfourner à 240°C pendant 12 minutes.",
-  "Poser les feuilles de basilic et un filet d'huile d'olive à la sortie du four."
+  "Préparer la sauce, pour des tomates fraiche, enlever le maximum de pulpe, cela rendra la sauce trop liquide. Mixer les tomates, voila...",
+  "Ajouter et étaler 3 càs de pulpe de tomate (ne pas saler).",
+  "Ajouter la mozarella (ne pas saler).",
+  "Enfourner à 250°C pendant 12 minutes. Si vous utilisez une pierre à pizza, la cuisson passe à 6-7 minutes.",
+  "A la sortie du four, poser les feuilles de basilic, un filet d'huile d'olive, saler et poivrer."
 ]
 +++
 
