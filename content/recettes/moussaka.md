@@ -57,4 +57,4 @@ preparations = [
   "Enfourner 40 minutes à 180°C."
 ]
 +++
-Grand classique de la cuisine Grecque pour 6.
+Grand classique de la cuisine Grecque pour 6 ou 8.
