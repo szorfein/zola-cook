@@ -6,7 +6,8 @@ date = 2023-10-07
 categories = ["gratin"]
 
 [extra]
-feature_image = "https://image.jimcdn.com/app/cms/image/transf/dimension=4000x3000:format=jpg/path/sb725ba724e109cf0/image/ib84240de41eb82c6/version/1668505525/ma-tartiflette-maison-au-reblochon-%C3%A0-l-ancienne-savoureuse.jpg"
+feature_image = "https://ik.imagekit.io/eaec9qogv/zola/tartiflette.webp?updatedAt=1696705060756"
+imagekit = true
 ingredients = [
   "1.2 kg de pommes de terre",
   "1 L de crème liquide",
@@ -21,10 +22,10 @@ preparations = [
   "Déglacer avec le vin blanc et laissez réduire de moitié.",
   "Couper le feu.",
   "Eplucher et couper les pommes de terre en tranche (émincer au couteau ou à la mandoline).",
-  "Dans une cocotte ou un plat à gratin, mettre une couche lardon/oignon.",
-  "Une couche de patates, 1 pincée de sel et de poivre.",
+  "Dans une cocotte ou un plat à gratin, mettre 1 càs de lardon/oignon.",
+  "Une couche de pommes de terre, 1 pincée de poivre et un chouia de sel.",
   "Continuer les étapes 6-7 jusqu'a la fin des patates.",
-  "Ajoutez le roblochon couper en 2 dans la longueur.",
+  "Ajoutez le roblochon couper en 2 dans la longueur (le coté croute au dessus).",
   "Recouvrir de crème liquide.",
   "Cuire à 170°C pendant 2 heures."
 ]

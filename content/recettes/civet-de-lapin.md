@@ -6,8 +6,8 @@ date = 2023-10-06
 categories = ["plat principal"]
 
 [extra]
-#feature_image = "http://www.sweetandsavoryrecipes.com/wp-content/uploads/2016/10/chicken-chasseur.jpg"
-feature_image = "https://i1.wp.com/www.moulindeserres.fr/wp-content/uploads/2017/10/RECETTE-lapin-ratatouille_XL.jpg?fit=3840%2C2160"
+feature_image = "https://ik.imagekit.io/eaec9qogv/zola/lapin.webp?updatedAt=1696705059930"
+imagekit = true
 ingredients = [
   "2 oignons",
   "2 gousses d'ail",
