@@ -44,6 +44,6 @@ preparations = [
   "Cuire à couvert et à feu doux pendant au moins 1h30 ou jusqu'a ce que la viande soit cuite."
 ]
 +++
-Recette pour 8 à préparer au moins 8 h à l'avance. A servir avec une {{ link(url="/recettes/polenta", word="poulainte") }} ou des pâtes / riz / pain.
+Recette de lapin aux olives et champignons pour 8 à préparer au moins 8 h à l'avance. A servir avec une {{ link(url="/recettes/polenta", word="poulainte") }} ou des pâtes / riz / pain.
 
 
