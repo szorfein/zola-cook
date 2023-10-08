@@ -23,9 +23,9 @@ ingredients_2 = [
   "2 càs d'eau",
   "1 càs de sauce soja",
   "1 càs de sauce huître",
+  "1 càs de vin de cuisine (shaoxing, sake, rouge, blanc) (facultatif)",
   "1 càc de fécule de maïs",
   "1/2 càc de bicarbonate de soude alimentaire ou levure chimique",
-  "2 càc de vinaigre (riz, rouge, blanc ou balsamique) voir du citron",
   "1 càs de sucre",
   "1 pincée de poivre"
 ]
@@ -34,8 +34,8 @@ ingredients_3 = [
   "3 càs d'eau",
   "2 càs de sauce soja",
   "1 càs de sauce huître",
-  "1 càs de sucre roux",
-  "2 càc de vin de cuisine (sake, rouge, blanc) (facultatif)",
+  "1 càs de vinaigre (riz, rouge, blanc ou balsamique) voir du citron",
+  "1 càc de sucre roux",
   "1 càc de fécule de maïs",
   "1 pincée de poivre",
   "1 càc de fond brun (veau, roti) en poudre (facultatif)",

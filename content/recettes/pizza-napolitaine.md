@@ -17,7 +17,8 @@ ingredients = [
 ingredients_2_title = "Pour la sauce"
 ingredients_2 = [
   "200 g de tomate fraîche ou en boite entière (San Marzano).",
-  "3 feuilles de basilic"
+  "3 feuilles de basilic",
+  "1 pincée de sel"
 ]
 preparations = [
 "Si vous utilisez de la mozarella en boule, préparer-les minimum 1 heure à l'avance. Couper la en 2, presser les avec vos mains. Puis coupez les en julienne de 0.6 cm et poser les sur du papier absorbant pour enlever le maximum d'humidité.",
