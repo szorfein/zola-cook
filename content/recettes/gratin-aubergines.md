@@ -1,5 +1,5 @@
 +++
-title = "Gratin d'aubergine"
+title = "Gratin d' aubergines"
 date = 2023-10-07
 
 [taxonomies]
@@ -13,7 +13,7 @@ categories = ["gratin"]
 feature_image = "https://ik.imagekit.io/eaec9qogv/zola/gratin-aubergine.webp?updatedAt=1696704954014"
 imagekit = true
 ingredients = [
-  "600 g d'aubergine",
+  "700 g d'aubergine",
   "800 g de tomates fraiche ou en boite",
   "200 g de feta",
   "1 càs de thym",
@@ -30,8 +30,8 @@ preparations = [
   "Enfourner à 170°C pendant 30 minute.",
   "Pendant ce temps, couper les tomates en cubes.",
   "Dans une casserole, faite cuire la tomates avec le thym, origan, 1 pincée de sel , 2 pincée de poivre et le sucre si besoin.",
-  "Laisser la sauce réduire de moitié pendant environ 15 minutes puis couper le feu puis rectifier l'assaisonnement.",
-  "Couper la feta en cubes, pour le poivron, éplucher-le et coupez le en lanière.",
+  "Laisser la sauce réduire de moitié pendant environ 15 minutes puis couper le feu. Rectifier l'assaisonnement.",
+  "Couper la feta en cubes. Pour le poivron, éplucher-le et couper-le en lanière.",
   "Dans un plat à gratin, versez 2 càs de tomates.",
   "Puis une couche d'aubergines et de poivron.",
   "Puis une couche de feta.",
@@ -39,4 +39,4 @@ preparations = [
   "Versez un filet d'huile d'olive et enfourner à 200°C pendant 30 minutes."
 ]
 +++
-Gratin d'aubergines, tomates et feta pour 4.
+Gratin d'aubergines grillées, tomates et feta pour 4.

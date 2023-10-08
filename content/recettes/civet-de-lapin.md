@@ -12,10 +12,11 @@ ingredients = [
   "2 oignons",
   "2 gousses d'ail",
   "3 càs de farine de blé",
-  "60 cl de fond de volaille",
+  "20 cl de fond de volaille",
   "200 g de champignons de paris",
   "160 g d'olives verte",
   "2 feuilles de laurier",
+  "sel"
 ]
 ingredients_2_title = "Pour la marinade"
 ingredients_2 = [
@@ -33,8 +34,8 @@ preparations = [
   "Emincer les oignons. Rapée les gousses d'ail.",
   "Ajouter tous les ingrédients dans un récipient et recouvrir de vin blanc.",
   "Mélanger, filmer et mettez au frais pendant au moins 8 heures.",
-  "Filtrer la marinade, enlever les aromates. Garder la viande (...) et le jus.",
-  "Dans une cocotte, faite revenir la viande puis réserver la.",
+  "Filtrer la marinade, enlever les aromates. Ne garder que la viande (...) et le jus.",
+  "Dans une cocotte, faites revenir la viande puis réserver la.",
   "Ajouter et cuire les oignons ciselé.",
   "Ajouter l'ail écraser et hacher, cuire 1 minute",
   "Ajouter la farine, cuire 1 minutes",

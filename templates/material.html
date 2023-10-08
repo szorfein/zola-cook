@@ -1,11 +1,12 @@
 {% macro card(post) %}
 <a class="round wrap border" href="{{ post.permalink | safe }}">
-  <article class="no-padding round primary-container">
+  <article class="no-padding round">
     {% if post.extra.feature_image %}
       {% if post.extra.imagekit %}
     <!-- describe here: https://imagekit.io/responsive-images/#chapter-5---srcset-with-sizes -->
       <img class="responsive small top-round"
            src="{{ post.extra.feature_image }}"
+           loading="lazy"
            srcset="{{ post.extra.feature_image }}?tr=w-225 225w,
                    {{ post.extra.feature_image }}?tr=w-300 300w,
                    {{ post.extra.feature_image }}?tr=w-350 350w,
@@ -13,7 +14,7 @@
                   "
            sizes="(max-width: 400px) 100vw, (max-width: 700px) 50vw, (max-width: 900px) 33vw, 225px">
       {% else %}
-      <img class="responsive small top-round" src="{{ post.extra.feature_image }}">
+      <img class="responsive small top-round" loading="lazy" src="{{ post.extra.feature_image }}">
       {% endif %}
     {% endif %}
     <div class="padding">
