@@ -6,7 +6,7 @@ date = 2023-09-16
 categories = ["sandwitch"]
 
 [extra]
-feature_image = "https://ik.imagekit.io/eaec9qogv/zola/croque-monsieur.jpg?updatedAt=1694883617077"
+feature_image = "https://ik.imagekit.io/eaec9qogv/zola/croque-monsieur.webp?updatedAt=1696757652150"
 imagekit = true
 ingredients = [
   "400 ml de lait",

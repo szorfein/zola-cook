@@ -53,9 +53,11 @@
             var sticky = header[i].offsetTop;
 
             if (window.pageYOffset > sticky) {
+              header[i].classList.add("fixed");
               header[i].classList.add("top");
               header[i].classList.add("sticky");
             } else {
+              header[i].classList.remove("fixed");
               header[i].classList.remove("top");
               header[i].classList.remove("sticky");
             }
