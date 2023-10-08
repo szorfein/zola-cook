@@ -21,7 +21,7 @@ preparations = [
   "Ajouter et cuire les oignons émincés.",
   "Déglacer avec le vin blanc et laissez réduire de moitié.",
   "Couper le feu.",
-  "Eplucher et couper les pommes de terre en tranche (émincer au couteau ou à la mandoline).",
+  "Eplucher et émincer les pommes de terre (au couteau ou à la mandoline).",
   "Dans une cocotte ou un plat à gratin, mettre 1 càs de lardon/oignon.",
   "Une couche de pommes de terre, 1 pincée de poivre et un chouia de sel.",
   "Continuer les étapes 6-7 jusqu'a la fin des patates.",

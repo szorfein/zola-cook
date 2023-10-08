@@ -6,17 +6,13 @@ date = 2023-10-04
 categories = ["pain"]
 
 [extra]
-#feature_image = "/recettes/20231002_151857.jpg"
-#feature_image = "/recettes/20231002_151929.jpg"
-#feature_image = "/recettes/20231002_151916.jpg"
-#feature_image = "/recettes/20231002_155249.jpg"
 feature_image = "https://ik.imagekit.io/eaec9qogv/zola/pain-au-lait.webp?updatedAt=1696262284662"
 imagekit = true
 ingredients = [
   "350 g de farine",
   "1 oeuf + 1 jaune pour la dorure",
   "5 g de sel fin",
-  "60 g de sucre",
+  "50 g de sucre",
   "20 g de levure fraîche ou 8 g de levure sèche",
   "Arôme de vanille (facultatif)",
   "lait",
