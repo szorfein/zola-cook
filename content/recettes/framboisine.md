@@ -6,7 +6,8 @@ date = 2023-09-06
 categories = ["boisson"]
 
 [extra]
-feature_image = "https://images.unsplash.com/photo-1635527726426-cc74da84703e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80"
+feature_image = "https://images.unsplash.com/photo-1635527726426-cc74da84703e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA"
+unsplash = true
 ingredients = [
   "1 bouteille de champagne ou n'importe quel vin pétillant (75cl)",
   "10 cl de sirop de sucre de canne ou 100 g de sucre",

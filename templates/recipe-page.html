@@ -20,7 +20,11 @@
 
     <div class="s12">
       {% if page.extra.feature_image %}
+      {% if page.extra.unsplash %}
+      <img class="responsive medium banner-img" src="{{ page.extra.feature_image }}&fm=jpg&q=80">
+      {% else %}
       <img class="responsive medium banner-img" src="{{ page.extra.feature_image }}">
+      {% endif %}
       {% endif %}
 
       <div class="absolute bottom left right padding bottom-shadow bottom-round white-text">

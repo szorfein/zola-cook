@@ -7,7 +7,8 @@ categories = ["entree"]
 tags = ["maghreb"]
 
 [extra]
-feature_image = "https://images.unsplash.com/photo-1637949385162-e416fb15b2ce?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1452&q=80"
+feature_image = "https://images.unsplash.com/photo-1637949385162-e416fb15b2ce?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA"
+unsplash = true
 ingredients = [
   "100 g de pois chiche sec ou 150 g en bocal (pour gagner du temps)",
   "1 gousse d'ail (2 si vous aimez l'ail)",

@@ -7,7 +7,8 @@ categories = ["plat principal", "pate"]
 tags = ["asie"]
 
 [extra]
-feature_image = "https://images.unsplash.com/photo-1634864572865-1cf8ff8bd23d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1334&q=80"
+feature_image = "https://images.unsplash.com/photo-1634864572865-1cf8ff8bd23d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA"
+unsplash = true
 ingredients = [
   "200 g de nouilles Chow Mein si vous trouvez ou n'importe",
   "250 g de légumes (pour la recette 1/2 oignon, 1 carotte, 4 feuilles de chou chinois, un peu de brocoli)",
