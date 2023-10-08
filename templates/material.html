@@ -1,6 +1,6 @@
 {% macro card(post) %}
 <a class="round wrap border" href="{{ post.permalink | safe }}">
-  <article class="no-padding round primary-container">
+  <article class="no-padding round">
     {% if post.extra.feature_image %}
       {% if post.extra.imagekit %}
     <!-- describe here: https://imagekit.io/responsive-images/#chapter-5---srcset-with-sizes -->

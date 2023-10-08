@@ -26,7 +26,8 @@
 </header>
 
 <main class="responsive">
-  <nav class="scroll cat-badge my-sticky" id="my-sticky">
+  <header id="my-sticky" class="surface my-sticky">
+  <nav class="scroll cat-badge my-sticky surface">
   {% for category in terms %}
     <a class="chip beer-page-link" href="#{{ category.name | slugify }}">
       <span class="badge round secondary">{{ category.pages | length }}</span>
@@ -34,9 +35,10 @@
     </a>
   {% endfor %}
   </nav>
+  </header>
 
   {% for category in terms %}
-  <article class="beer-page round">
+  <article class="beer-page round border">
   {{ categorie::list(category = category) }}
   </article>
   {% endfor %}
