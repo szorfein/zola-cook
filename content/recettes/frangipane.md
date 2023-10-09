@@ -6,7 +6,7 @@ date = 2023-09-26
 categories = ["dessert"]
 
 [extra]
-feature_image = "https://ik.imagekit.io/eaec9qogv/zola/frangipane.webp?updatedAt=1695736193904"
+feature_image = "https://ik.imagekit.io/eaec9qogv/zola/frangipane.webp"
 imagekit = true
 ingredients = [
   "2 pâtes feuilletées",

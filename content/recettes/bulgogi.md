@@ -7,7 +7,7 @@ categories = ["plat principal"]
 tags = ["asie"]
 
 [extra]
-feature_image = "https://ik.imagekit.io/eaec9qogv/zola/bulgogi.webp?updatedAt=1695643096383"
+feature_image = "https://ik.imagekit.io/eaec9qogv/zola/bulgogi.webp"
 imagekit = true
 ingredients = [
   "300 g de viande de boeuf (faux-filet, entrecote, bassecôte, bavette) ou du porc",

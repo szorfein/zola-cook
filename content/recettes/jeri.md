@@ -7,7 +7,7 @@ categories = ["soupe", "plat principal"]
 tags = ["maghreb"]
 
 [extra]
-feature_image = "https://ik.imagekit.io/eaec9qogv/zola/jeri.webp?updatedAt=1696018708209"
+feature_image = "https://ik.imagekit.io/eaec9qogv/zola/jeri.webp"
 imagekit = true
 ingredients = [
   "1 kg d'agneau (gigot, épaule, collier)",

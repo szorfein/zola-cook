@@ -7,7 +7,7 @@ categories = ["plat principal"]
 tags = ["asie"]
 
 [extra]
-feature_image = "https://ik.imagekit.io/eaec9qogv/zola/bobun.webp?updatedAt=1695642457872"
+feature_image = "https://ik.imagekit.io/eaec9qogv/zola/bobun.webp"
 imagekit = true
 ingredients = [
   "100 g de viande de boeuf",

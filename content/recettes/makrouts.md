@@ -7,7 +7,7 @@ categories = ["dessert"]
 tags = ["maghreb"]
 
 [extra]
-feature_image = "https://ik.imagekit.io/eaec9qogv/zola/makrouts.webp?updatedAt=1695642677240"
+feature_image = "https://ik.imagekit.io/eaec9qogv/zola/makrouts.webp"
 imagekit = true
 ingredients = [
   "500 g de semoule moyenne",

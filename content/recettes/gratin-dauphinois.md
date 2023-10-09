@@ -6,7 +6,7 @@ date = 2023-09-25
 categories = ["plat principal", "accompagnement", "gratin"]
 
 [extra]
-feature_image = "https://ik.imagekit.io/eaec9qogv/zola/gratin-dauphinois.webp?updatedAt=1695713816505"
+feature_image = "https://ik.imagekit.io/eaec9qogv/zola/gratin-dauphinois.webp"
 imagekit = true
 ingredients = [
   "1 L de crème liquide",

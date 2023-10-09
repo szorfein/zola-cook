@@ -6,7 +6,7 @@ date = 2023-10-06
 categories = ["accompagnement"]
 
 [extra]
-feature_image = "https://ik.imagekit.io/eaec9qogv/zola/polenta.webp?updatedAt=1696705060196"
+feature_image = "https://ik.imagekit.io/eaec9qogv/zola/polenta.webp"
 imagekit = true
 ingredients = [
   "500 g de semoule de blé dur moyenne",
