@@ -3,7 +3,7 @@ title = "Bulgogi"
 date = 2023-09-22
 
 [taxonomies]
-categories = ["plat principal"]
+categories = ["plat principal", "barbecue"]
 tags = ["asie"]
 
 [extra]
