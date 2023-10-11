@@ -6,7 +6,7 @@ date = 2023-09-27
 categories = ["plat principal"]
 
 [extra]
-feature_image = "https://ik.imagekit.io/eaec9qogv/zola/tinga-de-pollo.webp?updatedAt=1695744763917"
+feature_image = "https://ik.imagekit.io/eaec9qogv/zola/tinga-de-pollo.webp"
 imagekit = true
 ingredients = [
   "30 g de chorizo (facultatif)",

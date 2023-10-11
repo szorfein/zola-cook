@@ -25,17 +25,20 @@ And deploy:
 
 Site deployed at: https://szorfein-zola-cook-default.edgio.link
 
-### Imagekit
+### Responsive image
 
 imagekit use a website analyzer: https://imagekit.io/website-analyzer
 
-In resume, all images should be format in webp...
-
-    $ cwebp -q 90 example.jpeg -o example.webp
-
-Metadata are erased too using mat2 for reduce image size.
+In resume, in order to reduce image size, all metadatas are erased using `mat2`:
 
     $ mat2 example.jpeg
+
+And images are compressed and formatted in webp using `cwebp`:
+
+    $ cwebp -q 77.77 example.cleaned.jpeg -o example.webp
+
+
+Docs: [unsplash](https://unsplash.com/documentation#example-image-use), [imagekit](https://imagekit.io/blog/lazy-loading-images-complete-guide/).
 
 ### Sitemap
 

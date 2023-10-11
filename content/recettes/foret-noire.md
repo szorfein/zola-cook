@@ -6,7 +6,7 @@ date = 2023-10-01
 categories = ["dessert"]
 
 [extra]
-feature_image = "https://ik.imagekit.io/eaec9qogv/zola/foret-noire.webp?updatedAt=1696229553005"
+feature_image = "https://ik.imagekit.io/eaec9qogv/zola/foret-noire.webp"
 imagekit = true
 ingredients = [
   "100 de chocolat noir en tablette (pour les copeaux)",

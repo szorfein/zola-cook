@@ -10,7 +10,7 @@ categories = ["gratin"]
 #feature_image = "/recettes/20231007_121456.jpg"
 #feature_image = "/recettes/20231007_121940.jpg"
 #feature_image = "/recettes/20231007_122059.jpg"
-feature_image = "https://ik.imagekit.io/eaec9qogv/zola/gratin-aubergine.webp?updatedAt=1696704954014"
+feature_image = "https://ik.imagekit.io/eaec9qogv/zola/gratin-aubergines.webp"
 imagekit = true
 ingredients = [
   "700 g d'aubergine",
