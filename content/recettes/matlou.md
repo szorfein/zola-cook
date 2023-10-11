@@ -7,7 +7,7 @@ categories = ["pain"]
 tags = ["maghreb"]
 
 [extra]
-feature_image = "https://ik.imagekit.io/eaec9qogv/zola/matlou.webp?updatedAt=1695642676608"
+feature_image = "https://ik.imagekit.io/eaec9qogv/zola/matlou.webp"
 imagekit = true
 ingredients = [
   "200 gr de semoule extra-fine",
@@ -26,9 +26,9 @@ preparations = [
   "Remettre la pâte dans un saladier et faire reposer pendant 1 heure dans un endroit à 20-22°C.",
   "Séparer la pâte en 2 parts (environ 320 gr) et faire de belle boules.",
   "Dans une assiete creuse, versez un peu de semoule. Passez les boules dedans.",
-  "Placer les boules sur un chiffon propre, recouvrir et laisser poser 30 minutes dans un endroit à 20-22°C.",
+  "Placer les boules sur un chiffon propre, applatir les boules pour former des cercles de ~0.6 centimètres d'épaisseur. Recouvrir et laisser poser 30 minutes sur une surface plate et dans un endroit à 20-22°C.",
   "Faite chauffer une poele sans matière grasse pendant 2 minutes.",
-  "Pendant ce temps, applatir les boules à la main pour former 2 cercles.",
+  "Le plus compliquer est de prendre les galettes sans les déformer et les placer dans la poele. Aidez vous d'un objet plat comme une plaque sans bord ou une pelle à pizza, etc...",
   "Faite cuire les galettes une par une à feu moyen pendant 5 minutes, à retourner toutes les 2 minutes 30 à peu près.",
   "N'hesiter pas à enlever la semoule qui brûle assez vite ou à baisser le feux si besoin."
 ]

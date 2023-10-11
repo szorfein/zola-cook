@@ -6,7 +6,8 @@ date = 2023-08-22
 categories = ["accompagnement"]
 
 [extra]
-feature_image = "https://images.unsplash.com/photo-1686820740904-3cb27426c47d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80"
+feature_image = "https://images.unsplash.com/photo-1686820740904-3cb27426c47d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA"
+unsplash = true
 feature = true
 ingredients = [
   "1 kg de semoule de blé dur fine",

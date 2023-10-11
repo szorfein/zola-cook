@@ -3,11 +3,11 @@ title = "Méchouïa"
 date = "2023-08-26"
 
 [taxonomies]
-categories = ["salade"]
+categories = ["salade", "barbecue"]
 tags = ["maghreb"]
 
 [extra]
-feature_image = "https://ik.imagekit.io/eaec9qogv/zola/mechouia.webp?updatedAt=1695642681486"
+feature_image = "https://ik.imagekit.io/eaec9qogv/zola/mechouia.webp"
 imagekit = true
 ingredients = [
   "4 poivrons",

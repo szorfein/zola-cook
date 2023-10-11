@@ -6,7 +6,8 @@ date = 2023-09-21
 categories = ["pain"]
 
 [extra]
-feature_image = "https://images.unsplash.com/photo-1638805426661-dbe6842813f8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1332&q=80"
+feature_image = "https://images.unsplash.com/photo-1638805426661-dbe6842813f8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA"
+unsplash = true
 ingredients = [
   "500 g de farine T55",
   "10 g de levure sèche ou 20 g de levure fraîche",

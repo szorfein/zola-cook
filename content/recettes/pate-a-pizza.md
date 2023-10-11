@@ -6,7 +6,8 @@ date = 2023-09-23
 categories = ["pain"]
 
 [extra]
-feature_image = "https://images.unsplash.com/photo-1547197309-082bdc50ce8b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1369&q=80"
+feature_image = "https://images.unsplash.com/photo-1547197309-082bdc50ce8b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA"
+unsplash = true
 ingredients = [
   "300 g de farine (T45 ou un mélange T45 et T55)",
   "200 ml d'eau tiède",

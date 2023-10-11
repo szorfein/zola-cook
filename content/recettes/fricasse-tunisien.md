@@ -7,7 +7,7 @@ categories = ["sandwitch"]
 tags = ["maghreb"]
 
 [extra]
-feature_image = "https://ik.imagekit.io/eaec9qogv/zola/fricasse-tunisien.webp?updatedAt=1696337319179"
+feature_image = "https://ik.imagekit.io/eaec9qogv/zola/fricasse-tunisien.webp"
 imagekit = true
 ingredients = [
   "300 g de farine T45",

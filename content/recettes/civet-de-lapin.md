@@ -6,7 +6,7 @@ date = 2023-10-06
 categories = ["plat principal"]
 
 [extra]
-feature_image = "https://ik.imagekit.io/eaec9qogv/zola/lapin.webp?updatedAt=1696705059930"
+feature_image = "https://ik.imagekit.io/eaec9qogv/zola/lapin.webp"
 imagekit = true
 ingredients = [
   "2 oignons",

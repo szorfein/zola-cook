@@ -7,7 +7,8 @@ categories = ["plat principal"]
 
 [extra]
 #feature_image = "https://images.unsplash.com/photo-1560705185-d0291220a442?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1374&q=80"
-feature_image = "https://images.unsplash.com/photo-1632640109249-e21e369b8773?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80"
+feature_image = "https://images.unsplash.com/photo-1632640109249-e21e369b8773?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA"
+unsplash = true
 ingredients = [
   "500 gr de brousse ou 500 gr de ricotta",
   "1 boite de petits pois (environ 500 gr égoutté) en conserve ou en bocal",
