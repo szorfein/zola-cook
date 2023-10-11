@@ -1,15 +1,11 @@
 +++
-title = "Gratin d' aubergines"
+title = "Gratin d'aubergines"
 date = 2023-10-07
 
 [taxonomies]
 categories = ["gratin"]
 
 [extra]
-#feature_image = "/recettes/20231007_121358.jpg"
-#feature_image = "/recettes/20231007_121456.jpg"
-#feature_image = "/recettes/20231007_121940.jpg"
-#feature_image = "/recettes/20231007_122059.jpg"
 feature_image = "https://ik.imagekit.io/eaec9qogv/zola/gratin-aubergines.webp"
 imagekit = true
 ingredients = [

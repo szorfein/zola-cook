@@ -28,7 +28,8 @@
       {% endif %}
     {% endif %}
     <div class="padding">
-      <h6 class="bold">{{ post.title }}</h6>
+      <h6 class="s m bold">{{ post.title | truncate(length=16) }}</h6>
+      <h6 class="l bold">{{ post.title }}</h6>
       <p>{{ post.content | striptags | truncate(length=53) }}</p>
     </div>
   </article>

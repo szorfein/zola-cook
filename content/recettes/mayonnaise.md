@@ -6,14 +6,15 @@ date = 2023-10-10
 categories = ["condiment"]
 
 [extra]
-feature_image = "https://images.unsplash.com/photo-1562114808-b4b33cf60f4f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1473&q=80"
+feature_image = "https://images.unsplash.com/photo-1562114808-b4b33cf60f4f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA"
+unsplash = true
 ingredients = [
   "1 càs de vinaigre ou de citron (~15 ml)",
   "3 pincées de sel",
   "1/2 càc de poivre",
   "1 càc de moutarde (facultatif)",
   "1 jaune d'oeuf",
-  "100 ml d'huile (quantité de vinaigre/citron x10)"
+  "de 100 à 150 ml d'huile (quantité de vinaigre/citron x10)"
 ]
 preparations = [
   "Dans un saladier, ajouter le vinaigre et le sel. Bien mélanger pour dissoudre le sel.",
