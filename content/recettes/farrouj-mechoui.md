@@ -29,10 +29,10 @@ preparations = [
   "Dans dans grand plat, verser le poulet et les éléments de marinade, bien mélanger.",
   "Vous pouvez laisser mariner au moins 30 minutes.",
   "Cuire le poulet au grill ou au barbecue 30 minutes en retournant au bout de 15 minutes.",
-  "Pendant ce temps, faites la sauce. Hacher les feuilles de menthe.",
+  "Pendant ce temps, faites la sauce (vous pouvez la faire avec un mortier). Hacher les feuilles de menthe.",
   "Ecraser et hacher l'ail",
   "Mélanger la menthe, l'ail et le gros sel. Verser l'huile d'olive progressivement en remuant avec une fourchette.",
-  "Au moment de servir, chaque personne verse 1 càs de sauce sur leurs morceau de poulet."
+  "Au moment de servir, chaque personne verse 1 càs de sauce sur leurs morceaux de poulet."
 ]
 +++
 Recette libanaise de poulet grillé servie avec une sauce à l'ail et à la menthe pour 6. A servir avec des {{ link(url="/recettes/pita", word="pita") }} / {{ link(url="/recettes/taboule", word="taboulé") }}.

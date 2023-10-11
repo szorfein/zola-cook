@@ -23,10 +23,10 @@ ingredients_2 = [
 ]
 preparations = [
   "Préparer la sauce, écraser et hacher l'ail.",
-  "Dans un saladier, mélanger tous les ingrédients.",
+  "Dans un saladier, mélanger tous les ingrédients et rectifier l'assaisonnement.",
   "Préparer le fenouil, laver-le, couper les extrémités.",
   "Emincer le bulbe du fenouil (couteau ou mandoline) puis ajouter le au saladier.",
-  "Mélanger et rectifier l'assaisonnement."
+  "Mélanger."
 ]
 +++
-Salade de fenouil à la charmoula pour 5.
+Salade de fenouil à la chermoula pour 5.
