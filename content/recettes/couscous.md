@@ -7,7 +7,8 @@ categories = ["plat principal"]
 tags = ["maghreb"]
 
 [extra]
-feature_image = "https://images.unsplash.com/photo-1541518763669-27fef04b14ea?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1333&q=80"
+feature_image = "https://images.unsplash.com/photo-1541518763669-27fef04b14ea?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA"
+unsplash = true
 feature = true
 ingredients = [
   "1.5 kg de viande de mouton/agneau (collier et épaule avec les os)",

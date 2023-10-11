@@ -6,7 +6,8 @@ date = 2023-08-28
 categories = ["dessert"]
 
 [extra]
-feature_image = "https://images.unsplash.com/photo-1630362137311-ca837e790e47?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1472&q=80"
+feature_image = "https://images.unsplash.com/photo-1630362137311-ca837e790e47?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA"
+unsplash = true
 ingredients = [
   "1 kg de farine de blé T55",
   "2 litres de lait",

@@ -6,7 +6,8 @@ date = 2023-09-20
 categories = ["plat principal"]
 
 [extra]
-feature_image = "https://images.unsplash.com/photo-1518492104633-130d0cc84637?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1326&q=80"
+feature_image = "https://images.unsplash.com/photo-1518492104633-130d0cc84637?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+unsplash = true
 ingredients = [
   "1 poulet",
   "huile d'olive",

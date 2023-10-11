@@ -7,7 +7,8 @@ categories = ["pain", "accompagnement"]
 tags = ["maghreb"]
 
 [extra]
-feature_image = "https://plus.unsplash.com/premium_photo-1675382377369-c8f4cd69cfee?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80"
+feature_image = "https://plus.unsplash.com/premium_photo-1675382377369-c8f4cd69cfee?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA"
+unsplash = true
 ingredients = [
   "400 g de farine T55",
   "22 g de levure fraîche ou 8 g de levure sèche",

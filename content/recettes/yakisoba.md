@@ -7,7 +7,8 @@ categories = ["pâte"]
 tags = ["asie"]
 
 [extra]
-feature_image = "https://images.unsplash.com/photo-1585032226651-759b368d7246?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1384&q=80"
+feature_image = "https://images.unsplash.com/photo-1585032226651-759b368d7246?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA"
+unsplash = true
 ingredients = [
   "180 g de pâte soba (ou n'importe quel pâte)",
   "100 g de viande (porc lardon, boeuf, crevette)",
