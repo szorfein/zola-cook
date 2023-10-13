@@ -6,8 +6,8 @@ date = 2023-10-12
 categories = ["dessert"]
 
 [extra]
-#feature_image = "https://i.pinimg.com/originals/0e/ed/5f/0eed5fb52fada0b7aad1be816078fb1b.jpg"
-feature_image = "http://www.recettesmaroc.com/wp-content/uploads/2019/02/IMG_7665-Copy.jpg"
+feature_image = "https://ik.imagekit.io/eaec9qogv/zola/despacito.webp"
+imagekit = true
 ingredients = [
   "500 ml de crème liquide entière (ou 35% de matière grasse minimum)",
   "200 g de chocolat en tablette (pur noir, chocolat au lait ou un mix 50/50)",
