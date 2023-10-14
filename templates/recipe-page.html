@@ -8,7 +8,7 @@
 {% block content %}
 <header>
   <nav>
-    <a class="button circle transparent" href="/recettes">
+    <a class="button circle transparent history" href="/recettes">
       <i>arrow_back</i>
     </a>
   </nav>
@@ -21,7 +21,9 @@
     <div class="s12">
       {% if page.extra.feature_image %}
       {% if page.extra.unsplash %}
-      <img class="responsive medium banner-img" src="{{ page.extra.feature_image }}&fm=jpg&q=80">
+      <img class="responsive medium banner-img" src="{{ page.extra.feature_image }}&fm=webp&q=80">
+      {% elif page.extra.imagekit %}
+      <img class="responsive medium banner-img" src="{{ page.extra.feature_image }}?f-auto?tr=q-80">
       {% else %}
       <img class="responsive medium banner-img" src="{{ page.extra.feature_image }}">
       {% endif %}

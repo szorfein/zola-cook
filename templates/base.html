@@ -1,5 +1,5 @@
 {% import "head.html" as head %}
-{% import "nav.html" as nav %}
+{% import "macros/nav.html" as nav %}
 {% import "footer.html" as footer %}
 
 <!DOCTYPE html>
@@ -29,52 +29,20 @@
     <script src="https://rum.edgio.net/latest.js" defer onload="initEdgioRum()">
     </script>
   {% block js %} {% endblock %}
+    <script type="text/javascript" src="{{ get_url(path='/app.js') }}"></script>
     <script type="text/javascript">
-      function assert(test, msg) {
-          var res = test ? "pass" : "fail"
-          console.log(msg + " " + res)
-      };
-      function load_explore() {
-          var link = document.getElementsByClassName("explore");
-          var html = '<i>widgets</i><span>Explore</span>'
-
-          for (let i = 0; i < link.length; i++) {
-              link[i].setAttribute("href", "javascript:void(0)");
-              link[i].setAttribute("data-ui", "#dialog");
-              link[i].classList.add("active");
-              link[i].innerHTML = html
-          }
-      };
-      function load_sticky() {
-          var header = document.getElementsByClassName("my-sticky");
-
-          for (let i = 0; i < header.length; i++) {
-
-            var sticky = header[i].offsetTop;
-
-            if (window.pageYOffset > sticky) {
-              header[i].classList.add("fixed");
-              header[i].classList.add("top");
-              header[i].classList.add("sticky");
-            } else {
-              header[i].classList.remove("fixed");
-              header[i].classList.remove("top");
-              header[i].classList.remove("sticky");
-            }
-          };
-          //header.classList.toggle("fixed", window.pageYOffset > sticky);
-      };
       window.onload = function() {
           load_explore();
+          load_change_color();
+          go_back();
         {% block js_onload %} {% endblock %}
       };
       window.addEventListener("scroll", function(evt) {
           load_sticky();
       });
-
     </script>
   </head>
-  <body class="light">
+  <body>
 
     <!-- for short screen -->
     <nav class="s bottom">
@@ -87,6 +55,10 @@
       <a href="/tags">
         <i>my_location</i>
         <span>Tags</span>
+      </a>
+      <div class="max"></div>
+      <a id="change_color">
+        <i>light_mode</i>
       </a>
     </nav>
 

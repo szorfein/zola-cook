@@ -7,20 +7,20 @@
       <img class="responsive small top-round"
            src="{{ post.extra.feature_image }}"
            loading="lazy"
-           srcset="{{ post.extra.feature_image }}?tr=w-225 225w,
-                   {{ post.extra.feature_image }}?tr=w-300 300w,
-                   {{ post.extra.feature_image }}?tr=w-350 350w,
-                   {{ post.extra.feature_image }}?tr=w-640 640w,
+           srcset="{{ post.extra.feature_image }}?f-auto?tr=w-225 225w,
+                   {{ post.extra.feature_image }}?f-auto?tr=w-300 300w,
+                   {{ post.extra.feature_image }}?f-auto?tr=w-350 350w,
+                   {{ post.extra.feature_image }}?f-auto?tr=w-640 640w,
                   "
            sizes="(max-width: 400px) 100vw, (max-width: 700px) 50vw, (max-width: 900px) 33vw, 225px">
       {% elif post.extra.unsplash %}
       <img class="responsive small top-round"
            src="{{ post.extra.feature_image }}"
            loading="lazy"
-           srcset="{{ post.extra.feature_image }}&fm=jpg&w=225&fit=max 225w,
-                   {{ post.extra.feature_image }}&fm=jpg&w=300&fit=max 300w,
-                   {{ post.extra.feature_image }}&fm=jpg&w=350&fit=max 350w,
-                   {{ post.extra.feature_image }}&fm=jpg&w=640&fit=max 640w,
+           srcset="{{ post.extra.feature_image }}&fm=webp&w=225&fit=max 225w,
+                   {{ post.extra.feature_image }}&fm=webp&w=300&fit=max 300w,
+                   {{ post.extra.feature_image }}&fm=webp&w=350&fit=max 350w,
+                   {{ post.extra.feature_image }}&fm=webp&w=640&fit=max 640w,
                   "
            sizes="(max-width: 400px) 100vw, (max-width: 700px) 50vw, (max-width: 900px) 33vw, 225px">
       {% else %}

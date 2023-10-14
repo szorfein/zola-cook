@@ -1,4 +1,4 @@
-{% import "material.html" as material %}
+{% import "macros/material.html" as material %}
 {% import "macros/paginate.html" as paginate %}
 
 {% extends "base.html" %}
@@ -12,7 +12,7 @@
 
 <header>
   <nav>
-    <a class="button circle transparent" href="{{ get_url(path='/categories') }}">
+    <a class="button circle transparent history" href="{{ get_url(path='/categories') }}">
       <i>arrow_back</i>
     </a>
     <h5 class="max">{{ "Recettes dans la categorie " ~ term.name }}</h5>

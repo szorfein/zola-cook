@@ -1,4 +1,4 @@
-{% import "material.html" as material %}
+{% import "macros/material.html" as material %}
 {% import "macros/categorie.html" as categorie %}
 {% extends "base.html" %}
 
@@ -18,7 +18,7 @@
 {% block content %}
 <header>
   <nav>
-    <a class="button circle transparent" href="{{ get_url(path='/') }}">
+    <a class="button circle transparent history" href="{{ get_url(path='/') }}">
       <i>arrow_back</i>
     </a>
     <h5>Categories</h5>
