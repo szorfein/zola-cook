@@ -2,6 +2,7 @@
 {% import "head.html" as head %}
 {% import "macros/tag.html" as tag %}
 {% import "macros/categorie.html" as categorie %}
+{% import "macros/index.html" as index %}
 {% extends "base.html" %}
 
 {% block title %}
@@ -27,62 +28,126 @@
 <main class="responsive">
 <div class="medium-space"></div>
 
+<div class="s m">
 <h4>Background</h4>
 <div class="space"></div>
-<div class="medium-text medium-line">
-  <p class="medium-line">
-    Ce site contient de nombreuses recettes issue de la cuisine <a class="link" href="https://fr.wikipedia.org/wiki/Cuisine_pied-noire">pied-noire</a>, <a class="link" href="https://fr.wikipedia.org/wiki/Cuisine_des_pays_du_Maghreb">algérienne</a>, <a class="link" href="https://fr.wikipedia.org/wiki/Cuisine_m%C3%A9diterran%C3%A9enne">méditerranéenne</a>, <a class="link" href="https://fr.wikipedia.org/wiki/Cuisine_maltaise">maltaise</a> et d'autres contrées, vous trouverez de nombreuses recettes comme le <a class="link" href="/recettes/couscous">couscous</a>, <a class="link" href="/recettes/taboule">le taboulé</a>, les <a class="link" href="/recettes/makrouts">makrouts</a>, le <a class="link" href="/recettes/jeri">jéri à la menthe</a>, les briks (<a class="link" href="/recettes/bricks-au-thon">au thon</a>), les <a class="link" href="/recettes/fricasse-tunisien">fricassés tunisien</a> en passant par la <a class="link" href="/recettes/pizza-aux-anchoix/">pizza aux anchoix</a>, des sardines à l'escabech, etc...<br />
-    D'autres fantaisies sont ou seront ajoutées comme le <a class="link" href="/recettes/mojito">mojito</a>, <a class="link" href="/recettes/brownie">brownie</a>, une tarte au citron (un jour peut être :)).
-  </p>
+<div class="medium-text">
+  {{ index::intro() }}
+</div>
+<div class="medium-space"></div>
 </div>
 
-<div class="medium-space"></div>
+<div class="l">
+  <article class="background">
+    <h4>Background</h4>
+    <div class="space"></div>
+    {{ index::intro() }}
+  </article>
+<div class="large-space"></div>
+</div>
 
 {% set section = get_section(path="recettes/_index.md") %}
 
-<h4>Dernière recettes</h4>
-<div class="space"></div>
-<div class="s l">
-  {{ categorie::display(term=section.pages, number=4) }}
-</div>
-<div class="m">
-  {{ categorie::display(term=section.pages, number=3) }}
-</div>
-<div class="medium-space"></div>
-<div class="s">
-  <a class="button responsive small-elevate secondary" href="/recettes">
-    <i>arrow_forward</i>
-    Voir toutes les recettes
-  </a>
-</div>
-<div class="m l">
-  <div class="center-align medium-align">
-    <a class="button small-elevate large secondary" href="/recettes">
-      <i>arrow_forward</i>
-      Voir toutes les recettes
-    </a>
+<div class="s m">
+  <h4>Dernière recettes</h4>
+  <div class="space"></div>
+  <div class="s">
+    {{ categorie::display(term=section.pages, number=4) }}
   </div>
+  <div class="m">
+    {{ categorie::display(term=section.pages, number=3) }}
+  </div>
+  <div class="medium-space"></div>
+  <nav>
+    <div class="s responsive">
+      <a class="button responsive small-elevate secondary" href="/recettes">
+        <i>arrow_forward</i>
+        Voir toutes les recettes
+      </a>
+    </div>
+    <div class="m grid responsive">
+        <div class="s6">
+          <a class="button responsive secondary" href="/recettes">
+            <i>arrow_forward</i>
+            Voir toutes les recettes
+          </a>
+        </div>
+        <div class="s6">
+          <a class="button responsive secondary" href="/categories">
+            <i>arrow_forward</i>
+            Par categories
+          </a>
+        </div>
+    </div>
+  </nav>
+</div>
+
+<div class="l">
+<article class="background">
+  <h4>Dernière recettes</h4>
+  <div class="space"></div>
+  {{ categorie::display(term=section.pages, number=4) }}
+  <div class="medium-space"></div>
+  <nav>
+    <div class="l grid responsive">
+        <div class="s4">
+          <a class="button responsive secondary" href="/recettes">
+            <i>arrow_forward</i>
+            Voir toutes les recettes
+          </a>
+        </div>
+        <div class="s4">
+          <a class="button responsive secondary" href="/categories">
+            <i>arrow_forward</i>
+            Par categories
+          </a>
+        </div>
+        <div class="s4">
+          <a class="button responsive secondary" href="/tags">
+            <i>arrow_forward</i>
+            Par continents
+          </a>
+        </div>
+    </div>
+  </nav>
+</article>
 </div>
 
 <div class="large-space"></div>
 
+{% set categories = get_taxonomy(kind="tags") %}
+<div class="s m">
 <h4>Par continents</h4>
 <div class="space"></div>
-{% set categories = get_taxonomy(kind="tags") %}
 {% for category in categories.items %}
 {% if loop.index % 2 and loop.index <= 2 %}
 <div class="s">
   {{ tag::display_reverse(term=category) }}
 </div>
-<div class="m l">
+<div class="m">
   {{ tag::display_normal(term=category) }}
 </div>
 {% else %}
-<div class="s m l">
+<div class="s m">
   {{ tag::display_reverse(term=category) }}
 </div>
 {% endif %}
 {% endfor %}
+</div>
+
+<div class="l">
+  <article class="background">
+    <h4>Par continents</h4>
+    <div class="space"></div>
+    {% for category in categories.items %}
+    {% if loop.index % 2 and loop.index <= 2 %}
+    {{ tag::display_normal(term=category) }}
+    {% else %}
+    {{ tag::display_reverse(term=category) }}
+    {% endif %}
+    {% endfor %}
+  </article>
+</div>
 
 </main>
 {% endblock content %}
