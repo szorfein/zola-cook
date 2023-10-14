@@ -29,7 +29,7 @@ preparations = [
   "Dans un mixeur, préparer la téhina. Versez les graines de sésame.",
   "Mixer, ajouter de l'huile d'olive progressivement jusqu'a avoir une pâte bien lisse.",
   "Ajouter les autres ingrédients, aubergines, citron, sel, ail, cumin.",
-  "Mixer jusqu'a avoir la consistance de l'image. Rectifier l'assaisonment si besoin.",
+  "Mixer jusqu'a avoir la consistance de l'image. Rectifier l'assaisonnement si besoin.",
   "Reserver au frais au moins 2 heures."
 ]
 +++

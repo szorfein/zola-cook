@@ -1,5 +1,5 @@
 {% extends "base.html" %}
-{% import "material.html" as material %}
+{% import "macros/material.html" as material %}
 
 {% block title %}
 {{ head::title(name = page.title ~ " | Zola-Cook") }}
@@ -10,7 +10,7 @@
 
 <header>
   <nav>
-    <a class="button circle transparent" href="/">
+    <a class="button circle transparent history" href="/">
       <i>arrow_back</i>
     </a>
     <h5 class="max">{{ page.title }}</h5>

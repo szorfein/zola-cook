@@ -12,7 +12,7 @@ ingredients = [
   "2 L d'eau",
   "8 sachets de thé noir (ou vert) (1 sachet pour 250 ml d'eau)",
   "4 citron jaune (bio de préférence)",
-  "2 à 3 càs de miel (facultatif)",
+  "2 càs de miel (facultatif)",
   "2 centimètres de gingembre frais (facultatif)",
   "1 poignée de feuille de menthe (facultatif)",
 ]
@@ -21,7 +21,7 @@ preparations = [
   "Couper les fils des sachets pour enlever les étiquettes.",
   "Presser le jus d'un citron, vous pouvez garder les peaux.",
   "Enlever les extrémiter des citrons puis couper-les en fine tranches.",
-  "Dans un grand bocal (pour 2 litres ici) qui se ferme, ajouter tout les ingrédients.",
+  "Dans un grand bocal (pour 2 litres ici) qui se ferme, ajouter tous les ingrédients.",
   "Laisser au frigo au moins 12 h."
 ]
 +++

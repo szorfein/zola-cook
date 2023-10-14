@@ -25,7 +25,7 @@ Ces informations sont utilisée pour analyser les tendances, administrer le site
 
 {{ default_card_open() }}
 ### Traceurs et cookies
-Sur Zola-Cook, aucun traceurs et cookies ne sont crée ou utilisé.
+Sur Zola-Cook, des cookies sont crée uniquement pour enregistrer les préferences par rapport à l'interface utilisateur. Aucun traceurs ni aucune informations privées ne sont crée | vendu | partager ou échanger.
 {{ space() }}
 
 ##### Définition d’un cookie
