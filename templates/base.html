@@ -111,9 +111,20 @@ function load_change_color() {
     change_color();
   });
 };
+      function go_back() {
+        var class_back = document.getElementsByClassName("history");
+
+        for (let i=0; i<class_back.length; i++) {
+          class_back[i].setAttribute("href", "javascript:void(0)");
+          class_back[i].addEventListener("click", () => {
+            history.back();
+          });
+        }
+      };
       window.onload = function() {
           load_explore();
-        load_change_color();
+          load_change_color();
+          go_back();
         {% block js_onload %} {% endblock %}
       };
       window.addEventListener("scroll", function(evt) {
