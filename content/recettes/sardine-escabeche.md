@@ -32,7 +32,7 @@ preparations = [
   "Reserver-les dans un plat quand elles sont bien dorées.",
   "Emincer l'ail",
   "Faites torréfier les épices pendant 2 à 3 minutes puis les moudres (mortier, moulin à café, blender, etc).",
-  "Préparer la sauce escabèche, dans une sauteuse, ajouter 3 càs d'huile de friture (parfumé à la sardine), l'ail et le thym.",
+  "Pour la sauce escabèche. Dans une sauteuse, ajouter 3 càs d'huile de friture (parfumé à la sardine), l'ail et le thym.",
   "Faites revenir 2 minutes.",
   "Ajouter le vinaigre avec le laurier et les épices. Laisser cuire 5 minutes.",
   "Verser la sauce sur les sardines et laisser refroidir.",
