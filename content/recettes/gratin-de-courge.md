@@ -6,7 +6,7 @@ date = 2023-10-03
 categories = ["gratin", "accompagnement"]
 
 [extra]
-feature_image = "https://ik.imagekit.io/eaec9qogv/zola/gratin-courge.webp"
+feature_image = "gratin-courge.webp"
 imagekit = true
 ingredients = [
   "1 kg de courge (n'importe quelle varieté)",

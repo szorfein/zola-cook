@@ -7,7 +7,7 @@ categories = ["pain"]
 tags = ["maghreb"]
 
 [extra]
-feature_image = "https://ik.imagekit.io/eaec9qogv/zola/matlou.webp"
+feature_image = "matlou.webp"
 imagekit = true
 ingredients = [
   "200 gr de semoule extra-fine",

@@ -7,7 +7,7 @@ categories = ["plat principal"]
 tags = ["asie"]
 
 [extra]
-feature_image = "https://ik.imagekit.io/eaec9qogv/zola/boeuf-brocoli.webp"
+feature_image = "boeuf-brocoli.webp"
 imagekit = true
 ingredients = [
   "100 g de boeuf",

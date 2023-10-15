@@ -6,7 +6,7 @@ date = 2023-10-12
 categories = ["dessert"]
 
 [extra]
-feature_image = "https://ik.imagekit.io/eaec9qogv/zola/despacito.webp"
+feature_image = "despacito.webp"
 imagekit = true
 ingredients = [
   "500 ml de crème liquide entière (ou 35% de matière grasse minimum)",

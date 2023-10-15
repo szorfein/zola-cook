@@ -7,7 +7,7 @@ categories = ["soupe"]
 tags = ["asie"]
 
 [extra]
-feature_image = "https://ik.imagekit.io/eaec9qogv/zola/soupe-chinoise.webp"
+feature_image = "soupe-chinoise.webp"
 imagekit = true
 ingredients = [
   "Vermicelle de soja (assez pour tous le monde)",

@@ -6,7 +6,7 @@ date = 2023-09-29
 categories = ["dessert"]
 
 [extra]
-feature_image = "https://ik.imagekit.io/eaec9qogv/zola/bugnes.webp"
+feature_image = "bugnes.webp"
 imagekit = true
 ingredients = [
   "300 g de farine",
