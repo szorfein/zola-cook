@@ -7,7 +7,8 @@ categories = ["pain"]
 tags = ["maghreb"]
 
 [extra]
-feature_image = "https://i.pinimg.com/originals/92/3a/ed/923aed2f1e35f3737b6378433b609b26.jpg"
+feature_image = "https://ik.imagekit.io/eaec9qogv/zola/mouna.webp"
+imagekit = true
 ingredients = [
   "500 g de farine",
   "2 oeufs + 1 jaune pour la dorure",
@@ -33,7 +34,7 @@ preparations = [
   "Laisser reposer la pate pendant 1h30 dans un endroit chaud (~20 à 23°C).",
   "Dégazer la pate, former une boule et mettre au frais pour au moins 8 heures avec du film alimentaire.",
   "8 heures plus tard, sortez la pâte, former une boule et la poser sur une plaque ou dans un moule. Laisser la reposer 1 heure dans un endroit chaud (~20 à 23°C).",
-  "Dorer la mouna avec un jaune d'oeuf, versez du sucre en grain et enfourner 35 minutes à 175°C."
+  "Dorer la mouna avec un jaune d'oeuf. Faîtes une incision en croix. Versez du sucre en grain et enfourner 35 minutes à 175°C."
 ]
 +++
 
