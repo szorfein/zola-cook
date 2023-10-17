@@ -35,7 +35,7 @@ ingredients_3 = [
   "50 g de beurre",
   "60 g de farine",
   "2 cac de curcuma",
-  "2 cac de graine de coriande",
+  "2 cac de graine de coriandre",
   "2 cac de graine de cumin",
   "3 clou de girofle",
   "1 cac de cardamome",

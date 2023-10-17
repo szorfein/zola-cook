@@ -18,7 +18,7 @@ ingredients = [
   "1 poignée de persil plat",
   "2 cac de cumin",
   "1 cac de sel",
-  "1 cac de coriande moulu",
+  "1 cac de coriandre moulu",
   "huile de friture",
   "1 oeuf par brick (facultatif)",
   "1 cac d'harissa ou 1 piment vert (facultatif)"

@@ -29,5 +29,5 @@ preparations = [
 ]
 +++
 
-Pour 1 pâte a pizza napolitaine.
+Pour 1 pâte a pizza façon napolitaine.
 

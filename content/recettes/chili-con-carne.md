@@ -26,7 +26,7 @@ ingredients_2 = [
   "1 càs de graine de cumin ou cumin en poudre",
   "1 càc de piment fort en poudre",
   "1 càc de paprika en poudre",
-  "1 càc de coriande moulu",
+  "1 càc de coriandre moulu",
   "2 clous de girofle",
 ]
 ingredients_3_title = "Pour les piments"
