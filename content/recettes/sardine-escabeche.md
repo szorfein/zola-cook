@@ -7,7 +7,7 @@ categories = ["plat principal"]
 tags = ["maghreb"]
 
 [extra]
-feature_image = "https://ik.imagekit.io/eaec9qogv/zola/sardine-escabeche.webp"
+feature_image = "sardine-escabeche.webp"
 imagekit = true
 ingredients = [
   "1 kg de sardines",

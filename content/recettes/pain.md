@@ -3,7 +3,7 @@ title = "Pain"
 date = 2023-08-22
 
 [taxonomies]
-categories = ["pain"]
+categories = ["pain", "sandwitch"]
 
 [extra]
 feature_image = "https://images.unsplash.com/photo-1589218170949-74ea68f32964?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA"

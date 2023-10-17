@@ -7,7 +7,7 @@ categories = ["pizza"]
 tags = ["maghreb"]
 
 [extra]
-feature_image = "https://ik.imagekit.io/eaec9qogv/zola/pizza-anchoix.webp"
+feature_image = "pizza-anchoix.webp"
 imagekit = true
 ingredients = [
   "500 g de farine T55",

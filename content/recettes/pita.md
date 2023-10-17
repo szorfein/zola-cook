@@ -3,7 +3,7 @@ title = "Pita"
 date = 2023-09-17
 
 [taxonomies]
-categories = ["pain", "accompagnement"]
+categories = ["pain", "accompagnement", "sandwitch"]
 tags = ["maghreb"]
 
 [extra]
@@ -11,11 +11,11 @@ feature_image = "https://plus.unsplash.com/premium_photo-1675382377369-c8f4cd69c
 unsplash = true
 ingredients = [
   "400 g de farine T55",
-  "22 g de levure fraîche ou 8 g de levure sèche",
+  "20 g de levure fraîche ou 8 g de levure sèche",
   "250 ml d'eau chaude (~40-50°C)",
-  "2 cac d'huile d'olive",
-  "1 cac sel",
-  "1 cac sucre",
+  "2 càc d'huile d'olive",
+  "5 g de sel",
+  "1 càc sucre",
 ]
 preparations = [
   "Mélanger la farine avec le sucre et la levure.",

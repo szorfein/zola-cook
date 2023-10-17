@@ -3,7 +3,7 @@ title = "Pâte à Pizza"
 date = 2023-09-23
 
 [taxonomies]
-categories = ["pain"]
+categories = ["pain", "pizza"]
 
 [extra]
 feature_image = "https://images.unsplash.com/photo-1547197309-082bdc50ce8b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA"
@@ -29,5 +29,5 @@ preparations = [
 ]
 +++
 
-Pour 1 pâte a pizza napolitaine.
+Pour 1 pâte a pizza façon napolitaine.
 

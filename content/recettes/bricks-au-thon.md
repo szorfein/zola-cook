@@ -7,9 +7,7 @@ categories = ["entree"]
 tags = ["maghreb"]
 
 [extra]
-#feature_image = "https://dietetique-en-ligne.com/wp-content/uploads/2016/06/Samoussas-thon-2.jpg"
-#feature_image = "https://assets.afcdn.com/recipe/20130910/16156_w3072h2304c1cx2128cy1416.jpg"
-feature_image = "https://ik.imagekit.io/eaec9qogv/zola/briks-thon.webp"
+feature_image = "briks-thon.webp"
 imagekit = true
 ingredients = [
   "6 feuilles de brick",
@@ -20,7 +18,7 @@ ingredients = [
   "1 poignée de persil plat",
   "2 cac de cumin",
   "1 cac de sel",
-  "1 cac de coriande moulu",
+  "1 cac de coriandre moulu",
   "huile de friture",
   "1 oeuf par brick (facultatif)",
   "1 cac d'harissa ou 1 piment vert (facultatif)"

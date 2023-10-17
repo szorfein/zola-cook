@@ -6,7 +6,7 @@ date = 2023-08-27
 categories = ["accompagnement", "salade"]
 
 [extra]
-feature_image = "https://ik.imagekit.io/eaec9qogv/zola/taboule.webp"
+feature_image = "taboule.webp"
 imagekit = true
 ingredients = [
   "1 kg de semoule fine",

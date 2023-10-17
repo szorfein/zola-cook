@@ -6,7 +6,7 @@ date = 2023-10-04
 categories = ["pain"]
 
 [extra]
-feature_image = "https://ik.imagekit.io/eaec9qogv/zola/pain-au-lait.webp"
+feature_image = "pain-au-lait.webp"
 imagekit = true
 ingredients = [
   "350 g de farine",

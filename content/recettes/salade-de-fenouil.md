@@ -6,7 +6,7 @@ date = 2023-10-10
 categories = ["salade"]
 
 [extra]
-feature_image = "https://ik.imagekit.io/eaec9qogv/zola/fenouil.webp"
+feature_image = "fenouil.webp"
 imagekit = true
 ingredients = [
   "1 kg de fenouil",

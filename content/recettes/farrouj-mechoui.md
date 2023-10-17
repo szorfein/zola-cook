@@ -6,7 +6,7 @@ date = 2023-10-11
 categories = ["barbecue"]
 
 [extra]
-feature_image = "https://ik.imagekit.io/eaec9qogv/zola/farrouj-mechoui.webp"
+feature_image = "farrouj-mechoui.webp"
 imagekit = true
 ingredients = [
   "1 kg de poulet (cuisse et/ou blanc)",
