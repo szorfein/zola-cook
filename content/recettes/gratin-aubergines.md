@@ -6,7 +6,7 @@ date = 2023-10-07
 categories = ["gratin"]
 
 [extra]
-feature_image = "https://ik.imagekit.io/eaec9qogv/zola/gratin-aubergines.webp"
+feature_image = "gratin-aubergines.webp"
 imagekit = true
 ingredients = [
   "700 g d'aubergine",

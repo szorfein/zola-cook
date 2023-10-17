@@ -6,7 +6,7 @@ date = 2023-10-12
 categories = ["boisson"]
 
 [extra]
-feature_image = "https://ik.imagekit.io/eaec9qogv/zola/ice-tea-citron.webp"
+feature_image = "ice-tea-citron.webp"
 imagekit = true
 ingredients = [
   "2 L d'eau",

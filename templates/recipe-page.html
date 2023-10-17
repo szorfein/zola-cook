@@ -23,7 +23,8 @@
       {% if page.extra.unsplash %}
       <img class="responsive medium banner-img" src="{{ page.extra.feature_image }}&fm=webp&q=80">
       {% elif page.extra.imagekit %}
-      <img class="responsive medium banner-img" src="{{ page.extra.feature_image }}?f-auto?tr=q-80">
+      {% set site = load_data(path="site.toml") %}
+      <img class="responsive medium banner-img" src="{{ site.imagekit_url }}/tr:f-webp,q-80/{{ page.extra.feature_image }}">
       {% else %}
       <img class="responsive medium banner-img" src="{{ page.extra.feature_image }}">
       {% endif %}

@@ -6,7 +6,7 @@ date = 2023-09-26
 categories = ["dessert"]
 
 [extra]
-feature_image = "https://ik.imagekit.io/eaec9qogv/zola/tarte-aux-noix.webp"
+feature_image = "tarte-aux-noix.webp"
 imagekit = true
 ingredients = [
   "200 g de noix",

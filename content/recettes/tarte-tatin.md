@@ -6,7 +6,7 @@ date = 2023-09-27
 categories = ["dessert"]
 
 [extra]
-feature_image = "https://ik.imagekit.io/eaec9qogv/zola/tarte-tatin.webp"
+feature_image = "tarte-tatin.webp"
 imagekit = true
 ingredients = [
   "10 pommes (Pink Lady, Royal Gala, Golden ou autre)",

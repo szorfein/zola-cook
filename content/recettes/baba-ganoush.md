@@ -7,7 +7,7 @@ categories = ["entree"]
 tags = ["maghreb"]
 
 [extra]
-feature_image = "https://ik.imagekit.io/eaec9qogv/zola/baba-ganoush.webp"
+feature_image = "baba-ganoush.webp"
 imagekit = true
 ingredients = [
   "2 aubergines",

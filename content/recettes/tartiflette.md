@@ -6,7 +6,7 @@ date = 2023-10-07
 categories = ["gratin"]
 
 [extra]
-feature_image = "https://ik.imagekit.io/eaec9qogv/zola/tartiflette.webp"
+feature_image = "tartiflette.webp"
 imagekit = true
 ingredients = [
   "1.2 kg de pommes de terre",
