@@ -17,12 +17,16 @@
 </script>
 {% endmacro %}
 
-{% macro meta_simple(title, description=false) %}
+{% macro meta_simple(title, description=false, image=false) %}
 <meta property="og:title" content="{{ title }}" />
 <meta property="og:type" content="website" />
-<meta property="og:url" content="{{ current_url }}" />
+<meta property="og:url" content="{{ current_url | safe }}" />
 {% if description %}
 <meta property="og:description" content="{{ description }}" />
+{% endif %}
+{% if image %}
+<meta property="og:image" content="{{ image | safe }}" />
+<meta property="og:image:secure_url" content="{{ image | safe }}" />
 {% endif %}
 {% endmacro %}
 
@@ -31,9 +35,16 @@
 <meta property="og:url" content="{{ post.permalink | safe }}" />
 <meta property="og:type" content="article" />
 {% if post.extra.feature_image %}
-<meta property="og:image" content="{{ post.extra.feature_image }}" />
-<meta property="og:image:secure_url" content="{{ post.extra.feature_image }}" />
-<meta property="og:twitter:image" content="{{ post.extra.feature_image }}" />
+{% if post.extra.imagekit %}
+{% set site = load_data(path="site.toml") %}
+<meta property="og:image" content="{{ site.imagekit_url | safe }}/{{ post.extra.feature_image }}" />
+<meta property="og:image:secure_url" content="{{ site.imagekit_url | safe }}/{{ post.extra.feature_image }}" />
+<meta property="og:twitter:image" content="{{ site.imagekit_url | safe }}/{{ post.extra.feature_image }}" />
+{% else %}
+<meta property="og:image" content="{{ post.extra.feature_image | safe }}" />
+<meta property="og:image:secure_url" content="{{ post.extra.feature_image | safe }}" />
+<meta property="og:twitter:image" content="{{ post.extra.feature_image | safe }}" />
+{% endif %}
 {% endif %}
 <meta property="og:description" content="{{ post.content | striptags }}" />
 <meta property="og:article:published_time" content="{{ post.date }}" />

@@ -1,7 +1,7 @@
 {% macro about() %}
 <h6>À propos</h6>
 <p class="medium-line">
-  <a class="reverse-link" href="/">{{ config.title }}</a> contient de nombreuses recettes de famille issue de la cuisine <a class="link" href="https://fr.wikipedia.org/wiki/Cuisine_pied-noire">pied-noire</a>, <a class="link" href="https://fr.wikipedia.org/wiki/Cuisine_des_pays_du_Maghreb">algérienne</a>, <a class="link" href="https://fr.wikipedia.org/wiki/Cuisine_m%C3%A9diterran%C3%A9enne">méditerranéenne</a> et <a class="link" href="https://fr.wikipedia.org/wiki/Cuisine_maltaise">maltaise</a>.
+  <a class="reverse-link" href="{{ get_url(path='/') }}">{{ config.title }}</a> contient de nombreuses recettes de famille issue de la cuisine <a class="link" href="https://fr.wikipedia.org/wiki/Cuisine_pied-noire">pied-noire</a>, <a class="link" href="https://fr.wikipedia.org/wiki/Cuisine_des_pays_du_Maghreb">algérienne</a>, <a class="link" href="https://fr.wikipedia.org/wiki/Cuisine_m%C3%A9diterran%C3%A9enne">méditerranéenne</a> et <a class="link" href="https://fr.wikipedia.org/wiki/Cuisine_maltaise">maltaise</a>.
 </p>
 <div class="s m space"></div>
 {% endmacro about %}
@@ -18,7 +18,7 @@
     <a class="link" rel="me" href="https://mastodon.social/@zola__cook">Mastodon</a>
   </div>
   <div class="row">
-    <a class="link" href="/atom.xml">Blog RSS</a>
+    <a class="link" href="{{ get_url(path='/atom.xml') }}">Blog RSS</a>
   </div>
 </div>
 {% endmacro social %}
@@ -27,10 +27,10 @@
 <div>
   <h6>Informations</h6>
   <div class="row">
-    <a class="link" href="/politique-de-confidentialite">Politique de confidentialité</a>
+    <a class="link" href="{{ get_url(path='/politique-de-confidentialite') }}">Politique de confidentialité</a>
   </div>
   <div class="row">
-    <a class="link" href="/mention-legales">Mention légales</a>
+    <a class="link" href="{{ get_url(path='/mention-legales') }}">Mention légales</a>
   </div>
 </div>
 {% endmacro information %}
