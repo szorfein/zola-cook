@@ -9,8 +9,8 @@ categories = ["pate"]
 feature_image = "https://images.unsplash.com/photo-1607116667981-ff148a14e975?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA"
 unsplash = true
 ingredients = [
-  "250 g de penne",
-  "100 g de lardon",
+  "250 g de penne ou n'importe quelle type de pates...",
+  "100 g de pancetta ou lardon de porc ou de veau",
   "1 oignon",
   "2 gousses d'ail",
   "90 ml de vin blanc",

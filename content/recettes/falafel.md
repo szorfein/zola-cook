@@ -21,7 +21,7 @@ ingredients = [
   "1 càc de cumin",
   "1 càc de coriandre moulu",
   "1 càc de piment en poudre ou flocon (facultatif)",
-  "1/2 citron jaune",
+  "le jus de 1/2 citron jaune",
   "1/2 càc de poivre",
   "huile de friture",
 ]

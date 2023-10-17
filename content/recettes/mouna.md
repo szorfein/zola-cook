@@ -22,19 +22,21 @@ ingredients = [
   "1 càs de rhum (facultatif)",
   "1 càs d'eau de fleur d'oranger (facultatif)",
   "~150 ml de lait",
-  "Sucre en grain pour la déco",
+  "Sucre en grain pour la déco ou cassonade",
 ]
 preparations = [
-  "Prélever les zestes du citron et de l'orange. Presser le jus d'une moitié d'orange.",
+  "Prélever les zestes du citron et de l'orange. Presser le jus d'une moitié d'orange (pour obtenir environ 30 ml de jus).",
   "Faites bouillir le lait. Couper le feu et ajouter l'anis et les zestes, laisser infuser pendant 20 minutes.",
   "Dans un saladier ou la cuve d'un robot, mettre la farine, le sucre, le sel, les oeufs, le jus d'orange, l'eau de fleur d'oranger et le rhum.",
-  "Mélanger à vitesse basse. Ajouter la levure puis le lait progressivement jusqu'a former une boule. Il peut vous rester du lait, cela dépend de la farine et des liquides que vous avez ajouté.",
+  "Mélanger à vitesse basse. Ajouter la levure puis le lait progressivement jusqu'a former une boule.",
+  "Il peut vous rester du lait, cela dépend de la farine et des liquides que vous avez ajouté.",
   "Melanger à vitesse moyenne pendant 8 minutes.",
   "Ajouter le beurre petit à petit.",
   "Laisser reposer la pate pendant 1h30 dans un endroit chaud (~20 à 23°C).",
   "Dégazer la pate, former une boule et mettre au frais pour au moins 8 heures avec du film alimentaire.",
-  "8 heures plus tard, sortez la pâte, former une boule et la poser sur une plaque ou dans un moule. Laisser la reposer 1 heure dans un endroit chaud (~20 à 23°C).",
-  "Dorer la mouna avec un jaune d'oeuf. Faîtes une incision en croix. Versez du sucre en grain et enfourner 35 minutes à 175°C."
+  "8 heures plus tard, sortez la pâte, former une ou 2 boules et poser-les sur une feuille de papier de cuisson. Laisser les reposer 1 heure dans un endroit chaud (~20 à 23°C).",
+  "Dorer la mouna avec un jaune d'oeuf. Faîtes une incision en croix. Versez du sucre en grain.",
+  "Pour une seule mouna: enfourner 40 minutes à 170°C. Pour 2: enfourner 20 minutes à 175°C."
 ]
 +++
 
