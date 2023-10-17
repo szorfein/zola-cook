@@ -7,7 +7,7 @@ categories = ["pain"]
 tags = ["maghreb"]
 
 [extra]
-feature_image = "https://ik.imagekit.io/eaec9qogv/zola/mouna.webp"
+feature_image = "mouna.webp"
 imagekit = true
 ingredients = [
   "500 g de farine",
@@ -39,6 +39,5 @@ preparations = [
   "Pour une seule mouna: enfourner 40 minutes à 170°C. Pour 2: enfourner 20 minutes à 175°C."
 ]
 +++
-
 Brioche de Pâque bien parfumer à l'orange, citron, anis. A préparer à l'avance comme n'importe quelle brioche.
 
