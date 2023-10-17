@@ -43,3 +43,7 @@ Docs: [unsplash](https://unsplash.com/documentation#example-image-use), [imageki
 ### Sitemap
 
 After deployed, new sitemap is valided by clicking on https://www.google.com/ping?sitemap=https://szorfein-zola-cook-default.edgio.link/sitemap.xml
+
+### Good links
+
++ [w3m validator](https://validator.w3.org/nu/)

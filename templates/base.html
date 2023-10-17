@@ -19,7 +19,7 @@
     {% block rss %}
     <link rel="alternate" type="application/atom+xml" title="RSS" href="{{ get_url(path="atom.xml", trailing_slash=false) }}">
     {% endblock %}
-    <script defer>
+    <script>
       function initEdgioRum() {
           new Edgio.Metrics({
               token: '51fcedfe-b3a3-4989-bfbc-52ba6b70c59b'
@@ -29,8 +29,8 @@
     <script src="https://rum.edgio.net/latest.js" defer onload="initEdgioRum()">
     </script>
   {% block js %} {% endblock %}
-    <script type="text/javascript" src="{{ get_url(path='/app.js') }}"></script>
-    <script type="text/javascript">
+    <script src="{{ get_url(path='/app.js') }}"></script>
+    <script>
       window.onload = function() {
           load_explore();
           load_change_color();

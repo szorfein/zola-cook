@@ -21,12 +21,12 @@
     <div class="s12">
       {% if page.extra.feature_image %}
       {% if page.extra.unsplash %}
-      <img class="responsive medium banner-img" src="{{ page.extra.feature_image }}&fm=webp&q=80">
+      <img class="responsive medium banner-img" src="{{ page.extra.feature_image }}&fm=webp&q=80" alt="image de {{ page.title }}">
       {% elif page.extra.imagekit %}
       {% set site = load_data(path="site.toml") %}
-      <img class="responsive medium banner-img" src="{{ site.imagekit_url }}/tr:f-webp,q-80/{{ page.extra.feature_image }}">
+      <img class="responsive medium banner-img" src="{{ site.imagekit_url }}/tr:f-webp,q-80/{{ page.extra.feature_image }}" alt="image de {{ page.title }}">
       {% else %}
-      <img class="responsive medium banner-img" src="{{ page.extra.feature_image }}">
+      <img class="responsive medium banner-img" src="{{ page.extra.feature_image }}" alt="image de {{ page.title }}">
       {% endif %}
       {% endif %}
 
