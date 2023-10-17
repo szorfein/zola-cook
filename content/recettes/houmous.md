@@ -15,11 +15,12 @@ ingredients = [
   "15 ml de jus de citron",
   "35 ml d'eau",
   "1/2 càc de sel",
-  "20 ml d'huile d'olive"
+  "20 ml d'huile d'olive ou d'huile d'arachide",
+  "1 càc de bicarbonate de soude alimentaire"
 ]
 ingredients_2_title = "Pour la Tahina"
 ingredients_2 = [
-  "45 g de graines de sésame dorée",
+  "50 g de graines de sésame dorée",
   "huile d'olive"
 ]
 ingredients_3_title = "Pour la déco"
@@ -33,12 +34,12 @@ ingredients_3 = [
   "Dés de tomates (facultatif)"
 ]
 preparations = [
-  "La veille, faire tremper les pois chiches.",
+  "La veille, faire tremper les pois chiches avec le bicarbonate.",
   "Le lendemain ou 8 h après, cuire les pois chiches, ils doivent être fondant puis égoutter et rincer les (cela a pris 1 heure mais ca depend du calibre/marque/etc...).",
-  "Faire la Tahina, dans un hachoir, verser les graines de sesame et mixer.",
+  "Pendant ce temps, faites la Tahina, dans un hachoir, verser les graines de sesame et mixer.",
   "Ajouter de l'huile d'olive progressivement jusqu'à avoir une crème.",
   "Vous pouvez ajouter le reste des ingrédients avec la tahina si votre appareil est assez grand.",
-  "Ajouter les pois chiches (150-160 g), la gousse d'ail rapée, et metter le reste des ingrédients avec la tahina.",
+  "Ajouter les pois chiches encore chaud si possible (150-160 g), la gousse d'ail rapée, et metter le reste des ingrédients avec la tahina.",
   "Mixer jusqu'à avoir une texture bien lisse.",
   "Gouter et arranger selon vos gouts (sel, citron).",
   "Filmer et laisser au frigo pendant au moins 2 heures.",

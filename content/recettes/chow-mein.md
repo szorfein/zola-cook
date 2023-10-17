@@ -20,13 +20,12 @@ ingredients = [
 ]
 ingredients_2_title = "Pour la marinade"
 ingredients_2 = [
+  "2 càs d'eau",
   "1 càs de sauce soja",
   "1 càs de sauce huitre ou une autre de soja",
   "1 càs de sauce soja foncée ou une autre de soja",
-  "2 càs d'eau",
   "1/2 càc de bicarbonate de soude alimentaire ou levure chimique",
-  "1 càc de fécule de maïs",
-  "2 càc de vinaigre (blanc, rouge, riz ou balsamique)",
+  "2 càc de vin de cuisine (shaoxing, sake, blanc ou rouge) (facultatif)",
   "1 càc de sucre",
   "1 pincée de poivre"
 ]
@@ -36,10 +35,11 @@ ingredients_3 = [
   "1 càs de sauce soja",
   "1 càs de sauce huitre ou une autre de soja",
   "1 càs de sauce soja foncée ou une autre de soja",
-  "2 càc de vin de cuisine (shaoxing, sake, blanc ou rouge) (facultatif)",
+  "2 càc de vinaigre (blanc, rouge, riz ou balsamique)",
   "1 càc de sucre brun",
   "1 càc de fond en poudre (de volaille pour poulet) (de veau pour boeuf) (facultatif)",
   "1 càc de purée de piment (facultatif)",
+  "1 càc de fécule de maïs",
   "1 pincée de poivre"
 ]
 preparations = [
