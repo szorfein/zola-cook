@@ -26,7 +26,7 @@ ingredients_2 = [
   "1 càs de vin de cuisine (shaoxing, sake, rouge, blanc) (facultatif)",
   "1 càc de fécule de maïs",
   "1/2 càc de bicarbonate de soude alimentaire ou levure chimique",
-  "1 càs de sucre",
+  "1 càc de sucre",
   "1 pincée de poivre"
 ]
 ingredients_3_title = "Pour la sauce"
