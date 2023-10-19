@@ -7,22 +7,22 @@
     {% set site = load_data(path="site.toml") %}
     <!-- describe here: https://imagekit.io/responsive-images/#chapter-5---srcset-with-sizes -->
       <img class="responsive small top-round"
-           src="{{ post.extra.feature_image }}"
+           src="{{ site.imagekit_url | safe }}/{{ post.extra.feature_image }}"
            loading="lazy"
-           srcset="{{ site.imagekit_url }}/tr:q-80,w-225,f-webp/{{ post.extra.feature_image }} 225w,
-                   {{ site.imagekit_url }}/tr:q-80,w-300,f-webp/{{ post.extra.feature_image }} 300w,
-                   {{ site.imagekit_url }}/tr:q-80,w-350,f-webp/{{ post.extra.feature_image }} 350w,
-                   {{ site.imagekit_url }}/tr:q-80,w-640,f-webp/{{ post.extra.feature_image }} 640w,
+           srcset="{{ site.imagekit_url | safe }}/tr:q-80,w-225,f-webp/{{ post.extra.feature_image }} 225w,
+                   {{ site.imagekit_url | safe }}/tr:q-80,w-300,f-webp/{{ post.extra.feature_image }} 300w,
+                   {{ site.imagekit_url | safe }}/tr:q-80,w-350,f-webp/{{ post.extra.feature_image }} 350w,
+                   {{ site.imagekit_url | safe }}/tr:q-80,w-640,f-webp/{{ post.extra.feature_image }} 640w,
                   "
            sizes="(max-width: 400px) 100vw, (max-width: 700px) 50vw, (max-width: 900px) 33vw, 225px">
       {% elif post.extra.unsplash %}
       <img class="responsive small top-round"
            src="{{ post.extra.feature_image }}"
            loading="lazy"
-           srcset="{{ post.extra.feature_image }}&fm=webp&w=225&fit=max 225w,
-                   {{ post.extra.feature_image }}&fm=webp&w=300&fit=max 300w,
-                   {{ post.extra.feature_image }}&fm=webp&w=350&fit=max 350w,
-                   {{ post.extra.feature_image }}&fm=webp&w=640&fit=max 640w,
+           srcset="{{ post.extra.feature_image | safe }}&fm=webp&w=225&fit=max 225w,
+                   {{ post.extra.feature_image | safe }}&fm=webp&w=300&fit=max 300w,
+                   {{ post.extra.feature_image | safe }}&fm=webp&w=350&fit=max 350w,
+                   {{ post.extra.feature_image | safe }}&fm=webp&w=640&fit=max 640w,
                   "
            sizes="(max-width: 400px) 100vw, (max-width: 700px) 50vw, (max-width: 900px) 33vw, 225px">
       {% else %}

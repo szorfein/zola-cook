@@ -1,13 +1,13 @@
 {% macro routes() %}
-<a href="/">
+<a href="{{ get_url(path='/') }}">
   <i>home</i>
   <span>Index</span>
 </a>
-<a href="/recettes">
+<a href="{{ get_url(path='/recettes') }}">
   <i>favorite</i>
   <span>Recettes</span>
 </a>
-<a class="explore" href="/categories">
+<a class="explore" href="{{ get_url(path='/categories') }}">
   <i>widgets</i>
   <span>Explore</span>
 </a>
@@ -24,19 +24,19 @@
     </nav>
   </header>
 
-  <a class="row round" href="/">
+  <a class="row round" href="{{ get_url(path='/') }}">
     <i>home</i>
     <span>Index</span>
   </a>
-  <a class="row round" href="/recettes">
+  <a class="row round" href="{{ get_url(path='/recettes') }}">
     <i>favorite</i>
     <span>Recettes</span>
   </a>
-  <a class="row round" href="/categories">
+  <a class="row round" href="{{ get_url(path='/categories') }}">
     <i>web_stories</i>
     <span>Categories</span>
   </a>
-  <a class="row round" href="/tags">
+  <a class="row round" href="{{ get_url(path='/tags') }}">
     <i>my_location</i>
     <span>Tags</span>
   </a>
