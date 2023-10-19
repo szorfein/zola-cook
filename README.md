@@ -19,7 +19,7 @@ Add content to the `public/` dir:
 
 And deploy:
 
-    node_modules/.bin/edgio deploy
+    ./node_modules/.bin/edgio deploy
 
 ## Deployed
 
@@ -35,7 +35,7 @@ In resume, in order to reduce image size, all metadatas are erased using `mat2`:
 
 And images are compressed and formatted in webp using `cwebp`:
 
-    $ cwebp -q 77.77 example.cleaned.jpeg -o example.webp
+    $ cwebp -q 80.00 example.cleaned.jpeg -o example.webp
 
 
 Docs: [unsplash](https://unsplash.com/documentation#example-image-use), [imagekit](https://imagekit.io/blog/lazy-loading-images-complete-guide/).
@@ -43,3 +43,7 @@ Docs: [unsplash](https://unsplash.com/documentation#example-image-use), [imageki
 ### Sitemap
 
 After deployed, new sitemap is valided by clicking on https://www.google.com/ping?sitemap=https://szorfein-zola-cook-default.edgio.link/sitemap.xml
+
+### Good links
+
++ [w3m validator](https://validator.w3.org/nu/)

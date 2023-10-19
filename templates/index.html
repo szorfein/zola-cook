@@ -5,20 +5,23 @@
 {% import "macros/index.html" as index %}
 {% extends "base.html" %}
 
+
 {% block title %}
+{% set site = load_data(path="site.toml") %}
 {{ head::title(name = "Zola Cook") }}
 {{ head::meta_simple(title = "Zola Cook",
-  description = "Zola Cook présente de nombreuses recettes de cuisine.") }}
+  description = "Zola Cook présente de nombreuses recettes de cuisine.",
+  image = site.banner_img) }}
 {% endblock title %}
 
 {% block content %}
 <article class="no-elevate round no-padding large page bottom active">
-  <img class="responsive" src="https://images.unsplash.com/photo-1577214407836-1f3a0604ecb2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA&fm=jpg&q=80">
+  <img class="responsive" src="{{ site.banner_img | safe }}" alt="Bannière du site">
   <div class="absolute middle center middle center-align white-text">
     <h1 class="center-align upper">Zola cook</h1>
     <h6>Zola contient des recettes de cuisine du monde.</h6>
     <nav class="center-align">
-      <a class="button extra" href="/recettes">
+      <a class="button extra" href="{{ get_url(path='/recettes') }}">
         Voir les recettes
       </a>
     </nav>
@@ -60,20 +63,20 @@
   <div class="medium-space"></div>
   <nav>
     <div class="s responsive">
-      <a class="button responsive small-elevate secondary" href="/recettes">
+      <a class="button responsive small-elevate secondary" href="{{ get_url(path='/recettes') }}">
         <i>arrow_forward</i>
         Voir toutes les recettes
       </a>
     </div>
     <div class="m grid responsive">
         <div class="s6">
-          <a class="button responsive secondary" href="/recettes">
+          <a class="button responsive secondary" href="{{ get_url(path='/recettes') }}">
             <i>arrow_forward</i>
             Voir toutes les recettes
           </a>
         </div>
         <div class="s6">
-          <a class="button responsive secondary" href="/categories">
+          <a class="button responsive secondary" href="{{ get_url(path='/categories') }}">
             <i>arrow_forward</i>
             Par categories
           </a>
@@ -91,19 +94,19 @@
   <nav>
     <div class="l grid responsive">
         <div class="s4">
-          <a class="button responsive secondary" href="/recettes">
+          <a class="button responsive secondary" href="{{ get_url(path='/recettes') }}">
             <i>arrow_forward</i>
             Voir toutes les recettes
           </a>
         </div>
         <div class="s4">
-          <a class="button responsive secondary" href="/categories">
+          <a class="button responsive secondary" href="{{ get_url(path='/categories') }}">
             <i>arrow_forward</i>
             Par categories
           </a>
         </div>
         <div class="s4">
-          <a class="button responsive secondary" href="/tags">
+          <a class="button responsive secondary" href="{{ get_url(path='/tags') }}">
             <i>arrow_forward</i>
             Par continents
           </a>

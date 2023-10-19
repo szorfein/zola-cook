@@ -8,9 +8,31 @@
 {% block content %}
 <header>
   <nav>
-    <a class="button circle transparent history" href="/recettes">
+    <a class="button circle transparent history" href="{{ get_url(path='/recettes') }}">
       <i>arrow_back</i>
     </a>
+    <div class="max"></div>
+    <button>
+      <!-- Thanks to: --
+        -- https://blog.shahednasser.com/how-to-easily-add-share-links-for-each-social-media-platform/ --
+      https://css-tricks.com/simple-social-sharing-links/
+        -- -->
+      <i>share</i>
+      <span>Partager</span>
+      <menu class="right no-wrap">
+        <a href="https://www.facebook.com/sharer.php?u={{ page.permalink | safe }}&quote={{ page.title }}" target="blank">facebook</a>
+        <a href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ page.permalink | safe }}" target="blank">twitter</a>
+        <a href="https://www.linkedin.com/sharing/share-offsite/?url={{ page.permalink | safe }}" target="blank">linkedin</a>
+        <a href="https://wa.me/?text={{ page.permalink | safe }}" target="blank">whatsapp</a>
+        <a href="https://t.me/share/url?url={{ page.permalink | safe }}&text={{ page.title }}" target="blank">telegram</a>
+        <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl={{ page.permalink | safe }}&caption={{ page.title }}" target="blank">tumblr</a>
+        <a href="https://www.reddit.com/submit?url={{ page.permalink | safe }}&title={{ page.title }}" target="blank">reddit</a>
+        <a href="https://pinterest.com/pin/create/link/?url={{ page.permalink | safe }}&description={{ page.title }}" target="blank">pinterest</a>
+      </menu>
+    </button>
+    <button class="border" onClick="window.print()">
+      <i>print</i>
+    </button>
   </nav>
 </header>
 
@@ -21,12 +43,12 @@
     <div class="s12">
       {% if page.extra.feature_image %}
       {% if page.extra.unsplash %}
-      <img class="responsive medium banner-img" src="{{ page.extra.feature_image }}&fm=webp&q=80">
+      <img class="responsive medium banner-img" src="{{ page.extra.feature_image | safe }}&fm=webp&q=80" alt="image de {{ page.title }}">
       {% elif page.extra.imagekit %}
       {% set site = load_data(path="site.toml") %}
-      <img class="responsive medium banner-img" src="{{ site.imagekit_url }}/tr:f-webp,q-80/{{ page.extra.feature_image }}">
+      <img class="responsive medium banner-img" src="{{ site.imagekit_url | safe }}/tr:f-webp,q-80/{{ page.extra.feature_image }}" alt="image de {{ page.title }}">
       {% else %}
-      <img class="responsive medium banner-img" src="{{ page.extra.feature_image }}">
+      <img class="responsive medium banner-img" src="{{ page.extra.feature_image | safe }}" alt="image de {{ page.title }}">
       {% endif %}
       {% endif %}
 

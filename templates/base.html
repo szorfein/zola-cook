@@ -10,8 +10,8 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <meta name="google" content="notranslate">
     {% block title %} {% endblock %}
-    <meta property="og:site_name" content="{{ config.title }}" />
-    <meta property="og:locale" content="{{ config.default_language }}" />
+    <meta property="og:site_name" content="{{ config.title }}">
+    <meta property="og:locale" content="{{ config.default_language }}">
     <link rel="icon" type="image/x-icon" href="{{ get_url(path='/favicon.ico') }}">
     <link href="{{ get_url(path='/site.css') }}" type="text/css" rel="stylesheet" media="all">
     <link href="{{ get_url(path='/print.css') }}" type="text/css" rel="stylesheet" media="print">
@@ -19,7 +19,7 @@
     {% block rss %}
     <link rel="alternate" type="application/atom+xml" title="RSS" href="{{ get_url(path="atom.xml", trailing_slash=false) }}">
     {% endblock %}
-    <script defer>
+    <script>
       function initEdgioRum() {
           new Edgio.Metrics({
               token: '51fcedfe-b3a3-4989-bfbc-52ba6b70c59b'
@@ -29,8 +29,8 @@
     <script src="https://rum.edgio.net/latest.js" defer onload="initEdgioRum()">
     </script>
   {% block js %} {% endblock %}
-    <script type="text/javascript" src="{{ get_url(path='/app.js') }}"></script>
-    <script type="text/javascript">
+    <script src="{{ get_url(path='/app.js') }}"></script>
+    <script>
       window.onload = function() {
           load_explore();
           load_change_color();
@@ -52,7 +52,7 @@
     <!-- for medium and large -->
     <nav class="m l left">
       {{ nav::routes() }}
-      <a href="/tags">
+      <a href="{{ get_url(path='/tags') }}">
         <i>my_location</i>
         <span>Tags</span>
       </a>
