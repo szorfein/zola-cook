@@ -16,7 +16,7 @@
 
 {% block content %}
 <article class="no-elevate round no-padding large page bottom active">
-  <img class="responsive" src="{{ site.banner_img }}" alt="Bannière du site">
+  <img class="responsive" src="{{ site.banner_img | safe }}" alt="Bannière du site">
   <div class="absolute middle center middle center-align white-text">
     <h1 class="center-align upper">Zola cook</h1>
     <h6>Zola contient des recettes de cuisine du monde.</h6>
