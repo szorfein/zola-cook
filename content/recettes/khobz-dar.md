@@ -28,8 +28,8 @@ preparations = [
   "Dégaser la pâte et la séparer en 2 ou 4. Former des boules et les plonger dans la semoule.",
   "Poser les boules sur du papier de cuisson (tout rentre sur une feuille normalement).",
   "Applatir les boules jusqu'a environ 1 centimètre d'épaisseur.",
-  "Faites une entaille en forme de croix sur chaque cercle.",
-  "Laisser poser la pâte pendant 20 minutes dans un endroit chaud (entre 20-23°C)",
+  "Faites une entaille en forme de croix ou 3 entailles sur chaque pains.",
+  "Laisser poser la pâte pendant 10 minutes dans un endroit chaud (entre 20-23°C)",
   "Enfourner à 250°C pendant 14 minutes."
 ]
 +++

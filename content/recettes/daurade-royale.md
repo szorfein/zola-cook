@@ -35,7 +35,7 @@ ingredients_3 = [
   "2 gros oignons",
   "4 tomates",
   "2 poivrons (facultatif)",
-  "1 piment vert (facultatif)",
+  "2 piments vert (facultatif)",
   "2 càc de thym",
 ]
 preparations = [
@@ -52,4 +52,4 @@ preparations = [
   "Enlever l'aluminium et laisser cuire encore 30 minutes à 180°C."
 ]
 +++
-Daurade royale à la marocaine. On la fait au four mais vous pouvez utilisé une cocotte ou un tajine si vous avez.
+Daurade royale à la marocaine. Cette recette utilise un four pour la cuisson mais vous pouvez utilisé une cocotte ou un tajine si vous avez.
