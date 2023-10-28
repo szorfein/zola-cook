@@ -1,5 +1,5 @@
 +++
-title = "Vol au vent"
+title = "Vol-au-vent"
 date = 2023-10-28
 
 [taxonomies]
@@ -30,7 +30,7 @@ preparations = [
   "Ajouter et cuire les oignons avec les champignons pendant 2 à 3 minutes avec 1 pincée de sel.",
   "Ajouter les gousses d'ail, le concentré de tomate, le thym et cuire 1 minute.",
   "Déglacer avec le fond de volaille.",
-  "Ajouter les tomates, les olives, le laurrier.",
+  "Ajouter les tomates, les olives, le laurrier et la viande.",
   "Laisser mijoter 30 minutes à feu doux et sans couvercle. La sauce doit réduire.",
   "Au moment de servir, découper les chapeaux des vols au vent. Enfourner-les 5 minutes à 200°C.",
   "Remplisser-les de farce encore chaude."
