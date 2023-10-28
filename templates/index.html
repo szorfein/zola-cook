@@ -1,4 +1,5 @@
 {% import "macros/material.html" as material %}
+{% import "macros/helpers.html" as helpers %}
 {% import "head.html" as head %}
 {% import "macros/tag.html" as tag %}
 {% import "macros/categorie.html" as categorie %}
@@ -10,13 +11,13 @@
 {% set site = load_data(path="site.toml") %}
 {{ head::title(name = "Zola Cook") }}
 {{ head::meta_simple(title = "Zola Cook",
-  description = "Zola Cook présente de nombreuses recettes de cuisine.",
-  image = site.banner_img) }}
+description = "Zola Cook présente de nombreuses recettes de cuisine.",
+image = site.banner_img) }}
 {% endblock title %}
 
 {% block content %}
 <article class="no-elevate round no-padding large page bottom active">
-  <img class="responsive" src="{{ site.banner_img | safe }}" alt="Bannière du site">
+  {{ helpers::banner_unsplash(name=site.banner_img, title="Bannière du site") }}
   <div class="absolute middle center middle center-align white-text">
     <h1 class="center-align upper">Zola cook</h1>
     <h6>Zola contient des recettes de cuisine du monde.</h6>
