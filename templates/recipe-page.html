@@ -1,3 +1,4 @@
+{% import "macros/helpers.html" as helpers %}
 {% extends "base.html" %}
 
 {% block title %}
@@ -43,10 +44,12 @@
     <div class="s12">
       {% if page.extra.feature_image %}
       {% if page.extra.unsplash %}
-      <img class="responsive medium banner-img" src="{{ page.extra.feature_image | safe }}&fm=webp&q=80" alt="image de {{ page.title }}">
+      {{ helpers::b_unsplash(name=page.extra.feature_image, title=page.title) }}
       {% elif page.extra.imagekit %}
       {% set site = load_data(path="site.toml") %}
-      <img class="responsive medium banner-img" src="{{ site.imagekit_url | safe }}/tr:f-webp,q-80/{{ page.extra.feature_image }}" alt="image de {{ page.title }}">
+      {{ helpers::b_imagekit(endpoint=site.imagekit_url, name=page.extra.feature_image, title=page.title) }}
+      <!--<img class="responsive medium banner-img" src="{{ site.imagekit_url | safe }}/tr:f-webp,q-80/{{ page.extra.feature_image }}" alt="image de {{ page.title }}">
+      -->
       {% else %}
       <img class="responsive medium banner-img" src="{{ page.extra.feature_image | safe }}" alt="image de {{ page.title }}">
       {% endif %}
