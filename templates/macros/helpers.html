@@ -1,0 +1,15 @@
+{% macro b_imagekit(endpoint, name, title) %}
+<img class="responsive medium banner-img"
+     src="{{ endpoint | safe }}/tr:q-80,h-1024/{{ name }}"
+     alt="image de {{ title }}">
+{% endmacro b_image_imagekit %}
+
+{% macro b_unsplash(name, title, height=1024) %}
+<img class="responsive medium banner-img"
+     src="{{ name | safe }}&fm=webp&h={{ height }}&fit=max"
+     alt="image de {{ title }}">
+{% endmacro b_unsplash %}
+
+{% macro banner_unsplash(name, title, height=1024) %}
+<img class="responsive" src="{{ name | safe }}&fm=webp&h={{ height }}&fit=max" alt="{{ title }}">
+{% endmacro banner_unsplash %}
