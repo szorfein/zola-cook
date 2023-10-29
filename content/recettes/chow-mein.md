@@ -15,7 +15,7 @@ ingredients = [
   "100 g de viande (boeuf: bavette ou viande pour steack) (poulet: cuisse / poitrine) (facultatif)",
   "100 g de germes de soja (facultatif)",
   "40g de ciboulette thaï / oignon vert ou cébette",
-  "2 gousses d'ail et 2 centimètre de gingembre",
+  "1 gousse d'ail et 1 centimètre de gingembre",
   "huile de cuisson raffinée"
 ]
 ingredients_2_title = "Pour la marinade"
@@ -25,7 +25,7 @@ ingredients_2 = [
   "1 càs de sauce huitre ou une autre de soja",
   "1 càs de sauce soja foncée ou une autre de soja",
   "1/2 càc de bicarbonate de soude alimentaire ou levure chimique",
-  "2 càc de vin de cuisine (shaoxing, sake, blanc ou rouge) (facultatif)",
+  "1 càs de vin de cuisine (shaoxing, sake, blanc ou rouge) (facultatif)",
   "1 càc de sucre",
   "1 pincée de poivre"
 ]
@@ -35,7 +35,7 @@ ingredients_3 = [
   "1 càs de sauce soja",
   "1 càs de sauce huitre ou une autre de soja",
   "1 càs de sauce soja foncée ou une autre de soja",
-  "2 càc de vinaigre (blanc, rouge, riz ou balsamique)",
+  "1 càs de vinaigre (blanc, rouge, riz ou balsamique)",
   "1 càc de sucre brun",
   "1 càc de fond en poudre (de volaille pour poulet) (de veau pour boeuf) (facultatif)",
   "1 càc de purée de piment (facultatif)",

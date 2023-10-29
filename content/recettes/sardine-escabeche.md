@@ -4,7 +4,6 @@ date = 2023-10-12
 
 [taxonomies]
 categories = ["plat principal"]
-tags = ["maghreb"]
 
 [extra]
 feature_image = "sardine-escabeche.webp"
