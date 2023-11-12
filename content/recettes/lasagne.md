@@ -32,8 +32,8 @@ ingredients_2 = [
 ]
 ingredients_3_title = "Pour la béchamel"
 ingredients_3 = [
-  "60 g de beurre",
-  "60 g de farine",
+  "50 g de beurre",
+  "70 g de farine",
   "1 L de lait",
   "40 g de parmesan",
   "1 càc de sel",
