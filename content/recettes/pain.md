@@ -11,7 +11,7 @@ unsplash = true
 feature = true
 ingredients = [
   "300 gr de farine T45 ou T55",
-  "200 ml d'eau",
+  "190 ml d'eau",
   "4 gr de sel",
   "4 gr de sucre",
   "7 gr de levure boulangère fraîche ou 1 sachet de levure boulangère sèche.",
@@ -20,7 +20,6 @@ ingredients = [
 ingredients_2_title = "Pour les graines"
 ingredients_2 = [
   "1 càs de graine de sésame (facultatif)",
-  "ou 1 càs de graine de courge (facultatif)",
   "ou 1 càs d'ail déshydraté (facultatif)",
 ]
 preparations = [
@@ -31,10 +30,10 @@ preparations = [
   "Préchauffer le four pendant 1 minute, la température a l'intérieur doit être dans les 20°C.",
   "Faire reposer la pâte dans le four pendant 1 heure.",
   "1 heure plus tard, ajouter le sel, les 100 gr de farine restant et pétrir.",
-  "Ajouter les graines si vous en mettez. Attention pour l'ail, il va humidifier la pâte en se réhydratant, ne l'ajouter qu'a l'étape '11'.",
+  "Ajouter les graines/ail si vous en voulez.",
   "Une fois que la pâte est assez souple, ajouter l'huile d'olive.",
   "Faire reposer la pâte dans le four pendant 1 heure.",
-  "Séparer la pâte en 2 patons d'environ 256 gr, former des boules et les placer sur du papier de cuissson.",
+  "Séparer la pâte en 2 patons d'environ 256 g, former des boules et les placer sur du papier de cuissson.",
   "Laisser poser une dernière fois pendant 30 minutes dans un endroit à 20-22°C.",
   "Préchauffer le four à 240°C avec un moule à cake remplit à moitié d'eau.",
   "Enfourner pour 18 minutes.",
