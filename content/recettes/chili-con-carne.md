@@ -15,9 +15,8 @@ ingredients = [
   "2 oignons",
   "2 carottes ou 1 poivron",
   "1 branche de céleri",
-  "2 càs de concentré de tomate",
-  "4 gousses d'ail",
   "1 càs de fécule (à diluer) ou farine de maîs",
+  "le jus d'un citron vert",
   "50 cl de fond de boeuf ou veau",
   "1 càc d'origan séché",
   "400 g de tomates (frais ou en boite)",
@@ -25,9 +24,11 @@ ingredients = [
 ]
 ingredients_2_title = "Pour la poudre de chili maison"
 ingredients_2 = [
-  "1 càs de graine ou poudre de cumin",
-  "2 càc de paprika en poudre",
-  "2 clous de girofle",
+  "1 càs de graine ou cumin en poudre",
+  "1 càs de 4 épices ou poivre de jamaique",
+  "1 càs de paprika en poudre",
+  "1 càs de concentré de tomate",
+  "4 gousses d'ail haché",
   "1 pincée de poivre noir",
 ]
 ingredients_3_title = "Pour les piments"
@@ -47,10 +48,10 @@ preparations = [
   "Ciseler les légumes.",
   "Dans une cocotte, faites revenir la viande avec 1 pincée de sel puis réserver la.",
   "Ajouter et faire revenir les légumes (oignons, celeri et la carotte ou poivron) avec 1 pincée de sel.",
-  "Ensuite ajouter le concentré de tomate, l'ail écraser et hacher et les épices torrefier. Cuire 1 à 2 minutes.",
+  "Ensuite ajouter le concentré de tomate, l'ail écraser et hacher et les épices torrefier. Cuire 1 à 2 minutes puis ajouter la farine ou la fécule.",
   "Déglacer les sucs de cuisson avec le fond de viande.",
-  "Rincer et ajouter les haricots, le laurier, les tomates, la farine ou la fécule de maîs et les 750 ml d'eau.",
-  "Cuire à couvert et à feu doux jusqu'a ce que la viande et les haricots soit cuient. Environ 1h30 à 2 heures."
+  "Rincer et ajouter les haricots, le laurier, les tomates et les 750 ml d'eau.",
+  "Cuire à feu doux sans couvercle (la sauce doit réduire) jusqu'a ce que la viande et les haricots soit cuient. Environ 1h30 à 2 heures."
 ]
 +++
 Recette originaire du Texas pour 8 personnes. Servir avec du riz, tortilla.
