@@ -10,31 +10,41 @@ tags = ["maghreb"]
 feature_image = "jeri.webp"
 imagekit = true
 ingredients = [
-  "1 kg d'agneau (gigot, épaule, collier)",
+  "600-700g d'agneau (gigot, épaule, collier) ou Poulet",
   "3 oignons",
-  "500 g de pois chiche sec",
-  "1 céleri",
-  "2 càs de concentré de tomate",
+  "350 g de pois chiche sec",
+  "400 g de tomates",
+  "2 branches de céleri",
   "1 bouquet de menthe fraîche",
   "1 bouquet de coriandre fraîche",
   "poivre, sel",
-  "vermicelle ou 100 g de frik ou 100 g de boulgour fin",
-  "2 gousses d'ail",
-  "Huile d'olive"
+  "vermicelle (30g par pers) ou 100 g de frik ou 100 g de boulgour fin",
+  "3 Litres d'eau",
+  "Huile d'olive",
+  "Bicarbonate de soude alimentaire (facultatif)",
+]
+ingredients_2_title = "Mélange a torrefier"
+ingredients_2 = [
+  "3 gousses d'ail",
+  "1 càs de concentré de tomate",
+  "1 cac de paprika doux ou 1/2 poivre noir (facultatif)",
 ]
 preparations = [
-  "La veille, faire tremper les pois chiche dans un grand volume d'eau.",
-  "Ciseler les oignons",
-  "Dans un mixeur, ajouter le céleri, 1 poignée de feuille de menthe et les tiges de la coriandre.",
+  "La veille, faire tremper les pois chiche dans un grand volume d'eau et 1 cac de bicarbonate de soude alimentaire (aide à gonfler).",
+  "Emincer les oignons, le celeri et les tomates.",
   "Dans une cocotte, ajouter 3 càs d'huile",
-  "Faites revenir l'agneau pendant 4 minutes sur une face puis retourner les morceaux pour les faire dorer aussi et réserver.",
-  "Ajouter et cuire les oignons avec 1 pincée de sel, cela permettra de déglacer les sucs de cuisson.",
-  "Ajouter le concentré de tomate avec les gousses d'ail écrasées puis hacher, 1/2 càc de poivre et cuire 1 minute.",
-  "Déglacer avec un verre d'eau puis remettre la viande, le mélange du mixeur (céleri, tige de coriandre, menthe) et les pois chiches.",
-  "Recouvrir d'eau, saler à votre convenance. Cuire à couvert et à feu doux pendant 1h ou jusqu'à ce que la viande soit cuite.",
+  "Faites revenir l'agneau sur toutes les faces (bien dorée) et réserver.",
+  "Ajouter et cuire les oignons (vous pouvez baisser le feu si besoin), cela permettra de déglacer les sucs de cuisson.",
+  "Ajouter et cuire le celeri.",
+  "Ajouter le 'mélange à torréfier' pendant 1 minute et bien remuer pour ne pas faire bruler.",
+  "Ajouter les tomates, cuire encore 2-3 minutes puis couper le feu.",
+  "Dans un mixeur, ajouter tout le mélange oignion, céleri, tomates, et 1 poignée de feuille de menthe et les tiges de la coriandre.",
+  "Ensuite, vous pouvez tout réunir dans une cocotte minute, autocuiseur (20 minutes de cuisson) ou une marmitte (1h30 de cuisson).",
+  "Recouvrir d'eau (3 litres), cuire jusqu'a ce que la viande et les pois chiche soient cuits.",
+  "Salez si besoin.",
   "Pour le frik ou le boulgour, ajouter les 12 minutes avant de servir.",
-  "Pour des vermicelles (~80g par personnes), faites-les cuire à part puis chacun se sert."
+  "Pour des vermicelles, ajoutez-les 2 minutes avant de servir."
 ]
 +++
-Variante de la chorba avec plus de menthe, de pois chiche et d'eau. En Algérie, c'était le fameux Jéri frik. Après l'éxode des pieds-noirs en 1962, trouver du frik en France était difficile. Nos grands-parents lui ont trouver un substitut local: les 'cheveux d'anges'.
+Variante de la chorba avec plus de menthe (pour 6 personnes). En Algérie, c'était le fameux Jéri frik. Après l'éxode des pieds-noirs en 1962, trouver du frik en France était difficile. Nos grands-parents lui ont trouver un substitut local: les 'cheveux d'anges'.
 
