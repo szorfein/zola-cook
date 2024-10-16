@@ -10,12 +10,13 @@ categories = ["plat principal"]
 feature_image = "https://images.unsplash.com/photo-1632640109249-e21e369b8773?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA"
 unsplash = true
 ingredients = [
-  "500 gr de brousse ou 500 gr de ricotta",
+  "400 gr de brousse ou 400 gr de ricotta",
   "1 boite de petits pois (environ 500 gr égoutté) en conserve ou en bocal",
   "3 oeufs + 1 jaune d'oeuf pour la dorure",
   "2 pates feuilleté",
-  "1 poignée de persil ciselé",
-  "sel",
+  "1 cas de de persil haché frais si possible",
+  "1/2 cac de sel",
+  "1/2 cac de thym",
   "poivre",
 ]
 preparations = [

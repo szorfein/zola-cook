@@ -19,6 +19,7 @@ ingredients_2 = [
   "250 g de crevettes séchées ou 300 g fraîche même congelée (facultatif)",
   "500 g d'oignons (3-4)",
   "4 celeris (garder les feuilles pour la garniture)",
+  "1 navet blanc",
   "1 bouquet de coriandre fraîche (garder les feuilles pour la garniture)",
   "80 g de champignons noire déshydraté",
   "2 càc de gros sel",
@@ -35,13 +36,13 @@ ingredients_3 = [
   "le jus de 4 citrons jaune",
   "1/2 piment vert haché",
   "8 gousses d'ail écrasé et haché",
-  "10 càc de sucre",
+  "10 càc de sucre (facultatif)",
   "2 càc de purée de piment (facultatif)"
 ]
 preparations = [
   "Réhydrater les champignons noire dans de l'eau et les rincer plusieurs fois (peut contenir du sable)",
   "Ensuite le bouillon, dans une grande marmite, ajouter tous les ingrédients, pas besoin de couper la viande. Couper les oignons en 2, mettez aussi les tiges de la coriandre, vous pouvez aussi ajouter les crevettes fraîche ou surgelé.",
-  "Recouvrir d'eau et cuire 1 h 30 à feu doux et à couvert après ébullition.",
+  "Recouvrir d'eau et cuire 1 h 30 à feu doux et à couvert après ébullition, dans une cocotte minute ou un autocuiseur, il faut 30 minutes de cuisson seulement.",
   "Pendant ce temps, préparer la sauce. Dans un saladier, mélanger tous les ingrédients, gouter et arranger selon vos goûts.",
   "Ensuite les éléments de garniture, placer chaque éléments dans des coupelles séparées.",
   "Hacher 1 oignon, emincer les feuilles de celeris et les feuilles de coriandre.",

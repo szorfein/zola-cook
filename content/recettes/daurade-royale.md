@@ -10,46 +10,45 @@ tags = ["maghreb"]
 feature_image = "daurade-royale.webp"
 imagekit = true
 ingredients = [
-  "2 dorades royale",
+  "1 à 2 daurades royale",
   "1 citron jaune",
+  "2 kg de pommes de terre",
+  "2 gros oignons",
+  "4 tomates",
+  "1 poivron",
+  "1 piments vert (facultatif)",
+  "2 cas de thym",
 ]
 ingredients_2_title = "La chermoula"
 ingredients_2 = [
-  "le jus de 1 citron jaune",
-  "1 càs de concentré de tomate",
-  "50 ml d'eau",
-  "5 gousses d'ail",
-  "1 càc de safran ou de curcuma (5 g)",
-  "1 càc de cumin",
+  "le jus de 1/2 citron jaune",
+  "6 gousses d'ail",
   "Les tiges 1/2 de bouquet de coriandres fraiches",
   "Les tiges 1/2 de bouquet de persil frais",
-  "5 càs d'huile d'olive",
+  "7 càs d'huile d'olive (210ml)",
   "1 càc de gros sel",
-  "1/2 càc de poivre",
+  "1/2 càc de poivre noir",
   "1 càc de fond de poisson en poudre (facultatif)",
   "1 piment vert (facultatif)",
 ]
-ingredients_3_title = "Les légumes"
+ingredients_3_title = "Infusion"
 ingredients_3 = [
-  "1 kg de pommes de terre",
-  "2 gros oignons",
-  "4 tomates",
-  "2 poivrons (facultatif)",
-  "2 piments vert (facultatif)",
-  "2 càc de thym",
+  "500ml d'eau",
+  "safran (~15 pistils ou en poudre)",
+  "2 cac de curcuma"
 ]
 preparations = [
-  "Préparer la chermoula, cette sauce nous servira pour faire mariner le poisson et parfumer nos légumes.",
-  "Si vous avez un mixeur, passer tous les éléments de la chermoula. Sinon haché au couteau les tiges de persil/coriandres et l'ail, puis ajouter le reste.",
-  "Préparer les dorades. Enlever les écailles, les nageoires et videz-les.",
-  "Mettez un peu de chermoula dans les dorades (ventre, branchies) et badigeonner les sur toutes les faces. Vous pourrez aussi ajouter quelques feuilles de coriandres/persil dans le ventre.",
-  "Mettez-les dans un plat et laisser-les mariner avec un film alimentaire le temps de préparer les légumes.",
-  "Emincer les oignons, les tomates, les pommes de terre, le piment vert et les poivrons.",
-  "Dans votre plat, versez tous les légumes avec le thym et le reste de chermoula. Mélanger.",
-  "Recouvrir tous les légumes avec de l'eau et placer les dorades au dessus.",
-  "Couper des tranches de citrons jaune et metter-les sur les dorades. Parsemer le reste des tranches de citron sur le plat.",
-  "Couvrer le plat avec une feuille d'aluminium et enfourner 1h à 200°C.",
-  "Enlever l'aluminium et laisser cuire encore 30 minutes à 180°C."
+  "Préparer l'infusion, dans un recipient avec 500ml d'eau chaude, mettre le safran et le curcuma et laisser infusé tranquillement.",
+  "Préparer la chermoula, cette marinade nous servira pour à parfumer le poisson et nos légumes.",
+  "Vous pouvez la faire au mixeur, au pillon/mortier, ou tout hachée au couteau.",
+  "Préparer les daurades. Enlever les écailles, les nageoires et videz-les.",
+  "Placer les daurades dans un recipient et badigionner les avec la moitié de la chermoula (dans le ventre, les branchies) et sur toutes les faces, filmer le recipient et laisser mariner au frais.",
+  "Ensuite, il faut émincer tout les légumes, oignons, tomates, pommes de terre, piment vert et poivrons.",
+  "Dans votre plat allant au four, versez tous les légumes avec le thym, le reste de chermoula et l'infusion safran/curcuma. Mélanger.",
+  "Enfourner à 180°C pendant 1 heure.",
+  "Après une heure de cuisson, sortez les daurades et les placer au dessus des légumes, couper 1 citron en rondelle et les disposé dessus, cela protegera le poisson durant la cuisson.",
+  "Enfourner encore 30 minutes (toujours à 180¨C).",
+  "Verifiez que les pommes de terre soient bien cuitent. Sinon laissez un peu plus longtemps (genre 10 minutes)."
 ]
 +++
 Daurade royale à la marocaine. Cette recette utilise un four pour la cuisson mais vous pouvez utilisé une cocotte ou un tajine si vous avez.
