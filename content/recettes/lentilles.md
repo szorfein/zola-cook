@@ -10,24 +10,28 @@ feature_image = "https://images.unsplash.com/photo-1583592655948-4742830f0072?ix
 unsplash = true
 feature = true
 ingredients = [
-  "400 gr de chipolatas",
-  "300 gr de lard de porc nature",
-  "300 gr de saucisses de toulouse",
   "1 kg de lentilles vertes",
+  "200 gr de chipolatas",
+  "300 gr de lard (porc, veau) nature",
+  "300 gr de saucisses de toulouse",
   "800 gr de tomates",
   "4 oignons",
   "2 poivrons",
   "6 gousses d'ail",
-  "Thym/Laurier",
+  "2 cac de thym",
+  "2 feuilles de laurier",
+  "500 ml de fond de veau",
+  "4L d'eau",
 ]
 preparations = [
-  "Dans une marmite, faites cuire les lentilles avec le thym et le laurier jusqu'a ce qu'elles soient ferme.",
-  "Une fois les lentilles cuites, les égouttées et garder le jus de cuisson.",
-  "Dans une casserole, faites cuire les viandes de porc puis metter les de coté.",
-  "Dans le gras de la viande, ajouter les oignons, l'ail et les poivrons, bien faire cuire.",
-  "Ajouter les tomates cuire 5 minutes.",
-  "Dans une marmite, mélanger le jus des lentilles avec le mélange de la casserole (oignons, poivrons, ail, tomates), vous pouvez mixer le mélange si vous n'aimez pas les morceaux.",
-  "Ajouter les viandes, faites bouillir et remettre les lentilles.",
+  "Emincer les oignons et les poivrons.",
+  "Faire revenir le lard puis reserver le.",
+  "Faites de même avec les saucisses.",
+  "Ensuite, on ajoute les oignons, poivrons et le thym.",
+  "Les gousses d'ail écraser.",
+  "Ajouter les tomates, cuire 5 minutes et couper le feu.",
+  "Mixer le mélange oignons, poivrons, tomates, ails.",
+  "Réunir tout les ingrédients (lentilles, viandes, eau, etc...) dans une cocotte minute ou un autocuiseur (15 minutes de cuisson) ou une marmitte pour (30 à 40 minutes).",
   "Ajouter du sel et de l'eau si besoin."
 ]
 +++

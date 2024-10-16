@@ -7,7 +7,7 @@ title = "Zola Cook"
 default_language = "fr_FR"
 
 # When set to "true", a feed is automatically generated.
-generate_feed = true
+generate_feeds = true
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
