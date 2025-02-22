@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://szorfein-zola-cook-default.edgio.link"
+base_url = "https://recipes-zola.surge.sh"
 
 title = "Zola Cook"
 
