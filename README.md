@@ -7,9 +7,9 @@ A static site with famillial cooking recipes in french (some cooking recipes are
 Many images used on the site come from [unsplash](https://unsplash.com), others are stored on [imagekit.io](https://imagekit.io/).
 
 ## Install
-The site is deployed with edgio, you need to install the cli tool:
+The site is deployed with surge, you need to install the cli tool:
 
-    npm install @edgio/cli
+    npm install surge --save-dev
 
 ## Build
 
@@ -19,11 +19,13 @@ Add content to the `public/` dir:
 
 And deploy:
 
-    ./node_modules/.bin/edgio deploy
+    cd public
+    ../node_modules/.bin/surge
+    domain: recipes-zola.surge.sh
 
 ## Deployed
 
-Site deployed at: https://szorfein-zola-cook-default.edgio.link
+Site deployed at: https://recipes-zola.surge.sh/
 
 ### Responsive image
 

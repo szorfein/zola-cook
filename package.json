@@ -10,11 +10,11 @@
   "version": "1.0.0",
   "main": "index.js",
   "devDependencies": {
-    "@edgio/cli": "^7.13.8",
     "@edgio/core": "^7.13.8",
     "@edgio/devtools": "^7.13.8",
     "@edgio/nodejs-connector": "^7.13.8",
-    "@edgio/prefetch": "^7.13.8"
+    "@edgio/prefetch": "^7.13.8",
+    "surge": "^0.24.6"
   },
   "keywords": [],
   "author": "",
