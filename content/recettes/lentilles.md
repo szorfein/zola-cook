@@ -11,27 +11,36 @@ unsplash = true
 feature = true
 ingredients = [
   "1 kg de lentilles vertes",
-  "200 gr de chipolatas",
-  "300 gr de lard (porc, veau) nature",
-  "300 gr de saucisses de toulouse",
   "800 gr de tomates",
-  "4 oignons",
+  "3 oignons",
   "2 poivrons",
-  "6 gousses d'ail",
-  "2 cac de thym",
   "2 feuilles de laurier",
   "500 ml de fond de veau",
-  "4L d'eau",
+  "3L d'eau",
+  "1 càc de gros sel"
+]
+ingredients_2_title = "Les Viandes (700-800g)"
+ingredients_2 = [
+  "200 gr de chipolatas",
+  "300 gr de lard (porc, veau) nature",
+  "300 gr de saucisses de toulouse"
+]
+ingredients_3_title = "Mélange à torréfier"
+ingredients_3 = [
+  "1 càs de thym",
+  "6 gousses d'ail",
+  "2 càs de concentré de tomate",
+  "2 càc de paprika doux"
 ]
 preparations = [
   "Emincer les oignons et les poivrons.",
-  "Faire revenir le lard puis reserver le.",
-  "Faites de même avec les saucisses.",
-  "Ensuite, on ajoute les oignons, poivrons et le thym.",
-  "Les gousses d'ail écraser.",
-  "Ajouter les tomates, cuire 5 minutes et couper le feu.",
+  "Faire revenir les viandes et reserver les.",
+  "Ensuite, on ajoute les oignons, poivrons.",
+  "Des que les légumes sont cuient, on ajoute le mélange à torréfier, laisser cuire 1 minute à feu doux en remuant pour ne pas bruler les épices.",
+  "Ajouter les tomates, cuire 5 à 10 minutes.",
   "Mixer le mélange oignons, poivrons, tomates, ails.",
-  "Réunir tout les ingrédients (lentilles, viandes, eau, etc...) dans une cocotte minute ou un autocuiseur (15 minutes de cuisson) ou une marmitte pour (30 à 40 minutes).",
+"Couper les saucisses et le lard en morceaux (facultatif).",
+  "Réunir tout les ingrédients (lentilles, viandes, eau, etc...) dans une marmitte et cuire 20 minutes.",
   "Ajouter du sel et de l'eau si besoin."
 ]
 +++
