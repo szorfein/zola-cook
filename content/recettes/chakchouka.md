@@ -24,8 +24,9 @@ ingredients = [
 ]
 ingredients_2_title = "Mélange a torréfier"
 ingredients_2 = [
-  "2 cac de ras-el-hanout",
-  "1 cac de paprika",
+  "1 càs de ras-el-hanout",
+  "2 cac de paprika",
+  "2 càc de coriandre moulu",
   "1/4 cac de canelle",
   "3 gousses d'ail",
 ]
@@ -41,6 +42,6 @@ preparations = [
   "Ajouter les feuilles de coriandre ciselé."
 ]
 +++
-Chakchouka pour 2-3 personnes.  
+Chakchouka pour 3 personnes.  
 
 Servir avec des {{ link(url="/recettes/matlou", word="galettes") }} ou du pain.

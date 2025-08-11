@@ -18,7 +18,7 @@ ingredients_2 = [
   "1.5 kg de viande avec des os (1 poulet entier avec des cuisses ou du blanc ou du porc ou de boeuf)",
   "250 g de crevettes séchées ou 300 g fraîche même congelée (facultatif)",
   "500 g d'oignons (3-4)",
-  "4 celeris (garder les feuilles pour la garniture)",
+  "4 branches de celerie (garder les feuilles pour la garniture)",
   "1 navet blanc",
   "1 bouquet de coriandre fraîche (garder les feuilles pour la garniture)",
   "80 g de champignons noire déshydraté",
