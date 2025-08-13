@@ -1,6 +1,6 @@
 # zola-cook
 A static site with famillial cooking recipes in french (some cooking recipes are very hard to translate and quantity to convert in oz, cup or other... Just to annoying :)), made with
-[zola](https://www.getzola.org/) and deployed with [edgio](https://edgio.app/).
+[zola](https://www.getzola.org/) and deployed on [surge.sh](https://surge.sh/).
 
 [beercss](https://www.beercss.com/) is used to build a nice ui interface with [material design](https://m3.material.io/).
 
