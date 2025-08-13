@@ -50,4 +50,4 @@ preparations = [
   "Verifiez que les pommes de terre soient bien cuitent. Sinon laissez un peu plus longtemps (genre 10 minutes)."
 ]
 +++
-Tajine de Daurade royale à la marocaine pour 6 personnes. Cette recette utilise un four pour la cuisson mais vous pouvez utilisé une cocotte ou un tajine si vous avez.
+Tajine de Daurade royale à la marocaine pour 6 personnes. Cette recette utilise un four pour la cuisson mais vous pouvez utilisé une marmitte en fonte ou un tajine si vous avez.
