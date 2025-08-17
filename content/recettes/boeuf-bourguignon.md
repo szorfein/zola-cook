@@ -3,7 +3,7 @@ title = "Boeuf Bourguignon"
 date = 2023-09-02
 
 [taxonomies]
-categories = ["plat principal"]
+categories = ["plat principal", "ragoût ou tajine"]
 
 [extra]
 feature_image = "boeuf-bourguignon.webp"

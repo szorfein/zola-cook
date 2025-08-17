@@ -3,7 +3,7 @@ title = "Chili Con Carne"
 date = 2023-10-02
 
 [taxonomies]
-categories = ["plat principal"]
+categories = ["plat principal", "ragoût ou tajine"]
 
 [extra]
 feature_image = "https://images.unsplash.com/photo-1658308766948-01c85ade2737?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA"
