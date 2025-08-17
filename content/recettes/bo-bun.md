@@ -3,7 +3,7 @@ title = "Bò bún"
 date = 2023-09-18
 
 [taxonomies]
-categories = ["plat principal"]
+categories = ["plat principal", "salade"]
 tags = ["asie"]
 
 [extra]
