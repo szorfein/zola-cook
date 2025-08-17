@@ -1,3 +1,5 @@
++ New tajine poulet citron
+
 # Release 1.10 - 13 AUG 2025 
 News recipes
 + Lablabi (Tunisian)
